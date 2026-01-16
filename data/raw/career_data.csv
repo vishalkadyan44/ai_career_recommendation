@@ -1,0 +1,1001 @@
+ExtracurricularActivities,Skills,Location,YearOfStudy,Subjects,GPA,Languages,ClubMemberships,InterestArea
+Debate Club,Problem Solving,Andhra Pradesh,Freshman,Psychology,6.54,"Chinese, Japanese, Spanish, German, French","Music Club, Art Club, Sports Team, Debate Club, Coding Club",Computer science
+Debate Club,"Leadership, Problem Solving, Public Speaking, Data Analysis, Programming",Arunachal Pradesh,Graduate,Physics,6.34,"French, English, Chinese, Spanish, Japanese","Art Club, Music Club, Sports Team, Coding Club",History
+Volunteer Group,"Data Analysis, Leadership, Public Speaking, Artistic, Problem Solving",Assam,Junior,Biology,4.18,"Spanish, Japanese, German, French","Music Club, Art Club, Debate Club, Volunteer Group, Coding Club, Sports Team",Biology
+Volunteer Group,"Public Speaking, Data Analysis, Problem Solving",Andaman & Nicobar Islands,Graduate,Biology,5.12,"Japanese, Chinese, Spanish, French","Sports Team, Volunteer Group",Computer science
+Sports Team,Data Analysis,Chandigarh,Graduate,Computer Science,4.02,English,"Sports Team, Volunteer Group, Music Club",Biology
+Debate Club,"Public Speaking, Artistic",Dadra & Nagar Haveli and Daman & Diu,Junior,History,5.98,Japanese,"Art Club, Coding Club, Volunteer Group",Mathematics
+Art Club,"Public Speaking, Problem Solving, Data Analysis, Artistic",Delhi,Senior,Psychology,6.7,"Chinese, English, Spanish, German","Music Club, Debate Club, Sports Team",Computer science
+Volunteer Group,"Programming, Public Speaking, Artistic, Leadership",Jammu & Kashmir,Junior,Psychology,7.28,"Chinese, Japanese, Spanish","Debate Club, Art Club, Coding Club, Volunteer Group",Computer science
+Sports Team,"Leadership, Artistic, Problem Solving, Public Speaking, Programming, Data Analysis",Ladakh,Senior,Mathematics,5.94,"German, English, Japanese, Chinese",Music Club,Computer science
+Sports Team,"Programming, Data Analysis, Problem Solving, Leadership",Lakshadweep,Junior,History,6.06,"Chinese, German, Spanish","Coding Club, Volunteer Group, Music Club",Computer science
+Sports Team,"Programming, Leadership, Artistic, Data Analysis",Puducherry,Freshman,Psychology,6.04,"German, English, Spanish, French","Coding Club, Sports Team, Art Club",Computer science
+Coding Club,"Public Speaking, Programming, Problem Solving, Leadership",Bihar,Freshman,Biology,7.92,German,"Sports Team, Debate Club",Mathematics
+Music Club,"Programming, Artistic, Problem Solving",Chhattisgarh,Junior,Mathematics,5.96,"English, Japanese, Chinese, Spanish, German, French","Debate Club, Volunteer Group, Music Club, Art Club, Sports Team",History
+Sports Team,"Artistic, Problem Solving, Programming",Goa,Freshman,Biology,4.96,Japanese,"Art Club, Debate Club, Music Club",History
+Music Club,"Artistic, Problem Solving, Public Speaking, Data Analysis",Gujarat,Senior,Computer Science,5.08,German,"Sports Team, Coding Club, Music Club, Debate Club, Volunteer Group",Computer science
+Debate Club,"Artistic, Programming, Leadership",Haryana,Freshman,Computer Science,5.0,English,"Coding Club, Debate Club, Music Club, Sports Team, Art Club",Biology
+Music Club,"Data Analysis, Programming, Problem Solving, Public Speaking, Leadership, Artistic",Himachal Pradesh,Junior,Physics,6.0,"Chinese, Japanese, English","Volunteer Group, Debate Club, Art Club, Music Club",Mathematics
+Volunteer Group,"Data Analysis, Problem Solving, Public Speaking",Jharkhand,Sophomore,Computer Science,7.82,Japanese,"Volunteer Group, Sports Team, Art Club, Coding Club",Mathematics
+Coding Club,"Programming, Artistic, Public Speaking, Data Analysis, Leadership, Problem Solving",Karnataka,Freshman,Biology,4.88,"English, German","Debate Club, Sports Team, Art Club, Coding Club",Biology
+Debate Club,"Public Speaking, Leadership, Artistic, Data Analysis, Problem Solving, Programming",Kerala,Sophomore,History,7.28,"Chinese, German, Spanish, English, French, Japanese",Debate Club,Computer science
+Coding Club,"Programming, Public Speaking, Data Analysis, Leadership, Problem Solving",Madhya Pradesh,Freshman,Mathematics,4.72,"German, Chinese, French","Art Club, Volunteer Group, Debate Club",History
+Sports Team,"Problem Solving, Data Analysis, Leadership, Artistic",Maharashtra,Junior,Psychology,7.6,"Spanish, English","Art Club, Music Club",Computer science
+Volunteer Group,"Artistic, Leadership, Data Analysis, Problem Solving, Public Speaking",Manipur,Graduate,Mathematics,7.62,"Chinese, English, German, French, Japanese, Spanish","Coding Club, Art Club",Computer science
+Music Club,"Public Speaking, Data Analysis, Artistic",Meghalaya,Sophomore,Physics,6.24,"Chinese, English, Japanese, French, Spanish","Debate Club, Art Club, Coding Club, Music Club",Biology
+Coding Club,"Data Analysis, Problem Solving, Artistic, Public Speaking, Leadership, Programming",Mizoram,Junior,Physics,5.58,"English, Spanish, Japanese, French, Chinese, German","Debate Club, Sports Team, Music Club, Coding Club, Art Club",Mathematics
+Debate Club,"Artistic, Problem Solving, Leadership, Programming, Data Analysis, Public Speaking",Nagaland,Junior,Physics,5.54,"Japanese, Chinese, Spanish","Sports Team, Art Club, Music Club, Debate Club",History
+Sports Team,"Problem Solving, Artistic, Data Analysis, Programming, Leadership, Public Speaking",Odisha,Senior,History,6.84,English,"Sports Team, Volunteer Group, Debate Club, Art Club, Coding Club, Music Club",Mathematics
+Volunteer Group,"Programming, Data Analysis",Punjab,Graduate,Biology,6.54,Spanish,Sports Team,Mathematics
+Art Club,"Data Analysis, Leadership",Rajasthan,Junior,Psychology,5.82,Chinese,Music Club,Computer science
+Music Club,"Data Analysis, Public Speaking",Sikkim,Senior,History,5.92,"Chinese, Japanese, French, English, Spanish","Debate Club, Art Club, Music Club, Coding Club, Volunteer Group",Computer science
+Debate Club,"Artistic, Programming, Public Speaking, Problem Solving, Data Analysis",Tamil Nadu,Sophomore,Biology,4.52,"English, Chinese, Spanish","Art Club, Sports Team, Volunteer Group, Coding Club, Music Club, Debate Club",History
+Volunteer Group,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking, Artistic",Telangana,Graduate,Computer Science,6.02,"Chinese, French, Spanish","Debate Club, Coding Club, Art Club, Music Club",History
+Debate Club,"Public Speaking, Programming",Tripura,Senior,Computer Science,5.66,"German, Japanese, Chinese, French","Coding Club, Sports Team, Art Club, Music Club",History
+Volunteer Group,"Data Analysis, Programming, Public Speaking",Uttar Pradesh,Sophomore,History,4.38,"English, German","Debate Club, Volunteer Group, Sports Team, Coding Club, Art Club, Music Club",Biology
+Art Club,Data Analysis,Uttarakhand,Junior,Physics,6.2,"German, English, Spanish, French, Chinese, Japanese",Volunteer Group,Computer science
+Music Club,"Leadership, Programming, Problem Solving",West Bengal,Senior,Psychology,6.24,"Spanish, German, Japanese, English, French","Art Club, Debate Club",Biology
+Sports Team,"Data Analysis, Public Speaking, Programming, Artistic, Problem Solving",Andhra Pradesh,Sophomore,History,6.92,"German, Chinese, English, French",Art Club,Biology
+Volunteer Group,"Artistic, Public Speaking, Data Analysis, Leadership, Programming, Problem Solving",Arunachal Pradesh,Sophomore,Computer Science,7.34,German,"Coding Club, Music Club, Volunteer Group, Sports Team, Art Club, Debate Club",Mathematics
+Sports Team,"Programming, Public Speaking, Data Analysis, Problem Solving",Assam,Freshman,Mathematics,6.48,German,"Debate Club, Art Club",Computer science
+Coding Club,"Data Analysis, Leadership, Programming",Andaman & Nicobar Islands,Senior,Mathematics,5.02,"English, Spanish","Coding Club, Music Club",History
+Music Club,"Programming, Artistic, Public Speaking, Leadership",Chandigarh,Senior,Psychology,4.84,"English, Chinese, Spanish, French, Japanese, German","Coding Club, Music Club, Art Club, Volunteer Group, Sports Team, Debate Club",History
+Art Club,"Data Analysis, Leadership, Programming, Public Speaking, Problem Solving",Dadra & Nagar Haveli and Daman & Diu,Freshman,Mathematics,5.3,German,"Music Club, Debate Club, Volunteer Group",History
+Sports Team,"Problem Solving, Data Analysis, Public Speaking, Programming, Artistic, Leadership",Delhi,Sophomore,Mathematics,7.54,"Chinese, Spanish, English","Art Club, Debate Club, Volunteer Group, Sports Team",Computer science
+Volunteer Group,"Data Analysis, Artistic, Leadership, Programming, Problem Solving",Jammu & Kashmir,Freshman,Psychology,5.44,"Spanish, Chinese, Japanese","Coding Club, Sports Team",Mathematics
+Sports Team,Problem Solving,Ladakh,Freshman,History,7.36,"French, English",Coding Club,Mathematics
+Sports Team,Artistic,Lakshadweep,Junior,Mathematics,6.24,German,Art Club,Mathematics
+Sports Team,"Artistic, Data Analysis, Programming, Problem Solving, Leadership",Puducherry,Sophomore,Biology,5.8,"German, English",Sports Team,Mathematics
+Music Club,"Artistic, Programming, Problem Solving",Bihar,Sophomore,History,4.22,"German, Japanese","Sports Team, Art Club",History
+Music Club,"Leadership, Public Speaking, Programming, Data Analysis, Artistic, Problem Solving",Chhattisgarh,Freshman,Psychology,7.98,"English, German, Chinese, Spanish, Japanese",Music Club,Mathematics
+Sports Team,"Leadership, Public Speaking",Goa,Senior,History,5.28,"Spanish, French, Japanese, German","Art Club, Coding Club, Volunteer Group, Music Club, Sports Team",History
+Debate Club,"Data Analysis, Artistic, Leadership, Public Speaking, Problem Solving, Programming",Gujarat,Senior,Computer Science,4.34,"Spanish, English, French, Japanese, German, Chinese","Music Club, Debate Club, Sports Team, Volunteer Group",History
+Sports Team,Public Speaking,Haryana,Graduate,Mathematics,4.22,"French, English, Chinese, Japanese, German, Spanish","Sports Team, Music Club, Volunteer Group, Debate Club, Coding Club",History
+Sports Team,"Public Speaking, Leadership, Programming, Data Analysis",Himachal Pradesh,Senior,Mathematics,4.52,"Japanese, Chinese","Volunteer Group, Sports Team, Coding Club",History
+Sports Team,"Programming, Public Speaking",Jharkhand,Senior,Biology,4.26,"French, Japanese, German","Coding Club, Sports Team, Volunteer Group",History
+Music Club,"Artistic, Problem Solving, Leadership, Programming, Data Analysis, Public Speaking",Karnataka,Senior,Computer Science,7.5,"English, German, Spanish, Japanese","Music Club, Debate Club, Volunteer Group",Computer science
+Music Club,"Leadership, Programming, Artistic, Public Speaking",Kerala,Graduate,Mathematics,7.1,"French, German","Art Club, Debate Club, Sports Team, Music Club, Volunteer Group",Mathematics
+Sports Team,"Problem Solving, Artistic, Programming, Leadership, Public Speaking",Madhya Pradesh,Junior,Mathematics,4.88,"English, Japanese, Spanish","Sports Team, Music Club, Volunteer Group, Debate Club, Art Club, Coding Club",Biology
+Volunteer Group,"Artistic, Leadership",Maharashtra,Senior,History,6.46,"Japanese, Spanish, English, French","Debate Club, Art Club, Coding Club, Volunteer Group, Music Club",History
+Art Club,"Problem Solving, Leadership, Artistic, Programming, Public Speaking, Data Analysis",Manipur,Senior,Psychology,7.48,"German, Chinese, English",Art Club,Computer science
+Sports Team,"Leadership, Public Speaking, Programming",Meghalaya,Junior,Biology,4.84,Japanese,"Music Club, Volunteer Group, Coding Club, Art Club",Biology
+Sports Team,Data Analysis,Mizoram,Freshman,Physics,7.24,"French, Chinese, German, English",Coding Club,Computer science
+Volunteer Group,"Public Speaking, Programming, Leadership, Problem Solving, Artistic, Data Analysis",Nagaland,Junior,History,5.66,Spanish,"Debate Club, Coding Club, Art Club, Volunteer Group, Sports Team",History
+Sports Team,"Leadership, Artistic, Data Analysis",Odisha,Junior,Physics,7.26,"Spanish, German, Chinese, Japanese","Sports Team, Debate Club, Volunteer Group, Music Club, Coding Club",Mathematics
+Debate Club,"Data Analysis, Artistic, Leadership, Programming, Problem Solving, Public Speaking",Punjab,Graduate,Computer Science,6.28,"Japanese, French, German, Chinese, English, Spanish","Art Club, Coding Club",Biology
+Music Club,Programming,Rajasthan,Senior,Psychology,7.64,"Chinese, Japanese, German, English","Music Club, Volunteer Group, Sports Team, Art Club, Debate Club, Coding Club",Computer science
+Debate Club,"Artistic, Problem Solving, Public Speaking, Programming",Sikkim,Sophomore,Psychology,5.82,"Chinese, German","Volunteer Group, Music Club, Art Club, Sports Team, Debate Club, Coding Club",Biology
+Coding Club,"Programming, Data Analysis",Tamil Nadu,Sophomore,Biology,4.68,"Spanish, English, French, Chinese, German, Japanese","Music Club, Art Club",History
+Art Club,Programming,Telangana,Graduate,Psychology,6.86,"German, Spanish, French, Japanese, English","Music Club, Sports Team",Mathematics
+Coding Club,"Problem Solving, Leadership, Public Speaking",Tripura,Freshman,Physics,5.06,"Spanish, German, English",Art Club,Computer science
+Music Club,"Programming, Public Speaking, Leadership, Data Analysis, Problem Solving",Uttar Pradesh,Freshman,History,6.62,"German, French, English, Japanese, Spanish, Chinese","Debate Club, Music Club, Coding Club, Art Club, Sports Team",Biology
+Volunteer Group,"Data Analysis, Programming, Problem Solving, Leadership, Public Speaking",Uttarakhand,Sophomore,Biology,5.42,"Chinese, Japanese, French, English, Spanish, German","Music Club, Debate Club, Art Club",Biology
+Volunteer Group,Programming,West Bengal,Sophomore,Biology,7.12,English,"Sports Team, Debate Club, Volunteer Group",Computer science
+Coding Club,"Leadership, Data Analysis, Problem Solving, Programming, Public Speaking",Andhra Pradesh,Graduate,Physics,4.84,"Japanese, French",Volunteer Group,History
+Volunteer Group,Artistic,Arunachal Pradesh,Freshman,Computer Science,7.36,"French, German, Japanese","Volunteer Group, Music Club, Sports Team, Art Club, Coding Club, Debate Club",Mathematics
+Music Club,"Data Analysis, Problem Solving, Artistic, Programming, Leadership",Assam,Senior,Psychology,5.76,"French, Japanese","Debate Club, Volunteer Group, Coding Club, Music Club, Sports Team, Art Club",Computer science
+Debate Club,"Artistic, Programming, Leadership, Data Analysis, Public Speaking, Problem Solving",Andaman & Nicobar Islands,Senior,History,7.8,Chinese,Art Club,Mathematics
+Debate Club,"Problem Solving, Programming, Artistic",Chandigarh,Senior,Physics,5.3,"Spanish, German, French, Japanese, English, Chinese","Debate Club, Music Club, Sports Team",History
+Debate Club,"Leadership, Public Speaking, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Junior,Mathematics,7.24,"French, English, Spanish, Chinese, German, Japanese","Art Club, Coding Club, Music Club, Volunteer Group, Sports Team, Debate Club",Computer science
+Volunteer Group,"Artistic, Public Speaking, Data Analysis, Programming, Leadership, Problem Solving",Delhi,Junior,Mathematics,6.32,"German, Chinese","Sports Team, Music Club, Coding Club",History
+Sports Team,Programming,Jammu & Kashmir,Senior,Psychology,5.76,"French, English, Spanish, German","Debate Club, Volunteer Group, Coding Club, Art Club",Mathematics
+Volunteer Group,"Data Analysis, Programming, Problem Solving",Ladakh,Junior,History,5.88,"French, Chinese, English, Japanese","Debate Club, Sports Team, Volunteer Group, Music Club",Biology
+Art Club,"Programming, Data Analysis, Problem Solving, Artistic",Lakshadweep,Senior,Mathematics,6.3,"German, French, Spanish, Chinese","Coding Club, Sports Team, Debate Club, Volunteer Group, Music Club, Art Club",History
+Art Club,"Artistic, Leadership, Data Analysis",Puducherry,Senior,Computer Science,5.38,"Spanish, Japanese, French","Sports Team, Debate Club, Volunteer Group, Coding Club",Mathematics
+Debate Club,"Leadership, Problem Solving, Programming, Public Speaking",Bihar,Freshman,Physics,4.5,English,"Sports Team, Art Club, Volunteer Group, Music Club, Coding Club",History
+Coding Club,"Artistic, Programming, Leadership, Public Speaking",Chhattisgarh,Senior,Biology,4.28,"Japanese, Chinese","Volunteer Group, Music Club, Coding Club, Debate Club",History
+Debate Club,"Artistic, Data Analysis, Public Speaking",Goa,Junior,History,7.38,"French, English, Chinese, German","Debate Club, Volunteer Group, Music Club",Mathematics
+Art Club,"Data Analysis, Leadership, Programming, Problem Solving, Public Speaking, Artistic",Gujarat,Junior,Mathematics,4.22,"German, Chinese, Spanish","Sports Team, Art Club, Debate Club, Volunteer Group",History
+Art Club,"Programming, Data Analysis",Haryana,Graduate,Computer Science,6.0,"German, Japanese, French, Spanish, English","Coding Club, Art Club, Sports Team",History
+Art Club,"Artistic, Data Analysis",Himachal Pradesh,Freshman,Mathematics,5.16,"English, French, Chinese","Music Club, Volunteer Group, Debate Club, Sports Team",History
+Music Club,"Programming, Leadership, Public Speaking, Artistic, Problem Solving, Data Analysis",Jharkhand,Senior,Psychology,7.46,"French, Japanese, English, German, Spanish, Chinese","Sports Team, Coding Club",Computer science
+Volunteer Group,"Artistic, Leadership, Programming, Problem Solving",Karnataka,Senior,Computer Science,6.54,"Spanish, German, Chinese, English, Japanese",Coding Club,Mathematics
+Music Club,"Problem Solving, Leadership, Artistic, Public Speaking, Data Analysis",Kerala,Senior,Physics,7.42,German,"Coding Club, Sports Team, Art Club, Volunteer Group, Music Club",Computer science
+Art Club,Data Analysis,Madhya Pradesh,Senior,Mathematics,4.06,"French, Chinese","Art Club, Music Club, Debate Club, Coding Club, Sports Team, Volunteer Group",History
+Sports Team,Leadership,Maharashtra,Sophomore,Computer Science,4.3,"English, Chinese, German, Japanese, French, Spanish",Sports Team,History
+Volunteer Group,"Programming, Leadership, Problem Solving, Data Analysis",Manipur,Senior,Physics,6.08,"German, French, Chinese, Japanese, English",Art Club,Mathematics
+Art Club,Data Analysis,Meghalaya,Sophomore,History,5.6,"English, Japanese, Chinese","Debate Club, Volunteer Group, Sports Team, Coding Club",History
+Music Club,"Artistic, Data Analysis",Mizoram,Junior,Biology,5.32,"English, French, Japanese, German, Chinese","Art Club, Volunteer Group, Sports Team, Debate Club",Mathematics
+Coding Club,Data Analysis,Nagaland,Senior,Biology,4.5,"Chinese, Spanish",Volunteer Group,History
+Debate Club,"Leadership, Programming, Data Analysis, Public Speaking, Artistic, Problem Solving",Odisha,Senior,History,5.88,"Chinese, Spanish, German",Music Club,History
+Music Club,"Public Speaking, Leadership, Artistic, Programming, Problem Solving",Punjab,Senior,Psychology,5.34,"Spanish, French, Chinese","Art Club, Volunteer Group, Sports Team, Music Club, Debate Club, Coding Club",Computer science
+Coding Club,"Data Analysis, Problem Solving, Artistic, Programming, Public Speaking",Rajasthan,Sophomore,Biology,7.96,"English, Chinese, French","Sports Team, Art Club, Debate Club, Music Club",Mathematics
+Music Club,"Leadership, Programming, Data Analysis, Public Speaking",Sikkim,Sophomore,Biology,7.04,"German, French, Japanese","Sports Team, Debate Club, Coding Club",Mathematics
+Debate Club,"Public Speaking, Problem Solving, Programming, Data Analysis",Tamil Nadu,Senior,History,7.36,"German, Japanese, English, Chinese, French, Spanish","Sports Team, Debate Club, Volunteer Group",Mathematics
+Debate Club,"Leadership, Programming, Data Analysis, Problem Solving, Public Speaking",Telangana,Junior,Mathematics,7.14,"French, Japanese, Spanish, German, English, Chinese","Art Club, Debate Club",Mathematics
+Coding Club,"Leadership, Artistic, Programming, Data Analysis",Tripura,Sophomore,Biology,7.74,"Japanese, English, Spanish, Chinese, French, German","Sports Team, Music Club",Computer science
+Volunteer Group,"Data Analysis, Programming, Public Speaking, Artistic, Problem Solving, Leadership",Uttar Pradesh,Sophomore,Psychology,4.34,"English, German, Chinese","Art Club, Debate Club, Coding Club, Music Club, Volunteer Group",History
+Coding Club,"Leadership, Artistic, Problem Solving, Public Speaking",Uttarakhand,Sophomore,Biology,5.28,"French, Spanish, Chinese, German","Volunteer Group, Art Club, Coding Club, Sports Team, Debate Club",Mathematics
+Music Club,"Programming, Data Analysis, Public Speaking, Problem Solving, Artistic",West Bengal,Junior,Psychology,7.38,"Spanish, English, French, Chinese","Volunteer Group, Art Club, Music Club, Sports Team, Coding Club, Debate Club",Mathematics
+Volunteer Group,"Data Analysis, Public Speaking, Problem Solving, Artistic",Andhra Pradesh,Graduate,Physics,7.56,"Japanese, German, French, English, Chinese","Art Club, Coding Club, Volunteer Group, Music Club",Mathematics
+Debate Club,"Programming, Leadership",Arunachal Pradesh,Freshman,Physics,5.94,"Spanish, English, Chinese","Music Club, Sports Team",History
+Music Club,"Public Speaking, Artistic, Leadership",Assam,Senior,Computer Science,7.28,"Spanish, German, Japanese","Debate Club, Music Club, Art Club",Computer science
+Debate Club,Artistic,Andaman & Nicobar Islands,Junior,Physics,5.96,Japanese,"Sports Team, Debate Club, Volunteer Group, Art Club, Coding Club, Music Club",History
+Volunteer Group,"Data Analysis, Programming",Chandigarh,Sophomore,History,7.12,Spanish,Coding Club,Computer science
+Debate Club,"Programming, Artistic, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Sophomore,Mathematics,7.38,"Spanish, Chinese, English","Art Club, Debate Club, Coding Club, Music Club",Mathematics
+Coding Club,Problem Solving,Delhi,Freshman,Mathematics,5.38,"German, Japanese",Volunteer Group,Mathematics
+Coding Club,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking",Jammu & Kashmir,Sophomore,History,5.14,"English, Spanish","Art Club, Volunteer Group, Coding Club",Computer science
+Sports Team,"Data Analysis, Leadership, Artistic, Problem Solving, Programming, Public Speaking",Ladakh,Freshman,Physics,4.62,"German, English, Japanese, Spanish, French, Chinese",Volunteer Group,History
+Volunteer Group,"Public Speaking, Problem Solving, Leadership",Lakshadweep,Sophomore,Biology,4.86,"Chinese, Spanish, Japanese","Coding Club, Debate Club",History
+Sports Team,Artistic,Puducherry,Junior,Computer Science,4.68,"Japanese, Spanish, Chinese, English","Debate Club, Coding Club, Art Club, Volunteer Group, Sports Team, Music Club",History
+Volunteer Group,"Problem Solving, Programming, Public Speaking, Artistic",Bihar,Junior,Mathematics,5.5,"German, English, Japanese","Volunteer Group, Sports Team, Coding Club, Art Club, Music Club, Debate Club",Computer science
+Art Club,"Data Analysis, Programming, Public Speaking, Leadership, Problem Solving, Artistic",Chhattisgarh,Senior,History,4.74,"Chinese, English, German, Japanese, Spanish","Debate Club, Sports Team, Music Club, Volunteer Group, Coding Club",History
+Debate Club,"Programming, Leadership",Goa,Senior,Physics,4.24,"Spanish, English, German","Debate Club, Sports Team, Music Club, Art Club, Coding Club, Volunteer Group",Biology
+Debate Club,"Public Speaking, Programming",Gujarat,Graduate,Computer Science,4.34,"English, Spanish, Chinese, French, German, Japanese","Art Club, Debate Club",Biology
+Debate Club,"Public Speaking, Data Analysis, Leadership, Problem Solving",Haryana,Junior,Biology,7.12,"Chinese, German","Music Club, Debate Club, Sports Team, Art Club, Volunteer Group",Computer science
+Music Club,"Public Speaking, Programming, Artistic, Data Analysis, Problem Solving",Himachal Pradesh,Senior,Computer Science,4.94,"Japanese, French","Debate Club, Music Club, Art Club, Coding Club, Volunteer Group",Biology
+Volunteer Group,"Artistic, Problem Solving",Jharkhand,Sophomore,Biology,7.0,"German, English, Spanish, French, Chinese","Debate Club, Volunteer Group",Computer science
+Volunteer Group,"Artistic, Leadership",Karnataka,Junior,Biology,7.58,"Spanish, French, Japanese, German","Art Club, Music Club, Debate Club",Computer science
+Debate Club,"Programming, Problem Solving",Kerala,Sophomore,History,6.04,"German, Spanish, English, Japanese","Coding Club, Art Club, Music Club, Debate Club, Volunteer Group",Computer science
+Debate Club,Public Speaking,Madhya Pradesh,Freshman,Computer Science,7.5,"French, Chinese, Spanish","Coding Club, Sports Team, Debate Club, Music Club",Computer science
+Art Club,"Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership, Programming",Maharashtra,Senior,Physics,7.06,"German, English, French",Volunteer Group,Computer science
+Music Club,"Public Speaking, Programming, Problem Solving, Artistic",Manipur,Sophomore,Psychology,5.32,"French, Spanish","Volunteer Group, Sports Team, Debate Club, Music Club, Coding Club",Computer science
+Sports Team,"Data Analysis, Artistic",Meghalaya,Sophomore,Computer Science,4.44,Chinese,"Volunteer Group, Art Club, Debate Club, Music Club, Sports Team, Coding Club",History
+Debate Club,"Leadership, Problem Solving, Artistic, Public Speaking",Mizoram,Senior,History,4.76,"Chinese, Spanish, German, English, Japanese",Volunteer Group,Biology
+Volunteer Group,"Public Speaking, Problem Solving, Artistic, Programming",Nagaland,Freshman,Mathematics,6.26,"Spanish, Chinese, French, English, Japanese","Music Club, Art Club, Volunteer Group, Debate Club, Coding Club, Sports Team",History
+Music Club,"Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking, Programming",Odisha,Graduate,Physics,6.7,"French, German, Spanish, Japanese, English, Chinese","Music Club, Volunteer Group, Debate Club, Sports Team",Mathematics
+Debate Club,"Public Speaking, Artistic, Leadership",Punjab,Sophomore,Physics,4.66,"Japanese, Chinese, French, English","Art Club, Music Club",History
+Volunteer Group,Data Analysis,Rajasthan,Freshman,Computer Science,5.98,"German, English, Japanese, Spanish, Chinese","Art Club, Sports Team",Biology
+Sports Team,"Leadership, Problem Solving",Sikkim,Freshman,Biology,5.02,"English, French, German, Chinese, Spanish","Debate Club, Sports Team, Coding Club, Art Club, Music Club",Mathematics
+Volunteer Group,"Leadership, Public Speaking, Data Analysis, Problem Solving, Programming, Artistic",Tamil Nadu,Freshman,Computer Science,6.08,Chinese,"Debate Club, Music Club, Volunteer Group, Sports Team",Computer science
+Debate Club,"Programming, Data Analysis, Problem Solving, Leadership, Public Speaking, Artistic",Telangana,Senior,History,5.82,"English, Chinese, Spanish, German","Debate Club, Art Club, Sports Team",Computer science
+Coding Club,"Programming, Public Speaking, Artistic, Leadership, Data Analysis, Problem Solving",Tripura,Graduate,Physics,5.3,"German, Chinese, English, Japanese","Sports Team, Art Club, Debate Club, Coding Club",Mathematics
+Art Club,"Leadership, Artistic",Uttar Pradesh,Junior,Psychology,4.94,"English, French, German","Debate Club, Art Club, Volunteer Group, Music Club",History
+Art Club,"Artistic, Problem Solving, Data Analysis, Programming",Uttarakhand,Freshman,Psychology,5.64,"Japanese, German, English, Chinese, Spanish",Sports Team,Mathematics
+Art Club,"Artistic, Problem Solving, Leadership, Data Analysis, Programming, Public Speaking",West Bengal,Senior,Biology,6.52,"French, English, Spanish","Sports Team, Music Club, Debate Club, Coding Club",History
+Art Club,"Programming, Artistic, Leadership, Data Analysis",Andhra Pradesh,Graduate,Physics,6.16,"English, Spanish, German","Music Club, Art Club, Volunteer Group",Mathematics
+Sports Team,"Data Analysis, Leadership, Programming, Artistic",Arunachal Pradesh,Junior,Computer Science,5.64,Chinese,"Music Club, Volunteer Group, Coding Club, Art Club, Sports Team, Debate Club",History
+Sports Team,Leadership,Assam,Sophomore,Computer Science,7.94,"Spanish, English, German, Chinese, French","Coding Club, Music Club",Computer science
+Music Club,"Public Speaking, Problem Solving, Programming, Artistic, Data Analysis",Andaman & Nicobar Islands,Junior,Mathematics,7.22,"Japanese, Spanish, German, French","Debate Club, Music Club",Mathematics
+Sports Team,"Public Speaking, Data Analysis",Chandigarh,Freshman,Mathematics,4.14,"Chinese, German, French, Spanish, English","Music Club, Volunteer Group, Coding Club, Art Club, Sports Team",Biology
+Coding Club,Data Analysis,Dadra & Nagar Haveli and Daman & Diu,Freshman,Mathematics,5.86,Japanese,"Sports Team, Coding Club, Debate Club, Art Club",Biology
+Volunteer Group,"Artistic, Problem Solving, Public Speaking, Leadership, Programming",Delhi,Senior,Psychology,7.42,"English, Spanish, German","Sports Team, Music Club, Volunteer Group, Art Club, Debate Club, Coding Club",Mathematics
+Coding Club,"Data Analysis, Programming, Public Speaking, Problem Solving",Jammu & Kashmir,Senior,Computer Science,5.14,"German, English, Japanese, Chinese, French, Spanish","Debate Club, Music Club, Art Club, Sports Team, Volunteer Group",Mathematics
+Sports Team,"Artistic, Problem Solving, Data Analysis, Programming, Leadership, Public Speaking",Ladakh,Sophomore,Psychology,5.56,Chinese,"Debate Club, Art Club, Sports Team, Volunteer Group, Music Club, Coding Club",Mathematics
+Art Club,"Public Speaking, Data Analysis",Lakshadweep,Freshman,Physics,5.26,"French, English, Japanese","Volunteer Group, Debate Club",Biology
+Coding Club,Public Speaking,Puducherry,Freshman,Biology,5.4,Japanese,"Sports Team, Coding Club",History
+Debate Club,"Leadership, Programming",Bihar,Freshman,History,5.96,"Japanese, English, French, Chinese, Spanish","Debate Club, Volunteer Group, Sports Team",History
+Art Club,"Programming, Public Speaking, Problem Solving, Leadership, Artistic, Data Analysis",Chhattisgarh,Freshman,Physics,7.18,"Spanish, German, English, Japanese, French","Music Club, Debate Club",Computer science
+Volunteer Group,"Leadership, Artistic",Goa,Freshman,Mathematics,7.36,"Chinese, Japanese, English, Spanish, French","Art Club, Debate Club, Volunteer Group",Computer science
+Sports Team,"Public Speaking, Artistic, Leadership, Data Analysis",Gujarat,Graduate,Biology,7.72,"German, Spanish, English, French, Chinese","Art Club, Volunteer Group, Music Club, Sports Team, Coding Club, Debate Club",Mathematics
+Sports Team,"Artistic, Data Analysis, Programming, Problem Solving",Haryana,Junior,Physics,6.68,"French, Japanese, English, German, Chinese","Coding Club, Art Club, Sports Team, Volunteer Group, Debate Club",History
+Sports Team,"Public Speaking, Leadership, Programming",Himachal Pradesh,Junior,Mathematics,7.06,"French, English, Japanese",Volunteer Group,Mathematics
+Volunteer Group,"Artistic, Problem Solving, Programming, Data Analysis",Jharkhand,Freshman,Biology,4.08,"Spanish, Japanese","Volunteer Group, Coding Club, Art Club, Sports Team, Debate Club, Music Club",Biology
+Volunteer Group,"Public Speaking, Leadership, Artistic, Programming",Karnataka,Graduate,Mathematics,7.2,"Chinese, Japanese, German, English, Spanish, French","Sports Team, Art Club",Computer science
+Art Club,Artistic,Kerala,Sophomore,History,6.76,"Chinese, German","Sports Team, Debate Club, Music Club",Mathematics
+Music Club,"Problem Solving, Data Analysis, Programming, Leadership, Artistic, Public Speaking",Madhya Pradesh,Junior,Psychology,6.36,English,Art Club,Mathematics
+Sports Team,"Data Analysis, Leadership, Problem Solving",Maharashtra,Freshman,Computer Science,7.6,English,"Music Club, Art Club, Coding Club, Volunteer Group, Sports Team, Debate Club",Computer science
+Music Club,Problem Solving,Manipur,Freshman,Mathematics,4.62,"German, Japanese, Spanish, English",Sports Team,History
+Debate Club,"Programming, Leadership",Meghalaya,Freshman,Psychology,6.02,"German, English, Chinese, Spanish, French",Volunteer Group,History
+Art Club,"Public Speaking, Programming, Artistic, Data Analysis, Problem Solving, Leadership",Mizoram,Senior,Psychology,7.36,Spanish,"Coding Club, Sports Team, Music Club, Debate Club",Computer science
+Coding Club,"Data Analysis, Leadership, Problem Solving, Public Speaking",Nagaland,Senior,Psychology,7.38,"Spanish, Chinese, English, German, Japanese","Sports Team, Volunteer Group, Art Club, Coding Club, Music Club, Debate Club",Computer science
+Debate Club,"Artistic, Problem Solving",Odisha,Junior,Psychology,5.66,"French, German, Spanish, Chinese",Music Club,Biology
+Debate Club,Leadership,Punjab,Sophomore,History,7.62,French,"Debate Club, Music Club, Coding Club, Volunteer Group, Art Club, Sports Team",Computer science
+Debate Club,"Problem Solving, Artistic",Rajasthan,Junior,History,6.38,"Spanish, German, Chinese","Coding Club, Music Club, Debate Club, Sports Team",Mathematics
+Coding Club,"Artistic, Data Analysis",Sikkim,Senior,History,4.12,"French, Chinese, German, Spanish, Japanese",Volunteer Group,History
+Sports Team,"Leadership, Artistic, Programming",Tamil Nadu,Sophomore,Mathematics,7.94,"Chinese, German","Coding Club, Volunteer Group",Mathematics
+Art Club,"Problem Solving, Artistic, Programming, Data Analysis, Public Speaking, Leadership",Telangana,Graduate,History,6.0,"German, Japanese","Sports Team, Coding Club",Biology
+Debate Club,"Programming, Public Speaking, Problem Solving, Leadership, Data Analysis",Tripura,Sophomore,Computer Science,6.54,"English, German",Volunteer Group,History
+Volunteer Group,"Data Analysis, Artistic, Public Speaking, Problem Solving, Programming",Uttar Pradesh,Graduate,Psychology,5.92,Japanese,"Sports Team, Volunteer Group, Music Club, Coding Club, Art Club",History
+Debate Club,"Problem Solving, Leadership, Public Speaking, Data Analysis",Uttarakhand,Graduate,Mathematics,6.62,English,"Debate Club, Coding Club, Sports Team, Art Club, Music Club, Volunteer Group",Computer science
+Art Club,"Problem Solving, Leadership, Programming, Artistic, Public Speaking, Data Analysis",West Bengal,Graduate,Psychology,7.62,"German, Chinese, Spanish, English, Japanese","Music Club, Sports Team, Coding Club, Debate Club, Art Club",Computer science
+Volunteer Group,"Problem Solving, Leadership, Data Analysis, Artistic",Andhra Pradesh,Junior,Computer Science,7.06,"Spanish, Japanese, English, German, Chinese, French",Art Club,Computer science
+Art Club,"Programming, Data Analysis, Artistic",Arunachal Pradesh,Senior,Psychology,7.8,Spanish,"Sports Team, Music Club",Computer science
+Volunteer Group,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis",Assam,Sophomore,Mathematics,6.02,"Japanese, Chinese, Spanish, German, English","Volunteer Group, Art Club, Music Club",History
+Volunteer Group,"Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership, Programming",Andaman & Nicobar Islands,Senior,History,6.76,"French, German, English, Chinese, Spanish","Volunteer Group, Art Club, Coding Club, Debate Club",Mathematics
+Music Club,"Leadership, Programming, Artistic",Chandigarh,Freshman,History,5.86,"Japanese, Chinese, Spanish","Volunteer Group, Art Club, Sports Team",Biology
+Coding Club,"Artistic, Data Analysis, Public Speaking, Programming, Leadership",Dadra & Nagar Haveli and Daman & Diu,Graduate,Biology,6.36,"English, Japanese, German, French, Spanish, Chinese",Art Club,Mathematics
+Music Club,"Leadership, Programming",Delhi,Junior,Biology,6.54,"Chinese, English, German, Spanish, Japanese","Art Club, Coding Club",Biology
+Music Club,"Programming, Data Analysis, Public Speaking, Artistic, Leadership",Jammu & Kashmir,Junior,Computer Science,5.54,"German, English","Art Club, Debate Club, Volunteer Group",History
+Coding Club,"Programming, Artistic, Data Analysis, Leadership",Ladakh,Sophomore,Biology,6.44,"Spanish, English, French, German, Chinese, Japanese","Sports Team, Art Club",History
+Volunteer Group,"Programming, Artistic",Lakshadweep,Freshman,Psychology,6.38,"French, English, German, Japanese, Chinese, Spanish","Coding Club, Debate Club, Volunteer Group, Sports Team, Art Club",Biology
+Volunteer Group,"Public Speaking, Data Analysis",Puducherry,Sophomore,Mathematics,4.8,"German, Spanish, English, Japanese","Sports Team, Volunteer Group",Biology
+Coding Club,Programming,Bihar,Sophomore,Psychology,7.84,"English, French, German, Japanese","Sports Team, Art Club, Debate Club, Volunteer Group, Music Club",Mathematics
+Art Club,Artistic,Chhattisgarh,Junior,Biology,4.38,"German, Japanese, Spanish, English, French",Volunteer Group,History
+Coding Club,Leadership,Goa,Sophomore,History,4.02,"English, Spanish","Volunteer Group, Coding Club, Debate Club, Music Club, Art Club",Biology
+Volunteer Group,Programming,Gujarat,Graduate,Biology,4.24,"French, Japanese","Music Club, Debate Club, Coding Club, Art Club, Volunteer Group, Sports Team",History
+Sports Team,"Programming, Problem Solving, Data Analysis, Artistic, Public Speaking, Leadership",Haryana,Senior,Physics,6.18,"French, Chinese, Japanese","Music Club, Art Club",Biology
+Volunteer Group,"Leadership, Programming",Himachal Pradesh,Junior,Biology,5.28,Japanese,"Debate Club, Music Club, Coding Club, Sports Team, Volunteer Group",Biology
+Sports Team,Data Analysis,Jharkhand,Senior,Psychology,7.22,"Japanese, Spanish, French, English, German",Music Club,Computer science
+Music Club,"Artistic, Public Speaking",Karnataka,Graduate,History,5.7,"English, Chinese, Japanese, German, Spanish, French","Sports Team, Art Club, Volunteer Group, Coding Club, Debate Club",Computer science
+Music Club,"Problem Solving, Data Analysis, Leadership, Artistic",Kerala,Graduate,History,5.16,"French, Spanish, German, Japanese, Chinese","Volunteer Group, Coding Club",Mathematics
+Volunteer Group,"Data Analysis, Leadership, Artistic, Problem Solving, Public Speaking",Madhya Pradesh,Graduate,Computer Science,5.6,"French, Chinese","Music Club, Sports Team, Volunteer Group",History
+Music Club,"Public Speaking, Artistic, Programming, Data Analysis, Leadership, Problem Solving",Maharashtra,Freshman,Mathematics,4.28,"German, French","Sports Team, Coding Club, Debate Club, Art Club",Biology
+Music Club,"Leadership, Artistic, Data Analysis, Problem Solving, Public Speaking, Programming",Manipur,Freshman,History,6.38,"Chinese, Spanish, German, French, English, Japanese","Volunteer Group, Art Club, Sports Team, Debate Club",Computer science
+Debate Club,"Leadership, Problem Solving",Meghalaya,Freshman,Computer Science,5.04,Japanese,"Volunteer Group, Sports Team, Music Club, Art Club",Biology
+Debate Club,Programming,Mizoram,Senior,Computer Science,5.32,"French, Spanish, Japanese, German",Coding Club,Biology
+Sports Team,Data Analysis,Nagaland,Senior,Biology,7.86,"French, Spanish, Japanese, Chinese, English, German","Sports Team, Art Club, Music Club",Computer science
+Art Club,"Problem Solving, Artistic, Data Analysis",Odisha,Junior,Physics,6.96,"French, Spanish, German, English","Volunteer Group, Sports Team, Art Club, Coding Club, Debate Club",Biology
+Volunteer Group,"Data Analysis, Public Speaking, Artistic",Punjab,Sophomore,Physics,6.62,"Chinese, English, German, Spanish, Japanese","Volunteer Group, Coding Club",History
+Art Club,"Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking, Programming",Rajasthan,Senior,Computer Science,7.0,"French, German",Sports Team,Computer science
+Music Club,"Problem Solving, Public Speaking, Programming, Leadership",Sikkim,Junior,Physics,7.52,"Japanese, German, French","Volunteer Group, Art Club, Coding Club, Sports Team",Computer science
+Music Club,"Public Speaking, Programming, Data Analysis",Tamil Nadu,Junior,Computer Science,5.38,"Japanese, English, Spanish, French, German, Chinese",Debate Club,Computer science
+Coding Club,"Leadership, Programming, Data Analysis, Artistic, Problem Solving",Telangana,Senior,Psychology,4.94,Japanese,"Volunteer Group, Debate Club, Sports Team, Music Club, Art Club, Coding Club",Biology
+Sports Team,"Public Speaking, Programming, Data Analysis",Tripura,Freshman,Computer Science,7.58,"French, German, Japanese, English","Debate Club, Sports Team, Art Club",Computer science
+Volunteer Group,Artistic,Uttar Pradesh,Freshman,Biology,6.68,"English, Japanese, Chinese, Spanish","Art Club, Music Club, Sports Team",Computer science
+Art Club,"Leadership, Artistic, Public Speaking, Programming, Problem Solving",Uttarakhand,Graduate,History,5.98,"French, Japanese",Music Club,Biology
+Volunteer Group,"Public Speaking, Artistic, Data Analysis, Leadership, Programming, Problem Solving",West Bengal,Junior,History,6.32,"French, Chinese, German, Japanese","Debate Club, Sports Team, Volunteer Group, Coding Club",History
+Debate Club,"Data Analysis, Artistic, Problem Solving, Programming, Public Speaking, Leadership",Andhra Pradesh,Senior,History,5.38,"English, Spanish",Debate Club,Mathematics
+Coding Club,"Programming, Artistic, Data Analysis, Leadership, Problem Solving, Public Speaking",Arunachal Pradesh,Sophomore,Biology,6.12,"French, Japanese, Chinese, English, Spanish",Art Club,History
+Art Club,"Programming, Problem Solving, Data Analysis, Public Speaking, Artistic, Leadership",Assam,Senior,Biology,7.18,"Spanish, Japanese, German","Music Club, Debate Club, Coding Club",Mathematics
+Art Club,"Data Analysis, Leadership",Andaman & Nicobar Islands,Junior,Biology,6.48,"Spanish, English, Japanese, German, French","Sports Team, Volunteer Group",Biology
+Debate Club,"Programming, Data Analysis, Public Speaking, Problem Solving",Chandigarh,Sophomore,History,4.2,"German, Japanese, Spanish","Music Club, Coding Club, Sports Team",History
+Volunteer Group,"Data Analysis, Artistic, Public Speaking",Dadra & Nagar Haveli and Daman & Diu,Sophomore,Physics,6.98,Spanish,"Coding Club, Debate Club, Music Club, Volunteer Group, Art Club",History
+Volunteer Group,"Leadership, Problem Solving, Data Analysis",Delhi,Junior,Biology,4.12,"Japanese, English, Spanish, Chinese, French",Music Club,Biology
+Coding Club,"Programming, Public Speaking, Problem Solving, Artistic, Leadership, Data Analysis",Jammu & Kashmir,Sophomore,Physics,5.08,"French, German, Spanish, Chinese, English, Japanese",Music Club,Mathematics
+Sports Team,"Leadership, Public Speaking, Programming, Problem Solving",Ladakh,Sophomore,Biology,5.74,"Spanish, English, Chinese, German","Art Club, Debate Club",History
+Volunteer Group,"Leadership, Public Speaking",Lakshadweep,Freshman,Computer Science,6.52,"Chinese, English, French, German, Japanese","Music Club, Art Club, Debate Club, Coding Club, Sports Team, Volunteer Group",Computer science
+Coding Club,"Leadership, Problem Solving, Programming, Public Speaking",Puducherry,Freshman,Mathematics,6.14,"Japanese, Chinese, Spanish, English","Art Club, Volunteer Group, Debate Club, Sports Team, Coding Club",Biology
+Volunteer Group,Public Speaking,Bihar,Graduate,Computer Science,5.74,"Spanish, French, Chinese, German","Debate Club, Coding Club",History
+Sports Team,Leadership,Chhattisgarh,Junior,Mathematics,7.56,"German, Spanish, French","Coding Club, Music Club",Computer science
+Coding Club,"Programming, Public Speaking, Leadership, Artistic, Data Analysis",Goa,Freshman,Biology,6.54,"Chinese, Japanese, French","Volunteer Group, Art Club, Coding Club, Debate Club, Sports Team, Music Club",History
+Music Club,"Programming, Problem Solving, Artistic, Public Speaking, Leadership, Data Analysis",Gujarat,Graduate,Biology,5.0,"Spanish, English, French, Japanese","Music Club, Art Club, Volunteer Group",History
+Music Club,Data Analysis,Haryana,Senior,Mathematics,7.5,Spanish,"Sports Team, Coding Club",Mathematics
+Coding Club,"Programming, Problem Solving, Data Analysis",Himachal Pradesh,Graduate,Biology,5.06,"German, Japanese, English, French, Chinese","Music Club, Sports Team, Art Club, Coding Club, Volunteer Group",Computer science
+Volunteer Group,"Programming, Leadership, Public Speaking, Data Analysis, Problem Solving",Jharkhand,Graduate,Biology,6.94,"Spanish, English, Chinese","Debate Club, Art Club, Music Club, Coding Club, Sports Team, Volunteer Group",Biology
+Music Club,"Problem Solving, Public Speaking",Karnataka,Senior,History,7.28,"Spanish, English, French, Chinese","Music Club, Art Club, Sports Team, Debate Club",Computer science
+Debate Club,Leadership,Kerala,Graduate,Physics,6.5,"German, French",Volunteer Group,Computer science
+Coding Club,"Problem Solving, Leadership, Programming, Public Speaking, Data Analysis",Madhya Pradesh,Sophomore,Mathematics,6.12,"German, Japanese, French, Spanish","Art Club, Volunteer Group",History
+Music Club,"Problem Solving, Artistic, Leadership, Data Analysis, Programming, Public Speaking",Maharashtra,Graduate,History,6.94,"Japanese, German, French","Volunteer Group, Music Club, Art Club, Sports Team, Debate Club, Coding Club",History
+Music Club,"Programming, Data Analysis, Problem Solving, Public Speaking",Manipur,Senior,Psychology,7.26,"English, French, German","Music Club, Sports Team, Art Club",Computer science
+Music Club,Problem Solving,Meghalaya,Graduate,History,5.68,"Spanish, French, German, English","Sports Team, Volunteer Group, Coding Club, Debate Club, Art Club, Music Club",Mathematics
+Volunteer Group,"Problem Solving, Programming, Leadership, Artistic, Public Speaking",Mizoram,Senior,Mathematics,5.46,"Japanese, German, Chinese","Sports Team, Volunteer Group, Debate Club, Music Club, Coding Club, Art Club",Mathematics
+Music Club,"Problem Solving, Data Analysis",Nagaland,Senior,Physics,6.78,"English, German, French, Japanese, Chinese, Spanish","Volunteer Group, Sports Team, Music Club, Debate Club, Art Club",History
+Art Club,"Data Analysis, Artistic, Leadership, Problem Solving, Programming, Public Speaking",Odisha,Graduate,Physics,6.18,Chinese,Art Club,History
+Music Club,Artistic,Punjab,Junior,Computer Science,6.38,"German, English, Spanish",Debate Club,Computer science
+Sports Team,"Public Speaking, Programming",Rajasthan,Senior,Biology,6.04,French,"Coding Club, Music Club, Debate Club, Volunteer Group",Biology
+Debate Club,"Leadership, Public Speaking",Sikkim,Graduate,Psychology,6.36,"French, Chinese, English, German, Spanish, Japanese","Volunteer Group, Coding Club, Debate Club, Art Club, Sports Team, Music Club",History
+Coding Club,Public Speaking,Tamil Nadu,Graduate,Biology,6.96,French,Music Club,Mathematics
+Music Club,"Data Analysis, Artistic, Leadership, Programming, Public Speaking, Problem Solving",Telangana,Senior,History,4.42,"German, English, Chinese, French","Sports Team, Music Club, Volunteer Group, Art Club, Debate Club",Biology
+Volunteer Group,"Public Speaking, Data Analysis, Programming, Leadership, Artistic",Tripura,Junior,Mathematics,7.18,"English, French","Debate Club, Volunteer Group, Coding Club, Sports Team, Music Club, Art Club",Mathematics
+Coding Club,"Public Speaking, Problem Solving, Data Analysis, Artistic",Uttar Pradesh,Freshman,Physics,5.16,"German, Spanish","Volunteer Group, Coding Club, Art Club, Sports Team, Debate Club",Biology
+Volunteer Group,"Data Analysis, Leadership, Problem Solving, Programming",Uttarakhand,Sophomore,History,6.48,Spanish,"Coding Club, Volunteer Group, Debate Club, Sports Team, Music Club, Art Club",Computer science
+Art Club,"Artistic, Programming, Problem Solving, Public Speaking, Leadership",West Bengal,Graduate,Mathematics,4.22,"Chinese, Japanese, German","Music Club, Volunteer Group, Art Club, Sports Team, Debate Club, Coding Club",History
+Art Club,"Artistic, Data Analysis, Programming, Leadership, Problem Solving",Andhra Pradesh,Senior,Computer Science,4.86,"Chinese, French, German, Spanish, Japanese, English","Art Club, Coding Club, Music Club, Debate Club, Sports Team",Biology
+Debate Club,"Programming, Public Speaking, Artistic",Arunachal Pradesh,Graduate,Mathematics,5.12,"English, Japanese","Coding Club, Art Club, Debate Club, Sports Team, Music Club, Volunteer Group",Computer science
+Debate Club,Public Speaking,Assam,Freshman,Psychology,7.52,"Japanese, French, Spanish, Chinese, English","Debate Club, Music Club, Volunteer Group",Mathematics
+Music Club,"Artistic, Public Speaking, Leadership, Problem Solving, Programming",Andaman & Nicobar Islands,Sophomore,Mathematics,7.6,"German, Spanish, French, English","Coding Club, Volunteer Group, Sports Team, Music Club, Debate Club, Art Club",Mathematics
+Art Club,"Leadership, Programming, Artistic, Public Speaking",Chandigarh,Sophomore,History,4.64,"Japanese, Spanish, German","Coding Club, Art Club, Sports Team, Debate Club, Music Club",History
+Music Club,"Leadership, Programming, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Junior,Biology,4.74,"English, German, French, Chinese, Japanese, Spanish","Music Club, Art Club, Debate Club, Sports Team, Volunteer Group, Coding Club",History
+Debate Club,"Public Speaking, Problem Solving, Leadership, Artistic",Delhi,Senior,Biology,7.1,German,"Music Club, Sports Team, Debate Club, Coding Club",Computer science
+Volunteer Group,"Programming, Data Analysis",Jammu & Kashmir,Freshman,Psychology,7.52,"Chinese, Japanese, German, Spanish","Music Club, Sports Team, Coding Club",Computer science
+Volunteer Group,"Artistic, Public Speaking, Programming, Problem Solving, Leadership",Ladakh,Senior,Biology,7.5,"English, German, French, Chinese, Japanese, Spanish",Debate Club,Mathematics
+Coding Club,"Problem Solving, Leadership, Public Speaking",Lakshadweep,Sophomore,Computer Science,5.96,"French, Japanese, Chinese, Spanish","Music Club, Sports Team, Coding Club, Art Club",Mathematics
+Coding Club,"Artistic, Leadership, Public Speaking",Puducherry,Senior,Physics,4.34,"English, Japanese",Music Club,Biology
+Sports Team,"Public Speaking, Artistic",Bihar,Freshman,Biology,5.9,"English, Japanese, Chinese, German, Spanish, French",Sports Team,Computer science
+Music Club,"Data Analysis, Problem Solving",Chhattisgarh,Graduate,Mathematics,4.42,"Japanese, French, Chinese, German, Spanish, English","Debate Club, Art Club, Volunteer Group, Sports Team",History
+Coding Club,"Public Speaking, Problem Solving, Leadership",Goa,Senior,History,4.74,Japanese,"Debate Club, Music Club, Art Club, Coding Club, Sports Team, Volunteer Group",History
+Debate Club,"Leadership, Programming, Problem Solving, Artistic, Public Speaking",Gujarat,Graduate,Computer Science,5.94,"Spanish, German","Art Club, Sports Team, Debate Club, Coding Club",History
+Music Club,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis, Artistic",Haryana,Graduate,History,6.7,Spanish,"Art Club, Music Club, Coding Club, Volunteer Group, Sports Team, Debate Club",History
+Debate Club,Data Analysis,Himachal Pradesh,Freshman,Biology,6.46,"English, German, Spanish","Art Club, Coding Club, Volunteer Group, Debate Club, Music Club",Computer science
+Music Club,"Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic, Programming",Jharkhand,Junior,Mathematics,7.68,"Chinese, German, French, English","Coding Club, Volunteer Group",Mathematics
+Coding Club,"Problem Solving, Artistic, Programming, Data Analysis",Karnataka,Graduate,Mathematics,7.68,"English, German, Spanish, Japanese","Debate Club, Coding Club, Sports Team, Music Club, Volunteer Group",Computer science
+Volunteer Group,Data Analysis,Kerala,Sophomore,Psychology,7.6,"French, English, German, Spanish, Japanese, Chinese","Coding Club, Sports Team, Music Club, Debate Club",Mathematics
+Art Club,Artistic,Madhya Pradesh,Senior,Physics,5.46,"English, German","Sports Team, Music Club, Art Club, Debate Club, Coding Club",History
+Art Club,Problem Solving,Maharashtra,Senior,Mathematics,6.14,"Chinese, German, French, Spanish, English, Japanese","Sports Team, Volunteer Group",Computer science
+Art Club,Programming,Manipur,Junior,Biology,7.7,"Japanese, English, Chinese, French, Spanish, German","Volunteer Group, Music Club, Sports Team",Mathematics
+Volunteer Group,"Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic, Programming",Meghalaya,Graduate,Physics,5.7,"French, English, Chinese, Japanese, German","Volunteer Group, Debate Club, Coding Club, Sports Team, Music Club",History
+Music Club,"Artistic, Data Analysis, Programming, Leadership",Mizoram,Sophomore,Biology,6.2,"Japanese, English, French, German, Spanish","Volunteer Group, Coding Club, Debate Club",Biology
+Debate Club,Leadership,Nagaland,Graduate,Computer Science,7.92,"Spanish, Chinese","Volunteer Group, Art Club, Coding Club, Sports Team, Music Club",Mathematics
+Music Club,"Data Analysis, Public Speaking, Leadership",Odisha,Graduate,Mathematics,7.88,"German, Chinese","Sports Team, Art Club",Computer science
+Volunteer Group,Leadership,Punjab,Graduate,Psychology,5.66,"French, German, Japanese, English, Chinese",Volunteer Group,History
+Volunteer Group,"Public Speaking, Problem Solving, Artistic, Data Analysis, Programming, Leadership",Rajasthan,Freshman,History,7.46,German,"Sports Team, Coding Club, Debate Club, Volunteer Group, Music Club",Computer science
+Art Club,"Leadership, Public Speaking",Sikkim,Graduate,Mathematics,6.38,"Chinese, English, Spanish, Japanese, French, German","Volunteer Group, Sports Team, Music Club, Debate Club, Art Club, Coding Club",Computer science
+Volunteer Group,Public Speaking,Tamil Nadu,Graduate,Psychology,5.94,"English, French","Music Club, Debate Club, Art Club, Coding Club",Mathematics
+Art Club,"Data Analysis, Public Speaking, Leadership, Artistic, Problem Solving",Telangana,Sophomore,History,4.16,"Spanish, English, German","Music Club, Volunteer Group, Coding Club, Art Club",History
+Art Club,Programming,Tripura,Sophomore,Biology,6.56,"German, Chinese","Coding Club, Music Club, Sports Team, Volunteer Group, Art Club",History
+Music Club,"Problem Solving, Public Speaking, Data Analysis, Artistic, Programming, Leadership",Uttar Pradesh,Senior,Physics,6.6,"Spanish, French, German","Sports Team, Music Club, Debate Club, Art Club",Biology
+Art Club,"Problem Solving, Data Analysis, Public Speaking, Artistic",Uttarakhand,Graduate,Psychology,5.02,Spanish,"Sports Team, Music Club, Coding Club",Biology
+Music Club,"Problem Solving, Public Speaking, Artistic",West Bengal,Graduate,History,4.54,"Japanese, German","Sports Team, Art Club, Volunteer Group",History
+Art Club,Artistic,Andhra Pradesh,Graduate,Computer Science,6.34,"Chinese, Japanese","Volunteer Group, Debate Club",Computer science
+Volunteer Group,"Problem Solving, Public Speaking, Programming, Data Analysis, Artistic",Arunachal Pradesh,Junior,Physics,7.14,"English, German, Japanese, French, Spanish","Coding Club, Music Club, Volunteer Group, Sports Team, Art Club, Debate Club",Mathematics
+Debate Club,"Leadership, Problem Solving, Data Analysis",Assam,Sophomore,Physics,5.62,"Spanish, German","Debate Club, Art Club",Mathematics
+Music Club,"Leadership, Public Speaking, Artistic, Problem Solving, Programming, Data Analysis",Andaman & Nicobar Islands,Senior,Psychology,6.12,"German, Japanese, French, Spanish, Chinese, English","Music Club, Debate Club",History
+Volunteer Group,"Data Analysis, Problem Solving",Chandigarh,Sophomore,History,6.96,"Spanish, French, Chinese, English, Japanese","Volunteer Group, Debate Club, Art Club",Mathematics
+Art Club,"Problem Solving, Artistic, Public Speaking, Programming, Leadership",Dadra & Nagar Haveli and Daman & Diu,Sophomore,Mathematics,6.16,"German, French, Chinese","Art Club, Volunteer Group, Music Club",History
+Art Club,"Programming, Artistic, Leadership, Data Analysis, Problem Solving, Public Speaking",Delhi,Junior,History,6.64,"German, English, Spanish, French, Chinese, Japanese","Debate Club, Coding Club, Volunteer Group, Sports Team, Art Club, Music Club",Mathematics
+Debate Club,"Problem Solving, Programming",Jammu & Kashmir,Senior,Psychology,5.72,Chinese,"Art Club, Volunteer Group, Debate Club, Coding Club",Biology
+Debate Club,"Data Analysis, Leadership",Ladakh,Junior,Psychology,7.3,"Chinese, German, Japanese","Volunteer Group, Art Club",Computer science
+Music Club,"Problem Solving, Programming",Lakshadweep,Graduate,Computer Science,5.46,Spanish,"Debate Club, Music Club, Coding Club, Volunteer Group, Sports Team",History
+Art Club,"Programming, Leadership",Puducherry,Senior,History,4.28,"English, Spanish","Music Club, Volunteer Group, Debate Club, Coding Club, Art Club",History
+Debate Club,"Artistic, Problem Solving",Bihar,Senior,Biology,4.3,"Japanese, German, English, French","Debate Club, Art Club, Sports Team, Music Club, Volunteer Group",Biology
+Music Club,"Public Speaking, Leadership, Data Analysis, Problem Solving, Artistic",Chhattisgarh,Senior,Computer Science,4.1,"Spanish, Chinese, German","Art Club, Sports Team, Music Club, Coding Club",Biology
+Debate Club,"Problem Solving, Public Speaking, Data Analysis, Artistic, Programming",Goa,Graduate,Psychology,4.6,"Chinese, German",Music Club,History
+Music Club,"Artistic, Data Analysis, Programming",Gujarat,Senior,Biology,7.72,"Chinese, German, Spanish, Japanese, French, English",Debate Club,Computer science
+Music Club,"Artistic, Public Speaking",Haryana,Graduate,Physics,6.96,"English, Spanish, French, Chinese","Music Club, Coding Club, Art Club",Computer science
+Art Club,"Problem Solving, Public Speaking, Artistic, Leadership, Programming, Data Analysis",Himachal Pradesh,Graduate,Mathematics,6.9,"English, Spanish","Volunteer Group, Music Club, Art Club, Sports Team, Debate Club",Computer science
+Music Club,"Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic",Jharkhand,Junior,Mathematics,5.28,"Chinese, German, Spanish","Debate Club, Volunteer Group, Coding Club, Music Club, Art Club, Sports Team",Biology
+Coding Club,"Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic",Karnataka,Graduate,Computer Science,4.98,"Japanese, French, Spanish, German, Chinese, English","Coding Club, Volunteer Group, Debate Club, Music Club, Sports Team",History
+Music Club,Leadership,Kerala,Freshman,Physics,4.2,"French, English, Japanese, Chinese, German","Debate Club, Music Club",History
+Volunteer Group,"Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving",Madhya Pradesh,Freshman,Mathematics,7.98,"German, Spanish, Japanese, French","Music Club, Sports Team, Volunteer Group, Debate Club, Coding Club, Art Club",Mathematics
+Sports Team,"Leadership, Problem Solving",Maharashtra,Junior,Mathematics,7.78,"English, French, Chinese, Spanish, German","Volunteer Group, Debate Club, Music Club, Sports Team",Computer science
+Sports Team,"Data Analysis, Programming, Problem Solving, Public Speaking, Artistic, Leadership",Manipur,Junior,Physics,7.58,"German, English, Spanish, Japanese, French, Chinese","Art Club, Coding Club, Debate Club, Sports Team",Mathematics
+Volunteer Group,"Leadership, Problem Solving, Public Speaking, Programming, Artistic, Data Analysis",Meghalaya,Graduate,Mathematics,4.8,"Spanish, English","Debate Club, Volunteer Group, Music Club, Sports Team, Coding Club, Art Club",Biology
+Music Club,"Data Analysis, Problem Solving, Public Speaking, Programming, Leadership",Mizoram,Sophomore,Biology,7.4,Chinese,Art Club,Mathematics
+Art Club,Programming,Nagaland,Freshman,Psychology,4.3,"English, German, Japanese, Chinese","Volunteer Group, Art Club",History
+Art Club,"Artistic, Public Speaking, Leadership, Data Analysis",Odisha,Graduate,Mathematics,5.18,"Japanese, Chinese, Spanish, English, French, German",Sports Team,History
+Music Club,"Artistic, Public Speaking, Leadership, Programming, Problem Solving, Data Analysis",Punjab,Junior,History,5.94,Chinese,"Sports Team, Volunteer Group, Art Club",Computer science
+Sports Team,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving",Rajasthan,Sophomore,Psychology,4.46,"French, German, Chinese","Music Club, Debate Club, Volunteer Group, Art Club, Coding Club",History
+Debate Club,"Artistic, Leadership",Sikkim,Graduate,Psychology,4.04,"Spanish, Chinese, German",Coding Club,History
+Music Club,Public Speaking,Tamil Nadu,Graduate,History,6.88,"English, Chinese, Japanese, Spanish","Coding Club, Art Club, Music Club",Mathematics
+Music Club,"Artistic, Programming, Problem Solving, Leadership, Public Speaking, Data Analysis",Telangana,Junior,Biology,5.5,"Chinese, German, Spanish, Japanese, English, French","Volunteer Group, Sports Team, Art Club",History
+Sports Team,Artistic,Tripura,Sophomore,Physics,5.34,German,"Art Club, Volunteer Group, Sports Team, Debate Club, Music Club, Coding Club",Computer science
+Debate Club,"Data Analysis, Artistic, Problem Solving, Leadership, Programming, Public Speaking",Uttar Pradesh,Graduate,Biology,4.74,Japanese,"Music Club, Art Club, Debate Club, Sports Team, Coding Club, Volunteer Group",History
+Coding Club,"Data Analysis, Problem Solving, Programming",Uttarakhand,Junior,History,4.92,"Chinese, Japanese, English, Spanish","Art Club, Volunteer Group, Sports Team, Coding Club, Debate Club",Biology
+Coding Club,"Data Analysis, Artistic, Public Speaking, Programming",West Bengal,Graduate,Biology,4.78,"German, Japanese, French, English, Spanish",Volunteer Group,History
+Debate Club,"Artistic, Programming",Andhra Pradesh,Sophomore,History,7.62,"German, English, Chinese, Spanish, French, Japanese","Music Club, Volunteer Group, Debate Club, Sports Team, Art Club",Mathematics
+Music Club,"Leadership, Data Analysis, Public Speaking",Arunachal Pradesh,Junior,Biology,5.44,"English, Chinese",Coding Club,Biology
+Debate Club,"Leadership, Data Analysis, Problem Solving",Assam,Senior,History,7.3,"English, Spanish, Japanese, Chinese",Volunteer Group,Mathematics
+Volunteer Group,"Public Speaking, Programming, Artistic, Leadership",Andaman & Nicobar Islands,Junior,Psychology,5.48,"French, German, Chinese, Spanish","Music Club, Coding Club, Volunteer Group, Debate Club, Sports Team",Mathematics
+Coding Club,"Leadership, Public Speaking",Chandigarh,Senior,Computer Science,7.24,"French, Japanese, Spanish","Volunteer Group, Art Club",Mathematics
+Art Club,"Artistic, Leadership",Dadra & Nagar Haveli and Daman & Diu,Junior,Psychology,7.94,"Chinese, French, Spanish, German, Japanese, English","Coding Club, Debate Club, Volunteer Group, Art Club, Music Club, Sports Team",Mathematics
+Music Club,"Data Analysis, Programming, Public Speaking, Leadership, Artistic",Delhi,Freshman,Mathematics,5.92,"Spanish, English, French, Japanese, Chinese","Music Club, Art Club, Sports Team",Mathematics
+Music Club,Problem Solving,Jammu & Kashmir,Freshman,Computer Science,4.44,"German, English, Japanese, French, Chinese, Spanish","Music Club, Debate Club, Sports Team, Art Club, Coding Club",Biology
+Art Club,"Programming, Data Analysis, Artistic, Problem Solving, Public Speaking",Ladakh,Sophomore,Psychology,6.8,"Spanish, English, French, Chinese, Japanese","Coding Club, Volunteer Group",Mathematics
+Sports Team,"Leadership, Problem Solving, Public Speaking, Programming",Lakshadweep,Freshman,Mathematics,6.3,"English, German","Sports Team, Coding Club, Art Club, Volunteer Group, Debate Club",Biology
+Coding Club,"Leadership, Artistic, Problem Solving, Data Analysis, Public Speaking, Programming",Puducherry,Freshman,History,4.36,"English, Spanish, German, Chinese, Japanese",Debate Club,Biology
+Volunteer Group,"Leadership, Artistic, Programming",Bihar,Freshman,History,7.66,"Spanish, Japanese, English, French","Coding Club, Volunteer Group, Art Club, Music Club, Debate Club, Sports Team",Mathematics
+Music Club,"Public Speaking, Data Analysis, Problem Solving, Leadership, Programming, Artistic",Chhattisgarh,Sophomore,Biology,5.04,"French, German, English, Spanish","Volunteer Group, Art Club, Music Club",Mathematics
+Debate Club,"Leadership, Problem Solving, Programming",Goa,Graduate,History,6.74,"English, Japanese, French, Chinese, German, Spanish","Music Club, Coding Club, Debate Club, Sports Team, Volunteer Group",History
+Music Club,"Problem Solving, Artistic",Gujarat,Senior,History,4.52,"Japanese, German","Music Club, Sports Team, Volunteer Group, Coding Club, Debate Club",History
+Coding Club,"Artistic, Leadership",Haryana,Graduate,Biology,6.82,"English, Japanese, Spanish, Chinese","Volunteer Group, Debate Club, Sports Team, Coding Club, Art Club, Music Club",Mathematics
+Music Club,"Problem Solving, Public Speaking, Programming, Artistic",Himachal Pradesh,Sophomore,History,5.82,"English, French, Spanish, Japanese, Chinese","Sports Team, Art Club, Music Club, Debate Club",History
+Art Club,"Public Speaking, Problem Solving, Programming, Leadership",Jharkhand,Graduate,Mathematics,5.88,"French, Japanese, Chinese","Coding Club, Sports Team, Debate Club",Computer science
+Coding Club,"Data Analysis, Artistic, Public Speaking, Leadership",Karnataka,Graduate,Physics,4.2,"German, Japanese",Music Club,History
+Sports Team,Leadership,Kerala,Junior,Computer Science,5.26,"English, Japanese, German","Debate Club, Art Club, Music Club, Volunteer Group",Computer science
+Music Club,"Problem Solving, Public Speaking, Programming, Artistic, Leadership",Madhya Pradesh,Junior,History,7.14,Japanese,Coding Club,Computer science
+Coding Club,"Leadership, Programming, Problem Solving, Artistic, Data Analysis, Public Speaking",Maharashtra,Sophomore,Mathematics,7.54,"Japanese, French, English, German, Spanish, Chinese","Sports Team, Debate Club, Music Club",Computer science
+Sports Team,"Public Speaking, Data Analysis, Leadership, Programming",Manipur,Sophomore,Physics,5.24,"Chinese, German, English","Music Club, Debate Club, Art Club",Computer science
+Debate Club,"Problem Solving, Public Speaking, Artistic, Leadership, Data Analysis, Programming",Meghalaya,Graduate,Psychology,7.54,"French, Spanish, Chinese, German, Japanese, English",Volunteer Group,Mathematics
+Art Club,"Artistic, Data Analysis, Programming, Problem Solving, Leadership",Mizoram,Senior,Psychology,7.78,"English, Japanese, Spanish, German, French, Chinese","Debate Club, Art Club, Coding Club, Volunteer Group",Mathematics
+Art Club,Artistic,Nagaland,Junior,Computer Science,7.36,"English, Chinese, German, Spanish","Music Club, Volunteer Group, Coding Club, Sports Team, Debate Club",Computer science
+Debate Club,"Artistic, Problem Solving",Odisha,Senior,Psychology,6.62,Japanese,"Music Club, Volunteer Group",Biology
+Volunteer Group,Programming,Punjab,Graduate,Computer Science,7.88,"French, German, English, Chinese, Japanese, Spanish","Debate Club, Coding Club, Sports Team, Volunteer Group",Mathematics
+Sports Team,"Public Speaking, Artistic, Leadership, Problem Solving, Programming, Data Analysis",Rajasthan,Sophomore,History,5.46,"Japanese, French, English, Spanish","Volunteer Group, Debate Club, Sports Team, Coding Club, Art Club",Biology
+Art Club,"Leadership, Programming, Public Speaking",Sikkim,Freshman,History,4.68,"French, Spanish, English, Chinese, Japanese, German","Coding Club, Music Club, Volunteer Group, Art Club, Sports Team",History
+Coding Club,"Programming, Artistic",Tamil Nadu,Graduate,Psychology,4.1,"Spanish, English, French, Japanese, German",Sports Team,History
+Music Club,"Artistic, Public Speaking",Telangana,Freshman,Mathematics,6.38,"English, Japanese, Spanish, German, Chinese",Art Club,Biology
+Coding Club,"Problem Solving, Data Analysis",Tripura,Sophomore,Computer Science,6.68,"German, Spanish, French, Chinese, Japanese, English","Debate Club, Music Club, Sports Team, Art Club, Volunteer Group",Biology
+Coding Club,Programming,Uttar Pradesh,Graduate,Physics,7.52,"French, Spanish, Chinese, German",Art Club,Computer science
+Sports Team,Programming,Uttarakhand,Sophomore,Computer Science,5.08,"English, Japanese, Chinese","Sports Team, Art Club, Debate Club, Volunteer Group, Music Club",History
+Coding Club,"Artistic, Public Speaking, Leadership, Programming, Data Analysis, Problem Solving",West Bengal,Sophomore,Psychology,5.96,"Japanese, Spanish","Art Club, Debate Club, Coding Club, Volunteer Group",Mathematics
+Music Club,"Problem Solving, Data Analysis, Programming, Leadership",Andhra Pradesh,Sophomore,Mathematics,5.42,"Japanese, French, English, Chinese, Spanish",Coding Club,Mathematics
+Coding Club,"Leadership, Public Speaking, Problem Solving, Programming, Artistic, Data Analysis",Arunachal Pradesh,Junior,Computer Science,5.52,"Japanese, Spanish","Debate Club, Art Club, Coding Club, Volunteer Group, Sports Team, Music Club",Computer science
+Volunteer Group,"Artistic, Problem Solving, Leadership, Public Speaking",Assam,Senior,Physics,4.34,"French, Chinese, Japanese, English, German, Spanish","Music Club, Volunteer Group, Sports Team",Biology
+Debate Club,"Artistic, Programming, Data Analysis, Leadership",Andaman & Nicobar Islands,Graduate,Psychology,4.86,"English, Japanese","Art Club, Music Club, Coding Club",History
+Volunteer Group,"Public Speaking, Programming, Artistic, Problem Solving, Data Analysis",Chandigarh,Graduate,History,7.36,"Chinese, English, German, Spanish","Debate Club, Coding Club, Music Club, Art Club, Sports Team, Volunteer Group",Computer science
+Music Club,"Problem Solving, Programming, Leadership",Dadra & Nagar Haveli and Daman & Diu,Junior,Computer Science,5.96,"Japanese, German, English, French","Volunteer Group, Debate Club, Music Club, Art Club, Sports Team, Coding Club",Biology
+Volunteer Group,"Data Analysis, Programming",Delhi,Freshman,History,6.22,German,Sports Team,Computer science
+Music Club,"Artistic, Leadership, Data Analysis, Programming",Jammu & Kashmir,Sophomore,Biology,7.12,"Japanese, Chinese","Sports Team, Coding Club, Art Club, Debate Club, Music Club, Volunteer Group",Computer science
+Art Club,"Data Analysis, Public Speaking, Artistic",Ladakh,Junior,History,5.28,"Japanese, French, German, Chinese, English, Spanish","Music Club, Coding Club, Debate Club, Sports Team, Volunteer Group",History
+Volunteer Group,"Problem Solving, Public Speaking, Leadership",Lakshadweep,Graduate,Psychology,5.0,"French, English, Spanish, German, Chinese","Volunteer Group, Sports Team, Debate Club, Music Club",Mathematics
+Coding Club,"Problem Solving, Public Speaking, Leadership, Programming, Data Analysis, Artistic",Puducherry,Junior,Physics,4.38,"German, English",Sports Team,History
+Debate Club,"Artistic, Leadership",Bihar,Freshman,Physics,7.72,"Spanish, German, Japanese","Volunteer Group, Coding Club, Music Club, Sports Team, Art Club",Computer science
+Sports Team,"Data Analysis, Problem Solving",Chhattisgarh,Freshman,Physics,4.86,"German, Chinese, Spanish, Japanese, English, French","Music Club, Volunteer Group, Sports Team, Debate Club",Biology
+Music Club,"Programming, Leadership, Data Analysis, Artistic",Goa,Junior,Computer Science,5.72,"Spanish, French, German, Chinese, English","Volunteer Group, Coding Club, Music Club, Debate Club, Art Club, Sports Team",History
+Sports Team,"Data Analysis, Artistic, Public Speaking, Programming, Leadership, Problem Solving",Gujarat,Graduate,Physics,6.98,"Spanish, English",Debate Club,Mathematics
+Music Club,"Public Speaking, Artistic, Data Analysis, Leadership, Programming, Problem Solving",Haryana,Freshman,Psychology,4.42,"Chinese, English","Music Club, Debate Club, Volunteer Group, Coding Club, Sports Team",History
+Coding Club,"Data Analysis, Leadership, Artistic",Himachal Pradesh,Senior,History,4.26,"French, Japanese, English, German","Music Club, Volunteer Group, Sports Team",History
+Coding Club,"Problem Solving, Public Speaking, Artistic, Leadership, Programming",Jharkhand,Sophomore,Physics,4.68,French,"Coding Club, Volunteer Group, Debate Club, Music Club, Sports Team, Art Club",History
+Volunteer Group,"Data Analysis, Problem Solving, Artistic",Karnataka,Senior,Psychology,6.84,"French, English, Chinese","Sports Team, Volunteer Group",Computer science
+Coding Club,"Problem Solving, Artistic, Public Speaking, Programming, Data Analysis",Kerala,Freshman,Biology,4.86,"Spanish, Chinese, French, Japanese, German","Music Club, Volunteer Group",History
+Sports Team,Programming,Madhya Pradesh,Graduate,Computer Science,7.92,"Spanish, English",Coding Club,Computer science
+Music Club,"Public Speaking, Artistic, Problem Solving, Leadership, Data Analysis",Maharashtra,Sophomore,Computer Science,5.84,"English, German","Debate Club, Volunteer Group, Art Club",Biology
+Debate Club,"Problem Solving, Data Analysis",Manipur,Graduate,Computer Science,5.86,"Chinese, French, Japanese, German, English","Art Club, Coding Club, Music Club, Volunteer Group, Sports Team, Debate Club",History
+Debate Club,Programming,Meghalaya,Junior,Computer Science,4.64,"German, Chinese, Spanish, English, French, Japanese","Sports Team, Volunteer Group, Music Club",History
+Volunteer Group,"Problem Solving, Data Analysis, Leadership, Programming",Mizoram,Sophomore,Physics,4.56,"German, Spanish, Japanese, French, Chinese, English",Coding Club,History
+Music Club,"Programming, Data Analysis, Public Speaking",Nagaland,Junior,Mathematics,6.6,"Chinese, German, Spanish, Japanese, French, English","Sports Team, Volunteer Group",Mathematics
+Sports Team,"Data Analysis, Public Speaking, Programming",Odisha,Sophomore,Computer Science,7.68,Japanese,"Music Club, Volunteer Group",Computer science
+Sports Team,Artistic,Punjab,Senior,Biology,7.38,"Chinese, German, Spanish, Japanese","Music Club, Debate Club, Sports Team",Mathematics
+Art Club,"Leadership, Programming",Rajasthan,Senior,Biology,6.42,"Japanese, Chinese, English, Spanish, French","Music Club, Art Club",Biology
+Debate Club,"Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving",Sikkim,Graduate,Physics,6.62,"Japanese, German, French","Volunteer Group, Music Club",Biology
+Music Club,Leadership,Tamil Nadu,Graduate,Mathematics,6.52,French,"Sports Team, Music Club",Biology
+Debate Club,"Programming, Data Analysis, Leadership, Artistic, Problem Solving, Public Speaking",Telangana,Junior,History,5.5,German,"Art Club, Debate Club, Music Club, Sports Team",Biology
+Music Club,"Leadership, Public Speaking, Problem Solving, Artistic, Programming",Tripura,Graduate,Physics,7.78,"Japanese, French, Spanish","Music Club, Debate Club, Volunteer Group",Computer science
+Art Club,"Data Analysis, Problem Solving, Artistic, Public Speaking, Programming",Uttar Pradesh,Graduate,History,5.44,"French, Chinese, German, English","Volunteer Group, Music Club, Coding Club, Debate Club",Biology
+Music Club,"Leadership, Artistic, Data Analysis, Programming, Problem Solving",Uttarakhand,Senior,History,5.06,"Chinese, English, French, German","Volunteer Group, Music Club, Coding Club, Sports Team, Debate Club",Biology
+Art Club,"Programming, Leadership, Artistic, Public Speaking, Data Analysis, Problem Solving",West Bengal,Freshman,Mathematics,7.62,Spanish,"Sports Team, Music Club, Debate Club, Art Club, Coding Club",Computer science
+Sports Team,"Problem Solving, Artistic, Data Analysis, Public Speaking, Leadership, Programming",Andhra Pradesh,Graduate,History,5.48,English,"Volunteer Group, Coding Club, Sports Team, Debate Club, Music Club, Art Club",Computer science
+Music Club,"Programming, Public Speaking, Data Analysis, Problem Solving",Arunachal Pradesh,Junior,Biology,7.88,"Spanish, French","Art Club, Coding Club, Debate Club",Computer science
+Debate Club,Leadership,Assam,Freshman,Mathematics,7.38,"Japanese, German, English",Volunteer Group,Computer science
+Music Club,"Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis",Andaman & Nicobar Islands,Graduate,Psychology,4.92,"Japanese, Spanish, German, Chinese, French","Volunteer Group, Coding Club, Art Club",Biology
+Sports Team,"Programming, Problem Solving, Data Analysis, Artistic",Chandigarh,Sophomore,Psychology,6.42,"Japanese, German, English, French, Chinese, Spanish","Music Club, Volunteer Group, Art Club, Coding Club, Debate Club, Sports Team",History
+Volunteer Group,"Problem Solving, Programming, Leadership",Dadra & Nagar Haveli and Daman & Diu,Graduate,Mathematics,7.28,"English, Japanese, French, Chinese, Spanish","Coding Club, Art Club, Music Club",Mathematics
+Coding Club,"Data Analysis, Artistic",Delhi,Freshman,Physics,7.44,"English, Chinese, Japanese, German","Coding Club, Music Club, Debate Club, Art Club",Computer science
+Debate Club,"Artistic, Leadership",Jammu & Kashmir,Graduate,Biology,5.44,"French, English, Spanish","Debate Club, Sports Team, Volunteer Group, Coding Club, Music Club",Biology
+Coding Club,"Programming, Public Speaking, Leadership, Data Analysis",Ladakh,Freshman,Mathematics,4.44,Chinese,"Coding Club, Music Club, Art Club, Debate Club",History
+Music Club,"Programming, Data Analysis, Leadership, Public Speaking, Artistic",Lakshadweep,Junior,History,6.74,"Spanish, French, Japanese",Debate Club,History
+Sports Team,"Public Speaking, Leadership",Puducherry,Junior,Physics,5.44,"French, Japanese, Spanish, Chinese, German, English","Sports Team, Coding Club, Debate Club, Volunteer Group, Music Club, Art Club",Biology
+Sports Team,Programming,Bihar,Sophomore,Physics,7.82,"Chinese, Spanish, French, English, German, Japanese","Sports Team, Art Club, Volunteer Group, Coding Club",Computer science
+Music Club,"Artistic, Programming, Leadership, Data Analysis, Problem Solving",Chhattisgarh,Sophomore,Mathematics,7.12,"French, English, Japanese, German","Music Club, Debate Club, Art Club, Volunteer Group, Coding Club",Mathematics
+Coding Club,"Public Speaking, Artistic, Leadership, Programming",Goa,Graduate,Computer Science,4.38,"English, French, Japanese, Spanish","Music Club, Coding Club, Sports Team, Volunteer Group, Art Club",Biology
+Debate Club,"Programming, Public Speaking, Leadership, Data Analysis, Artistic, Problem Solving",Gujarat,Sophomore,Mathematics,4.16,"English, German, Chinese, French","Volunteer Group, Art Club",Biology
+Music Club,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking",Haryana,Graduate,Computer Science,5.46,"English, Chinese, French, Spanish","Music Club, Art Club, Coding Club",History
+Music Club,"Problem Solving, Leadership, Data Analysis",Himachal Pradesh,Senior,Biology,4.84,"French, Spanish, German, Chinese","Debate Club, Music Club, Volunteer Group",Biology
+Debate Club,"Data Analysis, Problem Solving, Leadership, Public Speaking",Jharkhand,Senior,Mathematics,4.72,"Spanish, Japanese, German","Sports Team, Debate Club, Music Club",History
+Volunteer Group,"Data Analysis, Artistic, Leadership",Karnataka,Sophomore,Psychology,6.74,Chinese,Coding Club,History
+Art Club,"Public Speaking, Programming, Leadership",Kerala,Sophomore,History,5.62,"Chinese, English, German, Japanese, French","Debate Club, Music Club, Sports Team, Art Club, Volunteer Group",Computer science
+Music Club,"Artistic, Public Speaking, Problem Solving, Programming, Leadership",Madhya Pradesh,Freshman,Biology,4.8,"Japanese, Spanish","Sports Team, Debate Club, Volunteer Group, Music Club",History
+Coding Club,"Leadership, Public Speaking, Artistic, Programming",Maharashtra,Sophomore,Mathematics,7.98,English,"Debate Club, Music Club, Coding Club, Sports Team, Volunteer Group, Art Club",Mathematics
+Coding Club,"Public Speaking, Problem Solving, Leadership, Data Analysis, Programming",Manipur,Freshman,History,7.88,"Japanese, German, French, Spanish","Debate Club, Sports Team, Art Club",Computer science
+Debate Club,Leadership,Meghalaya,Junior,Computer Science,7.42,"Chinese, Japanese, French","Debate Club, Sports Team, Music Club, Coding Club",Computer science
+Sports Team,"Leadership, Problem Solving, Public Speaking, Artistic, Data Analysis",Mizoram,Senior,Mathematics,6.22,"French, German, Spanish","Volunteer Group, Music Club",Biology
+Music Club,"Data Analysis, Problem Solving, Artistic, Programming, Leadership",Nagaland,Graduate,Psychology,4.76,"Japanese, German, Chinese",Sports Team,Biology
+Music Club,"Data Analysis, Problem Solving, Artistic, Public Speaking",Odisha,Junior,Psychology,5.3,"German, French, Japanese, Chinese, English","Volunteer Group, Debate Club, Coding Club, Sports Team",Mathematics
+Sports Team,"Problem Solving, Artistic, Programming",Punjab,Freshman,Mathematics,7.08,"French, English, Japanese, German","Volunteer Group, Sports Team, Debate Club, Coding Club, Music Club",Mathematics
+Music Club,"Problem Solving, Leadership, Artistic",Rajasthan,Freshman,Computer Science,6.28,"German, Chinese","Debate Club, Sports Team",Mathematics
+Sports Team,Artistic,Sikkim,Junior,History,5.98,"Spanish, French, English","Coding Club, Music Club, Volunteer Group",Biology
+Debate Club,"Programming, Problem Solving, Artistic",Tamil Nadu,Junior,Mathematics,4.94,Spanish,"Coding Club, Volunteer Group",Biology
+Debate Club,"Artistic, Data Analysis, Problem Solving, Leadership, Public Speaking",Telangana,Senior,Psychology,5.38,"Spanish, Japanese, English, Chinese, French, German","Coding Club, Debate Club",Computer science
+Coding Club,"Leadership, Artistic, Public Speaking, Programming",Tripura,Junior,Mathematics,5.86,"Chinese, Japanese, Spanish, German, French","Art Club, Sports Team, Coding Club, Volunteer Group, Music Club",Biology
+Art Club,Data Analysis,Uttar Pradesh,Senior,Psychology,6.44,"English, German, Chinese","Sports Team, Music Club, Coding Club, Volunteer Group",History
+Coding Club,"Programming, Artistic, Public Speaking",Uttarakhand,Freshman,Mathematics,5.68,"Japanese, English, German, Chinese, Spanish","Sports Team, Volunteer Group",Biology
+Music Club,"Problem Solving, Artistic, Data Analysis, Public Speaking",West Bengal,Freshman,Mathematics,7.7,"Japanese, French, English, German, Spanish, Chinese","Art Club, Debate Club, Coding Club, Music Club",Computer science
+Sports Team,"Problem Solving, Programming, Data Analysis, Public Speaking, Artistic",Andhra Pradesh,Sophomore,Computer Science,5.5,"French, German, English, Spanish, Chinese, Japanese","Volunteer Group, Music Club, Sports Team, Art Club, Coding Club",Mathematics
+Sports Team,"Programming, Problem Solving",Arunachal Pradesh,Sophomore,Psychology,5.0,"German, Japanese, English","Sports Team, Art Club, Volunteer Group, Music Club",History
+Debate Club,"Programming, Artistic, Leadership, Data Analysis",Assam,Freshman,Mathematics,4.24,"Chinese, Spanish","Volunteer Group, Art Club, Music Club, Debate Club",Biology
+Sports Team,"Programming, Leadership, Artistic",Andaman & Nicobar Islands,Senior,Mathematics,5.46,Spanish,"Sports Team, Art Club, Music Club, Volunteer Group",Mathematics
+Sports Team,"Data Analysis, Public Speaking, Artistic, Problem Solving, Programming",Chandigarh,Graduate,Psychology,6.96,"Spanish, German, English, Japanese, French, Chinese","Debate Club, Art Club, Volunteer Group",History
+Debate Club,"Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership, Programming",Dadra & Nagar Haveli and Daman & Diu,Freshman,Psychology,4.74,"Spanish, English, Japanese, French, German","Music Club, Volunteer Group, Sports Team, Coding Club, Debate Club, Art Club",History
+Coding Club,"Programming, Public Speaking, Data Analysis, Problem Solving, Artistic",Delhi,Senior,Psychology,6.12,French,Art Club,History
+Music Club,Leadership,Jammu & Kashmir,Senior,Mathematics,7.48,"English, German, Chinese, Spanish, Japanese, French","Art Club, Volunteer Group",Computer science
+Coding Club,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic",Ladakh,Junior,Mathematics,5.44,"Spanish, Japanese, English, German","Debate Club, Coding Club, Volunteer Group, Sports Team",Biology
+Art Club,"Public Speaking, Artistic, Data Analysis, Programming, Problem Solving",Lakshadweep,Senior,Computer Science,6.1,"English, French, Spanish, German, Chinese","Volunteer Group, Sports Team, Music Club, Debate Club, Coding Club, Art Club",Mathematics
+Coding Club,"Leadership, Public Speaking, Artistic, Programming, Data Analysis, Problem Solving",Puducherry,Freshman,Psychology,4.16,"Chinese, Spanish, French","Music Club, Volunteer Group, Art Club, Sports Team, Debate Club, Coding Club",History
+Volunteer Group,"Public Speaking, Leadership, Artistic, Data Analysis",Bihar,Senior,Computer Science,4.12,"French, Japanese, Spanish","Art Club, Sports Team",History
+Music Club,"Leadership, Artistic, Public Speaking, Problem Solving, Data Analysis",Chhattisgarh,Sophomore,Psychology,7.66,"German, Chinese, Japanese, French","Volunteer Group, Art Club, Debate Club",Computer science
+Volunteer Group,"Artistic, Public Speaking, Programming, Problem Solving",Goa,Junior,Physics,5.7,"English, French, German, Japanese, Chinese, Spanish","Sports Team, Coding Club",Mathematics
+Art Club,Artistic,Gujarat,Sophomore,Computer Science,5.56,"Chinese, English, Spanish, Japanese, French, German",Coding Club,Biology
+Sports Team,"Leadership, Problem Solving, Programming",Haryana,Senior,Physics,5.26,"French, Japanese, German, Spanish",Sports Team,Mathematics
+Debate Club,"Artistic, Problem Solving, Leadership",Himachal Pradesh,Senior,Psychology,6.66,"English, German, Spanish","Art Club, Coding Club, Volunteer Group, Debate Club, Music Club",Mathematics
+Debate Club,"Leadership, Public Speaking, Programming, Data Analysis, Problem Solving, Artistic",Jharkhand,Sophomore,Computer Science,4.06,"English, German, Chinese, French",Coding Club,History
+Art Club,"Artistic, Programming, Problem Solving, Data Analysis",Karnataka,Sophomore,Physics,5.52,"English, French, Japanese, Spanish, German","Sports Team, Debate Club, Art Club, Volunteer Group, Coding Club",Mathematics
+Music Club,"Artistic, Programming, Problem Solving, Data Analysis",Kerala,Freshman,History,4.32,"German, English, French, Japanese, Chinese, Spanish",Coding Club,History
+Debate Club,"Leadership, Public Speaking, Artistic, Problem Solving, Data Analysis, Programming",Madhya Pradesh,Freshman,History,5.16,"German, Japanese, French",Sports Team,Biology
+Debate Club,"Data Analysis, Programming, Artistic, Problem Solving, Leadership",Maharashtra,Freshman,Physics,4.34,"German, Chinese, French, English, Spanish","Sports Team, Music Club, Art Club",Biology
+Volunteer Group,Leadership,Manipur,Senior,Psychology,6.16,"Japanese, English, German","Sports Team, Music Club, Art Club, Volunteer Group, Debate Club, Coding Club",History
+Debate Club,"Public Speaking, Problem Solving, Data Analysis, Leadership",Meghalaya,Junior,Computer Science,7.3,"French, German, Spanish, English","Sports Team, Volunteer Group",Computer science
+Sports Team,"Artistic, Leadership, Problem Solving, Public Speaking, Programming, Data Analysis",Mizoram,Freshman,History,4.02,"Spanish, Chinese, French, English, Japanese, German","Coding Club, Music Club, Volunteer Group",History
+Music Club,"Public Speaking, Programming",Nagaland,Senior,Biology,7.22,"German, Japanese, English, French, Chinese","Debate Club, Art Club, Sports Team, Volunteer Group",Mathematics
+Music Club,"Programming, Leadership",Odisha,Senior,Mathematics,6.96,"Spanish, German, Japanese, French, Chinese, English",Music Club,Mathematics
+Coding Club,"Data Analysis, Programming, Problem Solving, Leadership, Public Speaking",Punjab,Graduate,Psychology,4.76,"Spanish, Japanese, English, German","Coding Club, Sports Team, Volunteer Group",History
+Music Club,Data Analysis,Rajasthan,Junior,History,6.7,French,"Sports Team, Debate Club, Art Club",Mathematics
+Debate Club,"Leadership, Public Speaking, Data Analysis, Programming",Sikkim,Senior,Mathematics,5.68,"German, Spanish, French, Japanese, Chinese","Coding Club, Volunteer Group, Sports Team",Biology
+Sports Team,"Programming, Artistic, Data Analysis",Tamil Nadu,Freshman,History,5.3,Japanese,"Art Club, Sports Team, Debate Club, Music Club, Coding Club",Biology
+Sports Team,"Programming, Public Speaking, Leadership, Artistic, Data Analysis",Telangana,Junior,Biology,5.7,"German, Japanese, French","Coding Club, Sports Team",Mathematics
+Music Club,"Problem Solving, Programming, Public Speaking",Tripura,Graduate,History,6.9,Spanish,"Debate Club, Volunteer Group, Art Club, Sports Team, Music Club",Computer science
+Coding Club,"Artistic, Leadership, Data Analysis",Uttar Pradesh,Senior,Biology,5.38,"Spanish, Japanese","Volunteer Group, Debate Club, Sports Team, Coding Club",Biology
+Debate Club,"Programming, Leadership, Data Analysis, Problem Solving, Artistic",Uttarakhand,Senior,Mathematics,5.4,"Japanese, French","Art Club, Music Club",Biology
+Sports Team,"Leadership, Public Speaking, Artistic, Programming, Problem Solving, Data Analysis",West Bengal,Graduate,History,5.92,"Spanish, Japanese, Chinese, German","Debate Club, Music Club, Volunteer Group",Biology
+Art Club,Public Speaking,Andhra Pradesh,Graduate,History,6.32,"Japanese, German, French, English, Spanish, Chinese","Sports Team, Volunteer Group",Mathematics
+Music Club,"Programming, Leadership, Data Analysis, Public Speaking, Artistic",Arunachal Pradesh,Sophomore,Psychology,5.14,"Spanish, French","Music Club, Debate Club, Sports Team, Coding Club, Volunteer Group, Art Club",History
+Art Club,"Leadership, Data Analysis, Public Speaking, Artistic",Assam,Sophomore,Physics,6.28,"Chinese, German","Coding Club, Art Club, Volunteer Group, Music Club, Sports Team",Biology
+Coding Club,"Public Speaking, Leadership, Programming, Problem Solving, Data Analysis, Artistic",Andaman & Nicobar Islands,Sophomore,Biology,7.02,"English, Japanese, German, Spanish, Chinese, French","Music Club, Sports Team, Coding Club, Volunteer Group, Art Club",Computer science
+Volunteer Group,"Problem Solving, Leadership, Programming, Public Speaking",Chandigarh,Senior,Mathematics,5.52,"French, Chinese, German","Coding Club, Debate Club, Music Club",Biology
+Art Club,"Artistic, Programming",Dadra & Nagar Haveli and Daman & Diu,Freshman,Mathematics,4.04,"French, German, English",Debate Club,Biology
+Music Club,"Artistic, Leadership, Problem Solving, Programming, Data Analysis, Public Speaking",Delhi,Senior,Computer Science,4.02,"Spanish, French","Music Club, Sports Team",History
+Music Club,"Public Speaking, Problem Solving, Artistic",Jammu & Kashmir,Junior,Biology,7.46,"Chinese, Spanish, German, French, English","Debate Club, Coding Club, Music Club",Mathematics
+Sports Team,Public Speaking,Ladakh,Graduate,Psychology,4.32,Chinese,"Sports Team, Debate Club, Art Club, Volunteer Group",Biology
+Debate Club,"Problem Solving, Leadership",Lakshadweep,Graduate,Biology,7.02,"German, Spanish, English, Japanese","Sports Team, Coding Club, Debate Club, Art Club, Music Club, Volunteer Group",Computer science
+Sports Team,"Problem Solving, Data Analysis, Public Speaking, Programming",Puducherry,Junior,Physics,7.7,"Japanese, Chinese, German, English, French","Sports Team, Debate Club",Computer science
+Music Club,"Programming, Problem Solving",Bihar,Graduate,History,6.46,"English, German, Spanish, Japanese","Music Club, Volunteer Group, Coding Club",Computer science
+Sports Team,"Artistic, Programming, Data Analysis, Public Speaking, Problem Solving, Leadership",Chhattisgarh,Senior,Physics,4.24,French,"Sports Team, Volunteer Group, Art Club, Coding Club",Biology
+Art Club,"Problem Solving, Leadership, Artistic, Data Analysis",Goa,Senior,History,7.34,"Japanese, German","Coding Club, Art Club, Volunteer Group",Mathematics
+Debate Club,"Artistic, Problem Solving, Leadership, Data Analysis, Public Speaking, Programming",Gujarat,Freshman,Biology,4.5,English,"Art Club, Sports Team",Biology
+Music Club,"Data Analysis, Leadership",Haryana,Junior,History,5.5,"English, German","Music Club, Coding Club, Debate Club, Volunteer Group, Sports Team",History
+Coding Club,Data Analysis,Himachal Pradesh,Freshman,Computer Science,5.76,"English, French, Japanese, Chinese","Debate Club, Volunteer Group, Art Club, Music Club, Coding Club, Sports Team",History
+Music Club,"Problem Solving, Data Analysis, Programming",Jharkhand,Graduate,Biology,5.2,"French, Japanese, German, English, Spanish","Debate Club, Sports Team",History
+Art Club,"Artistic, Leadership, Data Analysis, Problem Solving",Karnataka,Junior,Biology,7.58,"Chinese, Japanese, French, German, English, Spanish","Debate Club, Art Club, Coding Club, Sports Team",Computer science
+Coding Club,Programming,Kerala,Junior,History,6.08,"Spanish, Chinese, Japanese, German, English, French","Debate Club, Sports Team, Art Club, Music Club, Volunteer Group",History
+Debate Club,"Programming, Problem Solving, Artistic, Data Analysis",Madhya Pradesh,Freshman,History,6.78,"Spanish, English, Japanese, Chinese","Debate Club, Coding Club, Music Club, Volunteer Group, Art Club",Mathematics
+Debate Club,"Artistic, Data Analysis, Problem Solving, Public Speaking, Programming, Leadership",Maharashtra,Junior,Physics,4.7,"English, Japanese, Spanish, German","Debate Club, Art Club, Sports Team, Music Club, Volunteer Group, Coding Club",History
+Sports Team,"Leadership, Programming, Public Speaking, Artistic",Manipur,Graduate,History,4.58,"German, Spanish","Coding Club, Art Club, Music Club, Sports Team, Volunteer Group",History
+Sports Team,"Leadership, Problem Solving, Data Analysis, Artistic, Programming, Public Speaking",Meghalaya,Senior,History,6.34,German,"Music Club, Volunteer Group, Sports Team, Coding Club, Art Club, Debate Club",Mathematics
+Coding Club,Programming,Mizoram,Senior,Psychology,5.24,"Japanese, Spanish, English, Chinese, German, French",Art Club,History
+Sports Team,"Artistic, Leadership, Data Analysis",Nagaland,Junior,Mathematics,5.48,"Chinese, French, Spanish, Japanese","Music Club, Volunteer Group, Debate Club, Sports Team, Art Club",Computer science
+Art Club,"Artistic, Leadership",Odisha,Sophomore,History,6.28,"French, Japanese, German, Spanish, English, Chinese","Coding Club, Art Club",Mathematics
+Debate Club,Programming,Punjab,Graduate,Biology,5.26,"French, German","Volunteer Group, Coding Club, Debate Club, Art Club",Mathematics
+Sports Team,"Data Analysis, Problem Solving, Artistic",Rajasthan,Sophomore,Psychology,7.94,German,"Sports Team, Volunteer Group, Art Club, Coding Club",Mathematics
+Debate Club,Public Speaking,Sikkim,Freshman,Mathematics,6.76,"German, French, Spanish, English, Chinese, Japanese","Music Club, Art Club, Coding Club",Computer science
+Music Club,"Data Analysis, Leadership, Artistic, Problem Solving, Programming",Tamil Nadu,Junior,Mathematics,6.28,"Spanish, Japanese","Debate Club, Sports Team",History
+Coding Club,"Artistic, Programming, Data Analysis, Problem Solving, Public Speaking, Leadership",Telangana,Graduate,Biology,5.42,"French, English, German","Debate Club, Sports Team, Music Club",Mathematics
+Volunteer Group,"Data Analysis, Programming, Artistic, Problem Solving, Public Speaking",Tripura,Senior,Biology,4.56,"English, French, German, Chinese, Japanese, Spanish","Music Club, Art Club, Debate Club",History
+Sports Team,Data Analysis,Uttar Pradesh,Senior,Physics,4.12,"French, English, German, Chinese, Japanese, Spanish","Music Club, Sports Team, Debate Club, Art Club, Coding Club, Volunteer Group",History
+Coding Club,"Public Speaking, Problem Solving, Data Analysis, Programming, Artistic, Leadership",Uttarakhand,Graduate,Biology,6.22,"Chinese, English, Japanese, German",Coding Club,Biology
+Debate Club,"Data Analysis, Artistic, Leadership, Programming, Public Speaking",West Bengal,Senior,History,6.56,"English, German, Chinese, Japanese, Spanish, French","Coding Club, Music Club, Art Club, Sports Team, Volunteer Group",Mathematics
+Debate Club,"Programming, Artistic, Data Analysis",Andhra Pradesh,Senior,Psychology,6.3,"French, Japanese, English, Spanish, German, Chinese","Volunteer Group, Sports Team",Computer science
+Volunteer Group,"Data Analysis, Problem Solving, Programming, Public Speaking, Leadership",Arunachal Pradesh,Junior,Psychology,7.68,"Japanese, English, German, Chinese, French, Spanish",Coding Club,Mathematics
+Music Club,"Leadership, Public Speaking, Artistic, Programming, Data Analysis",Assam,Graduate,Psychology,5.18,"Japanese, Chinese, Spanish","Coding Club, Debate Club, Volunteer Group, Art Club, Music Club, Sports Team",Computer science
+Music Club,"Problem Solving, Public Speaking, Programming, Artistic",Andaman & Nicobar Islands,Graduate,History,4.12,"Spanish, English, Japanese, German, French",Coding Club,History
+Debate Club,"Data Analysis, Public Speaking",Chandigarh,Senior,Physics,7.94,"English, Chinese","Sports Team, Debate Club, Volunteer Group, Coding Club",Computer science
+Coding Club,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis, Artistic",Dadra & Nagar Haveli and Daman & Diu,Junior,History,6.44,"Spanish, Chinese, English, French","Sports Team, Debate Club, Music Club, Art Club, Volunteer Group",Biology
+Sports Team,Programming,Delhi,Sophomore,Physics,7.32,"English, Spanish, Chinese, German, Japanese","Music Club, Volunteer Group, Coding Club, Art Club",Mathematics
+Debate Club,"Leadership, Public Speaking, Data Analysis, Problem Solving, Programming",Jammu & Kashmir,Freshman,Physics,5.6,"German, Japanese, Chinese, Spanish, English, French",Volunteer Group,Biology
+Sports Team,"Data Analysis, Artistic, Problem Solving",Ladakh,Junior,Biology,5.1,"German, English","Debate Club, Art Club, Music Club, Sports Team, Volunteer Group, Coding Club",Biology
+Coding Club,"Data Analysis, Artistic, Public Speaking, Problem Solving",Lakshadweep,Sophomore,Computer Science,5.42,"Japanese, German, Spanish, English",Coding Club,Computer science
+Art Club,"Data Analysis, Public Speaking",Puducherry,Freshman,Biology,7.24,"Japanese, Spanish, Chinese, English, French","Coding Club, Sports Team, Art Club, Debate Club, Music Club, Volunteer Group",Computer science
+Art Club,Problem Solving,Bihar,Sophomore,Mathematics,5.46,"French, Spanish","Coding Club, Art Club, Sports Team, Debate Club, Music Club",History
+Music Club,"Problem Solving, Artistic",Chhattisgarh,Sophomore,Biology,5.74,German,"Music Club, Volunteer Group, Art Club, Sports Team, Coding Club",Biology
+Volunteer Group,"Programming, Artistic, Problem Solving",Goa,Freshman,Psychology,5.54,"Japanese, Chinese, French, English","Music Club, Art Club, Sports Team, Coding Club, Volunteer Group, Debate Club",Mathematics
+Art Club,"Data Analysis, Artistic, Leadership",Gujarat,Graduate,Physics,6.14,"Chinese, Japanese, French, German","Debate Club, Music Club, Volunteer Group, Sports Team, Art Club",Biology
+Art Club,"Artistic, Programming, Problem Solving",Haryana,Sophomore,Psychology,7.26,"Japanese, English, Chinese, French, German, Spanish","Music Club, Art Club, Sports Team, Debate Club",Mathematics
+Art Club,"Artistic, Leadership, Data Analysis",Himachal Pradesh,Sophomore,History,6.86,"German, Japanese, Chinese, Spanish, English, French","Coding Club, Art Club, Sports Team",Mathematics
+Music Club,Artistic,Jharkhand,Sophomore,History,7.14,"English, French, Chinese","Music Club, Art Club, Coding Club, Sports Team, Debate Club",Computer science
+Debate Club,"Data Analysis, Artistic, Programming, Problem Solving, Leadership",Karnataka,Freshman,Psychology,6.7,"English, Chinese, German, Spanish, Japanese, French","Debate Club, Art Club",Mathematics
+Coding Club,Data Analysis,Kerala,Graduate,Physics,5.1,Chinese,Art Club,Mathematics
+Music Club,"Programming, Problem Solving, Public Speaking",Madhya Pradesh,Freshman,Computer Science,7.78,"Japanese, Spanish, Chinese, German, English, French","Art Club, Volunteer Group, Coding Club",Mathematics
+Volunteer Group,"Public Speaking, Problem Solving",Maharashtra,Junior,Physics,7.44,"Spanish, German","Art Club, Debate Club, Music Club, Sports Team, Coding Club, Volunteer Group",Computer science
+Volunteer Group,Programming,Manipur,Junior,Physics,7.24,"Chinese, Spanish, English, Japanese, German","Debate Club, Coding Club, Art Club, Volunteer Group, Music Club",Computer science
+Sports Team,"Public Speaking, Leadership, Programming, Artistic",Meghalaya,Freshman,Physics,7.16,"French, English, Chinese, Spanish, German, Japanese","Volunteer Group, Coding Club, Sports Team",Computer science
+Volunteer Group,"Problem Solving, Leadership, Data Analysis, Artistic",Mizoram,Sophomore,Mathematics,7.22,"German, Japanese","Art Club, Sports Team",Computer science
+Music Club,Problem Solving,Nagaland,Freshman,Physics,7.2,"German, Chinese, English, Spanish","Volunteer Group, Sports Team, Music Club, Art Club, Coding Club",Mathematics
+Debate Club,"Public Speaking, Programming, Problem Solving",Odisha,Freshman,Psychology,6.26,"Chinese, German, English, Japanese","Coding Club, Art Club, Music Club, Volunteer Group",History
+Coding Club,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking",Punjab,Freshman,History,7.7,"German, Japanese, Spanish, French","Art Club, Sports Team, Debate Club, Coding Club, Music Club, Volunteer Group",Computer science
+Debate Club,"Leadership, Artistic, Programming, Public Speaking, Problem Solving, Data Analysis",Rajasthan,Junior,Computer Science,6.8,"Japanese, German, Chinese","Debate Club, Volunteer Group, Music Club, Art Club",Computer science
+Debate Club,"Programming, Artistic, Problem Solving",Sikkim,Senior,Computer Science,8.0,"Chinese, French, Spanish, Japanese, German","Volunteer Group, Art Club, Music Club, Sports Team, Coding Club, Debate Club",Computer science
+Volunteer Group,Programming,Tamil Nadu,Graduate,History,6.74,"Japanese, Spanish, French, English, Chinese","Volunteer Group, Coding Club",Computer science
+Sports Team,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving, Leadership",Telangana,Sophomore,Biology,7.62,"German, English",Sports Team,Mathematics
+Debate Club,"Programming, Artistic, Data Analysis, Problem Solving, Public Speaking",Tripura,Senior,Psychology,5.18,"Japanese, Chinese, German, French","Volunteer Group, Debate Club",Mathematics
+Volunteer Group,"Public Speaking, Leadership, Problem Solving",Uttar Pradesh,Sophomore,Physics,5.88,"German, Spanish, Chinese, French, Japanese, English","Art Club, Music Club, Sports Team",History
+Art Club,"Public Speaking, Leadership, Problem Solving",Uttarakhand,Senior,Psychology,7.16,"German, Japanese, Spanish, English","Debate Club, Music Club, Sports Team, Volunteer Group, Coding Club",Computer science
+Sports Team,Problem Solving,West Bengal,Graduate,History,7.56,"Chinese, Spanish, Japanese, English",Art Club,Mathematics
+Music Club,Problem Solving,Andhra Pradesh,Sophomore,History,5.1,"Chinese, Japanese, French","Sports Team, Coding Club, Music Club, Debate Club, Volunteer Group, Art Club",Mathematics
+Sports Team,"Programming, Data Analysis, Leadership, Artistic, Public Speaking",Arunachal Pradesh,Senior,Mathematics,4.48,English,Art Club,History
+Debate Club,"Data Analysis, Leadership, Public Speaking, Artistic",Assam,Sophomore,Biology,6.78,German,Debate Club,Biology
+Sports Team,"Leadership, Public Speaking, Data Analysis, Artistic",Andaman & Nicobar Islands,Senior,Physics,7.68,"English, German, Chinese","Art Club, Coding Club, Sports Team, Music Club, Volunteer Group",Mathematics
+Coding Club,"Problem Solving, Programming, Data Analysis, Leadership, Public Speaking, Artistic",Chandigarh,Sophomore,Biology,4.72,"Japanese, French, English","Volunteer Group, Music Club, Coding Club, Debate Club, Sports Team",History
+Sports Team,"Artistic, Public Speaking, Problem Solving, Data Analysis, Leadership, Programming",Dadra & Nagar Haveli and Daman & Diu,Junior,Physics,4.74,"French, German","Volunteer Group, Debate Club, Music Club, Sports Team",Biology
+Sports Team,"Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic, Programming",Delhi,Sophomore,Physics,6.62,"German, Spanish","Coding Club, Sports Team",Biology
+Volunteer Group,"Data Analysis, Artistic, Problem Solving",Jammu & Kashmir,Junior,Psychology,6.46,"German, English, Spanish, Japanese","Art Club, Sports Team",Mathematics
+Art Club,"Problem Solving, Public Speaking, Artistic",Ladakh,Senior,Psychology,7.12,"French, English, German, Chinese, Japanese","Debate Club, Sports Team, Volunteer Group, Art Club, Coding Club, Music Club",Mathematics
+Music Club,Public Speaking,Lakshadweep,Graduate,Computer Science,7.56,French,"Music Club, Art Club, Sports Team, Coding Club",Computer science
+Debate Club,Public Speaking,Puducherry,Senior,History,6.14,"French, English, Chinese","Debate Club, Music Club, Coding Club, Volunteer Group",History
+Debate Club,"Problem Solving, Leadership, Data Analysis, Artistic",Bihar,Graduate,Mathematics,5.82,"Chinese, French, Japanese, Spanish","Sports Team, Debate Club",Mathematics
+Sports Team,"Data Analysis, Public Speaking, Programming, Problem Solving",Chhattisgarh,Graduate,Mathematics,7.44,German,"Music Club, Coding Club",Mathematics
+Debate Club,"Problem Solving, Artistic, Programming",Goa,Senior,Physics,6.32,"German, French","Volunteer Group, Coding Club, Music Club, Debate Club",History
+Music Club,"Problem Solving, Artistic, Programming",Gujarat,Sophomore,Computer Science,4.24,"German, Spanish",Debate Club,History
+Debate Club,"Leadership, Programming, Problem Solving",Haryana,Freshman,Mathematics,5.08,English,"Music Club, Coding Club, Sports Team, Debate Club",History
+Art Club,"Problem Solving, Artistic, Programming, Public Speaking, Leadership",Himachal Pradesh,Senior,Biology,7.0,"German, Japanese","Volunteer Group, Art Club",Mathematics
+Sports Team,"Artistic, Leadership, Problem Solving, Programming, Data Analysis, Public Speaking",Jharkhand,Senior,Psychology,7.06,"Chinese, Japanese, Spanish, French, German, English","Music Club, Coding Club, Volunteer Group, Sports Team",Mathematics
+Sports Team,"Public Speaking, Data Analysis, Programming, Leadership",Karnataka,Junior,Psychology,7.8,"Japanese, English, French, German, Spanish","Coding Club, Art Club, Volunteer Group, Debate Club, Sports Team",Computer science
+Coding Club,"Public Speaking, Artistic",Kerala,Sophomore,History,5.24,"Japanese, German","Music Club, Volunteer Group, Debate Club, Art Club, Sports Team",Computer science
+Music Club,"Artistic, Leadership, Public Speaking, Programming, Data Analysis",Madhya Pradesh,Freshman,Biology,5.96,"Spanish, Chinese",Sports Team,History
+Volunteer Group,"Artistic, Programming, Problem Solving, Leadership, Public Speaking, Data Analysis",Maharashtra,Senior,Biology,6.32,"Japanese, French, German, English, Chinese, Spanish",Art Club,Mathematics
+Volunteer Group,Data Analysis,Manipur,Junior,Computer Science,6.04,"Japanese, Spanish, German","Volunteer Group, Debate Club, Coding Club, Art Club, Sports Team",Mathematics
+Music Club,"Data Analysis, Public Speaking",Meghalaya,Sophomore,History,5.26,"German, Chinese, Japanese, Spanish","Coding Club, Sports Team, Debate Club, Music Club",Computer science
+Volunteer Group,"Data Analysis, Leadership, Public Speaking, Artistic",Mizoram,Freshman,Physics,5.6,"Japanese, German","Debate Club, Coding Club, Music Club, Sports Team, Art Club, Volunteer Group",History
+Music Club,"Public Speaking, Problem Solving, Programming, Artistic, Data Analysis",Nagaland,Freshman,Mathematics,7.6,"German, English, French, Chinese, Spanish","Sports Team, Art Club, Music Club",Computer science
+Music Club,"Public Speaking, Programming",Odisha,Junior,Psychology,5.12,"French, Chinese, English","Debate Club, Music Club, Sports Team, Coding Club",Computer science
+Sports Team,"Programming, Problem Solving, Data Analysis, Leadership, Artistic, Public Speaking",Punjab,Graduate,Biology,7.1,"English, Japanese, German, Spanish","Sports Team, Debate Club",Computer science
+Art Club,Data Analysis,Rajasthan,Senior,Biology,5.9,French,"Volunteer Group, Art Club, Music Club",Mathematics
+Coding Club,"Leadership, Data Analysis, Artistic",Sikkim,Freshman,Mathematics,4.48,"Chinese, Japanese, French, German, English","Volunteer Group, Art Club, Debate Club, Sports Team, Coding Club, Music Club",Biology
+Music Club,"Public Speaking, Programming, Artistic",Tamil Nadu,Senior,History,7.92,"German, Spanish, Chinese, English, French, Japanese","Coding Club, Sports Team",Mathematics
+Debate Club,"Artistic, Data Analysis",Telangana,Senior,Mathematics,5.64,"German, Chinese, Japanese, French",Debate Club,Mathematics
+Debate Club,"Programming, Artistic, Leadership, Public Speaking, Problem Solving, Data Analysis",Tripura,Junior,Mathematics,7.0,"Chinese, Spanish, Japanese","Sports Team, Art Club",Mathematics
+Debate Club,Leadership,Uttar Pradesh,Graduate,Mathematics,7.94,"Spanish, Chinese, French","Music Club, Volunteer Group, Debate Club, Coding Club, Art Club, Sports Team",Mathematics
+Coding Club,"Problem Solving, Artistic, Programming, Public Speaking, Data Analysis",Uttarakhand,Graduate,Psychology,5.78,"Spanish, Japanese","Art Club, Debate Club, Music Club, Sports Team, Coding Club, Volunteer Group",Biology
+Volunteer Group,"Artistic, Problem Solving, Leadership, Public Speaking",West Bengal,Graduate,Physics,5.8,"French, Spanish, German, English, Chinese","Music Club, Volunteer Group",Computer science
+Art Club,Public Speaking,Andhra Pradesh,Graduate,Physics,6.12,"German, Chinese, Japanese, French, Spanish","Volunteer Group, Debate Club, Music Club, Art Club, Coding Club",Biology
+Volunteer Group,"Programming, Public Speaking, Artistic, Problem Solving",Arunachal Pradesh,Graduate,Biology,6.82,"Spanish, English, Japanese",Volunteer Group,Mathematics
+Coding Club,"Public Speaking, Programming, Leadership",Assam,Senior,History,6.7,"English, Spanish","Volunteer Group, Art Club, Debate Club, Coding Club, Sports Team",Computer science
+Volunteer Group,"Leadership, Problem Solving",Andaman & Nicobar Islands,Freshman,History,4.92,"Chinese, English, German","Debate Club, Music Club, Art Club, Coding Club, Volunteer Group",Biology
+Art Club,"Programming, Data Analysis, Artistic, Public Speaking, Problem Solving, Leadership",Chandigarh,Graduate,Biology,4.86,"French, English","Art Club, Coding Club, Sports Team, Volunteer Group",History
+Coding Club,Artistic,Dadra & Nagar Haveli and Daman & Diu,Sophomore,History,7.78,"Spanish, French","Coding Club, Art Club, Debate Club, Sports Team, Volunteer Group, Music Club",Computer science
+Sports Team,Artistic,Delhi,Junior,Biology,5.58,"English, Spanish, Japanese","Coding Club, Music Club, Sports Team, Art Club, Volunteer Group, Debate Club",History
+Volunteer Group,"Programming, Public Speaking, Data Analysis",Jammu & Kashmir,Graduate,Physics,4.18,"French, English","Volunteer Group, Coding Club, Debate Club, Sports Team, Art Club",Biology
+Coding Club,"Public Speaking, Artistic, Problem Solving, Programming",Ladakh,Junior,Biology,5.58,"Japanese, Chinese",Coding Club,Biology
+Volunteer Group,"Programming, Artistic, Leadership, Public Speaking, Data Analysis",Lakshadweep,Freshman,History,7.3,"German, Japanese, Spanish","Coding Club, Art Club, Sports Team, Music Club, Debate Club, Volunteer Group",Mathematics
+Art Club,"Programming, Problem Solving",Puducherry,Sophomore,Psychology,5.0,"Japanese, English","Volunteer Group, Sports Team, Art Club, Debate Club, Coding Club",Mathematics
+Music Club,"Leadership, Artistic, Data Analysis",Bihar,Graduate,History,5.34,English,"Volunteer Group, Music Club, Debate Club, Sports Team, Coding Club",Biology
+Volunteer Group,"Data Analysis, Leadership, Artistic, Programming, Problem Solving, Public Speaking",Chhattisgarh,Sophomore,Mathematics,5.74,"French, English, Chinese, Japanese","Volunteer Group, Art Club, Music Club, Sports Team",Computer science
+Music Club,"Problem Solving, Programming, Leadership, Artistic, Data Analysis, Public Speaking",Goa,Junior,Biology,4.96,"French, Japanese",Music Club,History
+Volunteer Group,Problem Solving,Gujarat,Sophomore,Mathematics,6.9,"Chinese, German, English, Japanese, French, Spanish","Art Club, Sports Team",History
+Debate Club,"Problem Solving, Artistic, Public Speaking, Leadership",Haryana,Freshman,Psychology,6.66,"Spanish, Chinese, English, Japanese","Volunteer Group, Debate Club, Art Club",Biology
+Coding Club,"Public Speaking, Leadership, Problem Solving",Himachal Pradesh,Sophomore,Physics,7.3,"German, English, French","Debate Club, Coding Club, Art Club, Music Club",Computer science
+Music Club,"Artistic, Public Speaking, Problem Solving, Data Analysis",Jharkhand,Freshman,Computer Science,5.82,"French, Spanish, English, Chinese, Japanese","Coding Club, Debate Club, Music Club, Art Club, Sports Team, Volunteer Group",Computer science
+Volunteer Group,"Public Speaking, Artistic, Problem Solving, Data Analysis, Programming",Karnataka,Sophomore,Mathematics,6.86,"Japanese, German, French, Spanish, Chinese, English","Coding Club, Sports Team, Art Club, Music Club, Debate Club, Volunteer Group",Biology
+Debate Club,"Artistic, Problem Solving, Programming, Leadership",Kerala,Senior,Computer Science,7.84,"German, Chinese, Spanish","Debate Club, Sports Team, Volunteer Group, Music Club",Computer science
+Art Club,"Artistic, Leadership, Programming, Public Speaking, Data Analysis, Problem Solving",Madhya Pradesh,Sophomore,Computer Science,6.72,"French, Spanish, German, Japanese, Chinese, English","Coding Club, Art Club, Debate Club, Volunteer Group, Music Club",Mathematics
+Music Club,"Leadership, Public Speaking, Programming, Artistic",Maharashtra,Junior,History,5.14,Spanish,Art Club,Mathematics
+Music Club,"Problem Solving, Leadership, Programming, Artistic",Manipur,Senior,Psychology,4.98,"German, Japanese, Chinese, English, Spanish","Art Club, Volunteer Group, Coding Club, Debate Club, Sports Team, Music Club",History
+Music Club,"Data Analysis, Programming, Problem Solving",Meghalaya,Graduate,Physics,5.6,"Spanish, French","Art Club, Sports Team",History
+Volunteer Group,"Leadership, Public Speaking, Problem Solving, Artistic, Data Analysis",Mizoram,Graduate,Psychology,5.7,"Chinese, English, French, German",Volunteer Group,History
+Sports Team,"Data Analysis, Programming, Public Speaking",Nagaland,Graduate,Mathematics,7.92,"English, Chinese, Spanish, French","Coding Club, Music Club",Mathematics
+Art Club,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving, Leadership",Odisha,Senior,Computer Science,4.26,German,"Coding Club, Debate Club, Music Club, Volunteer Group, Sports Team, Art Club",Biology
+Volunteer Group,"Public Speaking, Artistic",Punjab,Sophomore,Physics,5.02,English,"Art Club, Volunteer Group",Mathematics
+Debate Club,"Programming, Artistic, Leadership",Rajasthan,Junior,Computer Science,6.54,"English, Chinese, Spanish, Japanese, German","Coding Club, Debate Club, Music Club, Art Club, Sports Team, Volunteer Group",Computer science
+Volunteer Group,"Problem Solving, Artistic",Sikkim,Freshman,Computer Science,5.38,"Japanese, German, Chinese, Spanish","Art Club, Coding Club, Volunteer Group, Sports Team, Music Club, Debate Club",Computer science
+Coding Club,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis, Artistic",Tamil Nadu,Graduate,Computer Science,5.6,"German, Japanese, French",Volunteer Group,Mathematics
+Music Club,"Problem Solving, Data Analysis",Telangana,Junior,Computer Science,6.08,"French, Chinese, Spanish","Sports Team, Debate Club, Art Club, Coding Club, Music Club, Volunteer Group",Mathematics
+Music Club,"Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership",Tripura,Junior,Physics,6.92,"English, Spanish, Chinese, German","Volunteer Group, Debate Club, Coding Club, Sports Team, Art Club",History
+Coding Club,"Public Speaking, Programming, Data Analysis, Leadership, Problem Solving",Uttar Pradesh,Freshman,Computer Science,5.9,"Spanish, German, French","Coding Club, Debate Club, Sports Team, Music Club, Volunteer Group",History
+Coding Club,Artistic,Uttarakhand,Graduate,Physics,7.46,"German, Japanese, English, Spanish, French","Volunteer Group, Music Club",Computer science
+Sports Team,"Public Speaking, Problem Solving, Data Analysis, Artistic, Leadership, Programming",West Bengal,Sophomore,Psychology,5.78,"German, Chinese, Spanish, English, Japanese","Coding Club, Volunteer Group, Debate Club",Computer science
+Art Club,"Leadership, Problem Solving, Programming, Data Analysis, Artistic, Public Speaking",Andhra Pradesh,Freshman,Biology,4.82,"Chinese, Japanese, English","Coding Club, Volunteer Group, Debate Club",History
+Coding Club,"Leadership, Public Speaking",Arunachal Pradesh,Senior,Mathematics,6.28,"French, Spanish, Chinese, English, Japanese, German","Art Club, Debate Club, Coding Club, Sports Team, Volunteer Group, Music Club",History
+Volunteer Group,"Public Speaking, Artistic",Assam,Freshman,Psychology,4.08,"Japanese, English, Spanish","Coding Club, Sports Team",History
+Debate Club,Programming,Andaman & Nicobar Islands,Senior,History,6.78,"English, Spanish",Music Club,Computer science
+Art Club,"Artistic, Public Speaking, Data Analysis, Programming",Chandigarh,Freshman,Physics,4.4,"Spanish, English, German, Japanese","Coding Club, Art Club, Volunteer Group, Sports Team",History
+Sports Team,Data Analysis,Dadra & Nagar Haveli and Daman & Diu,Junior,Biology,6.64,"Spanish, Chinese, French, Japanese, English, German","Music Club, Sports Team, Art Club, Coding Club, Volunteer Group, Debate Club",Computer science
+Coding Club,Programming,Delhi,Senior,Computer Science,7.38,"Japanese, French, Chinese, English, German, Spanish","Volunteer Group, Coding Club, Music Club, Sports Team, Debate Club",Computer science
+Coding Club,"Programming, Public Speaking",Jammu & Kashmir,Sophomore,History,6.12,"French, Japanese, Spanish, Chinese","Coding Club, Music Club, Volunteer Group, Art Club, Sports Team",Computer science
+Volunteer Group,"Data Analysis, Artistic",Ladakh,Senior,Computer Science,4.98,"French, Japanese, Chinese, English, Spanish, German","Volunteer Group, Art Club, Sports Team",History
+Coding Club,"Programming, Data Analysis, Public Speaking, Leadership, Artistic, Problem Solving",Lakshadweep,Sophomore,Mathematics,6.86,"German, French, Chinese, Spanish","Art Club, Debate Club",Biology
+Volunteer Group,"Public Speaking, Problem Solving, Artistic, Programming",Puducherry,Freshman,Mathematics,7.62,"Chinese, Japanese, French","Music Club, Coding Club, Art Club",Computer science
+Volunteer Group,"Problem Solving, Public Speaking, Artistic, Data Analysis, Programming",Bihar,Junior,Mathematics,6.66,"Chinese, German","Volunteer Group, Art Club, Debate Club, Sports Team, Music Club",Biology
+Coding Club,"Data Analysis, Programming",Chhattisgarh,Graduate,Biology,7.04,German,"Coding Club, Volunteer Group, Debate Club, Music Club",Mathematics
+Sports Team,Artistic,Goa,Senior,History,5.52,"Spanish, Chinese, Japanese, English, French","Sports Team, Debate Club",History
+Art Club,Leadership,Gujarat,Freshman,Computer Science,7.5,"English, French, Japanese, Spanish","Debate Club, Music Club, Volunteer Group, Sports Team",Computer science
+Art Club,"Artistic, Problem Solving, Programming",Haryana,Freshman,Psychology,5.42,"Japanese, English, Spanish","Volunteer Group, Art Club, Music Club, Sports Team, Debate Club, Coding Club",Mathematics
+Volunteer Group,Leadership,Himachal Pradesh,Junior,Physics,4.26,"Chinese, Japanese","Music Club, Sports Team, Coding Club, Art Club",Biology
+Volunteer Group,"Leadership, Data Analysis, Artistic",Jharkhand,Freshman,Physics,5.9,"Spanish, German, English","Debate Club, Coding Club",Computer science
+Coding Club,"Programming, Leadership, Artistic, Data Analysis, Public Speaking, Problem Solving",Karnataka,Freshman,Mathematics,4.48,"Japanese, Spanish, English","Debate Club, Music Club, Volunteer Group",History
+Music Club,"Public Speaking, Artistic, Programming",Kerala,Senior,Biology,7.86,"Chinese, English, Spanish, French, German, Japanese","Debate Club, Volunteer Group, Art Club, Sports Team, Music Club, Coding Club",Mathematics
+Coding Club,"Public Speaking, Data Analysis, Artistic, Problem Solving, Programming, Leadership",Madhya Pradesh,Graduate,Psychology,7.04,German,Volunteer Group,Computer science
+Music Club,"Data Analysis, Leadership",Maharashtra,Freshman,History,7.38,"English, Japanese, German, Spanish, Chinese, French","Volunteer Group, Debate Club",Computer science
+Coding Club,"Problem Solving, Programming, Leadership, Public Speaking",Manipur,Graduate,Computer Science,6.3,"Spanish, English, French, Japanese, German","Music Club, Volunteer Group",History
+Debate Club,"Programming, Public Speaking, Leadership",Meghalaya,Graduate,Psychology,5.42,Spanish,"Coding Club, Debate Club, Sports Team",Mathematics
+Volunteer Group,"Public Speaking, Problem Solving, Artistic",Mizoram,Freshman,History,4.38,English,"Debate Club, Coding Club, Music Club, Volunteer Group",History
+Sports Team,Leadership,Nagaland,Sophomore,Psychology,6.92,"English, French, Chinese, German, Japanese","Sports Team, Music Club, Volunteer Group, Coding Club, Debate Club",Biology
+Volunteer Group,"Programming, Problem Solving, Data Analysis",Odisha,Senior,Physics,5.42,"Spanish, Chinese, German, French","Coding Club, Debate Club, Volunteer Group, Art Club, Music Club, Sports Team",Biology
+Art Club,Artistic,Punjab,Sophomore,Mathematics,6.84,"Chinese, German","Sports Team, Debate Club",History
+Sports Team,"Artistic, Data Analysis, Programming",Rajasthan,Junior,Mathematics,7.22,Spanish,"Sports Team, Volunteer Group, Debate Club",Mathematics
+Art Club,"Problem Solving, Data Analysis, Leadership",Sikkim,Senior,Psychology,5.56,Japanese,"Sports Team, Art Club, Coding Club, Volunteer Group, Debate Club",Mathematics
+Music Club,"Public Speaking, Data Analysis, Programming, Leadership",Tamil Nadu,Graduate,Mathematics,7.28,"French, German",Music Club,Computer science
+Debate Club,"Programming, Public Speaking, Problem Solving, Data Analysis",Telangana,Sophomore,Psychology,7.66,English,"Coding Club, Debate Club, Sports Team, Art Club",Mathematics
+Art Club,"Data Analysis, Artistic, Leadership, Problem Solving, Public Speaking, Programming",Tripura,Senior,Biology,7.1,"Chinese, English, Spanish, Japanese, German, French",Sports Team,Computer science
+Art Club,"Problem Solving, Artistic, Leadership, Programming, Data Analysis, Public Speaking",Uttar Pradesh,Graduate,Physics,4.16,English,"Music Club, Volunteer Group",Biology
+Art Club,"Data Analysis, Leadership, Programming, Public Speaking, Problem Solving",Uttarakhand,Senior,Mathematics,7.62,"Chinese, French, German","Art Club, Coding Club",Computer science
+Music Club,"Problem Solving, Programming, Data Analysis, Public Speaking, Leadership, Artistic",West Bengal,Graduate,Physics,4.42,"Japanese, Spanish","Coding Club, Sports Team",History
+Music Club,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking",Andhra Pradesh,Sophomore,Physics,4.02,"Japanese, Spanish, Chinese, German","Sports Team, Music Club, Coding Club, Art Club, Debate Club",Biology
+Music Club,Leadership,Arunachal Pradesh,Sophomore,History,7.48,"Japanese, English","Art Club, Music Club, Coding Club, Volunteer Group, Sports Team, Debate Club",Computer science
+Music Club,"Leadership, Programming, Problem Solving, Public Speaking, Artistic",Assam,Senior,History,6.62,"Spanish, Chinese, German, French","Debate Club, Music Club, Coding Club, Art Club",Mathematics
+Coding Club,"Data Analysis, Public Speaking, Artistic, Programming",Andaman & Nicobar Islands,Senior,Physics,5.22,"German, Spanish, English","Music Club, Coding Club, Art Club, Volunteer Group, Sports Team, Debate Club",Mathematics
+Debate Club,"Artistic, Public Speaking, Data Analysis, Problem Solving, Programming, Leadership",Chandigarh,Junior,History,4.94,"Japanese, French",Debate Club,Biology
+Sports Team,"Artistic, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Senior,Biology,4.28,"French, English","Music Club, Coding Club, Art Club",History
+Music Club,"Data Analysis, Artistic, Public Speaking, Problem Solving, Leadership, Programming",Delhi,Junior,History,5.02,"Chinese, French","Music Club, Volunteer Group, Sports Team, Coding Club, Debate Club, Art Club",Mathematics
+Debate Club,"Artistic, Problem Solving, Public Speaking, Data Analysis, Programming",Jammu & Kashmir,Senior,Computer Science,4.8,"English, German, French, Japanese, Spanish",Music Club,Biology
+Volunteer Group,"Programming, Public Speaking",Ladakh,Junior,Psychology,7.92,"English, German, French, Japanese","Music Club, Sports Team, Debate Club, Volunteer Group, Art Club, Coding Club",Computer science
+Music Club,"Data Analysis, Problem Solving",Lakshadweep,Freshman,Psychology,4.16,"English, Chinese, Spanish","Coding Club, Art Club, Volunteer Group, Sports Team, Music Club",Biology
+Art Club,"Leadership, Artistic, Problem Solving",Puducherry,Sophomore,Psychology,5.6,"French, Spanish",Coding Club,Computer science
+Art Club,"Leadership, Programming, Public Speaking, Data Analysis, Artistic, Problem Solving",Bihar,Graduate,Biology,6.76,"French, Japanese","Debate Club, Sports Team",History
+Debate Club,"Problem Solving, Leadership, Data Analysis, Public Speaking, Artistic, Programming",Chhattisgarh,Sophomore,Physics,4.38,"Spanish, French, Japanese","Debate Club, Art Club, Sports Team, Coding Club",Biology
+Debate Club,"Data Analysis, Artistic, Leadership, Programming, Problem Solving",Goa,Graduate,Computer Science,4.76,"French, Chinese","Sports Team, Debate Club, Coding Club",History
+Volunteer Group,"Programming, Public Speaking",Gujarat,Sophomore,Mathematics,7.26,"German, Chinese, English, French","Art Club, Volunteer Group, Coding Club, Debate Club, Music Club, Sports Team",Computer science
+Art Club,"Leadership, Public Speaking, Programming",Haryana,Junior,Physics,4.04,"Spanish, French, Japanese, Chinese","Sports Team, Art Club",History
+Sports Team,Artistic,Himachal Pradesh,Graduate,Psychology,7.82,"Chinese, Japanese",Debate Club,Computer science
+Coding Club,"Data Analysis, Problem Solving, Public Speaking, Leadership, Programming",Jharkhand,Freshman,Physics,7.74,"Chinese, English","Music Club, Coding Club, Sports Team, Debate Club",Computer science
+Debate Club,"Data Analysis, Leadership, Artistic, Public Speaking, Programming",Karnataka,Junior,Mathematics,4.16,"German, French","Debate Club, Coding Club, Volunteer Group",Biology
+Coding Club,"Programming, Problem Solving, Data Analysis, Artistic, Leadership, Public Speaking",Kerala,Junior,History,4.18,"Spanish, German, English, Japanese, Chinese","Volunteer Group, Art Club, Coding Club, Sports Team, Music Club",History
+Sports Team,"Data Analysis, Problem Solving, Programming, Leadership",Madhya Pradesh,Junior,Biology,7.08,English,"Sports Team, Coding Club",Computer science
+Art Club,Data Analysis,Maharashtra,Graduate,Psychology,7.08,"German, Japanese",Art Club,Computer science
+Art Club,"Public Speaking, Leadership, Data Analysis, Programming, Problem Solving",Manipur,Junior,Psychology,6.36,"German, Japanese, English","Volunteer Group, Music Club, Art Club, Coding Club, Debate Club, Sports Team",Mathematics
+Volunteer Group,"Data Analysis, Public Speaking, Problem Solving",Meghalaya,Junior,Physics,6.76,"German, Japanese, English, Chinese, Spanish","Art Club, Music Club",Mathematics
+Volunteer Group,"Leadership, Public Speaking, Programming, Problem Solving",Mizoram,Graduate,Computer Science,4.82,French,"Music Club, Coding Club, Debate Club",History
+Debate Club,"Leadership, Artistic, Programming",Nagaland,Freshman,Computer Science,6.48,"German, Chinese, French, Japanese, English","Art Club, Music Club",Computer science
+Volunteer Group,"Problem Solving, Data Analysis, Public Speaking, Leadership, Programming, Artistic",Odisha,Graduate,Biology,5.12,Spanish,"Music Club, Art Club, Coding Club, Debate Club, Sports Team, Volunteer Group",Biology
+Volunteer Group,"Leadership, Public Speaking, Problem Solving",Punjab,Graduate,Mathematics,5.86,"Japanese, Spanish","Music Club, Debate Club, Coding Club, Sports Team, Volunteer Group",Computer science
+Music Club,Data Analysis,Rajasthan,Junior,Mathematics,4.34,"Spanish, German, English, French",Volunteer Group,History
+Volunteer Group,Problem Solving,Sikkim,Graduate,Biology,4.38,"Spanish, English, French, Chinese","Debate Club, Music Club",History
+Volunteer Group,"Problem Solving, Data Analysis, Public Speaking, Leadership",Tamil Nadu,Freshman,Psychology,5.5,"Japanese, German, English","Volunteer Group, Debate Club",History
+Volunteer Group,"Programming, Leadership, Data Analysis, Artistic, Public Speaking, Problem Solving",Telangana,Freshman,Physics,6.28,"Spanish, German, Chinese, French, Japanese","Debate Club, Music Club, Coding Club, Sports Team, Volunteer Group",Mathematics
+Debate Club,"Artistic, Data Analysis, Leadership, Problem Solving, Public Speaking, Programming",Tripura,Senior,Biology,6.1,"Chinese, Spanish","Sports Team, Art Club",History
+Music Club,"Programming, Public Speaking, Data Analysis",Uttar Pradesh,Sophomore,Mathematics,7.72,"Spanish, French, German, English, Chinese","Sports Team, Music Club, Coding Club, Volunteer Group, Debate Club, Art Club",Computer science
+Art Club,"Problem Solving, Data Analysis, Public Speaking, Programming",Uttarakhand,Junior,Biology,5.36,"German, French, Japanese, Chinese, English",Debate Club,Mathematics
+Music Club,"Leadership, Problem Solving, Data Analysis",West Bengal,Graduate,Computer Science,6.94,"English, German, French",Music Club,Biology
+Art Club,"Artistic, Data Analysis",Andhra Pradesh,Junior,History,6.26,French,"Art Club, Music Club, Sports Team, Coding Club",Computer science
+Sports Team,"Leadership, Artistic",Arunachal Pradesh,Graduate,Mathematics,4.28,"Japanese, French, German, Chinese, Spanish, English","Art Club, Music Club, Coding Club",Biology
+Debate Club,Data Analysis,Assam,Junior,Biology,7.88,"German, Chinese, Spanish, Japanese",Coding Club,Mathematics
+Art Club,"Artistic, Public Speaking, Data Analysis, Leadership",Andaman & Nicobar Islands,Senior,Mathematics,4.58,French,"Coding Club, Sports Team, Music Club, Volunteer Group, Art Club, Debate Club",Biology
+Music Club,"Artistic, Data Analysis, Problem Solving, Public Speaking, Programming, Leadership",Chandigarh,Sophomore,History,6.12,"English, Japanese, German, Chinese","Art Club, Debate Club, Volunteer Group",Computer science
+Coding Club,"Programming, Leadership, Problem Solving",Dadra & Nagar Haveli and Daman & Diu,Junior,Biology,5.76,German,"Music Club, Volunteer Group",Mathematics
+Coding Club,"Data Analysis, Leadership, Artistic, Problem Solving, Programming",Delhi,Graduate,Psychology,6.62,"English, Japanese","Music Club, Volunteer Group, Art Club, Coding Club, Sports Team",Biology
+Sports Team,"Data Analysis, Artistic, Public Speaking, Programming, Leadership",Jammu & Kashmir,Senior,Mathematics,6.04,"Japanese, French, Spanish, German","Coding Club, Music Club, Sports Team, Volunteer Group, Debate Club, Art Club",Biology
+Coding Club,Leadership,Ladakh,Sophomore,Computer Science,4.84,"Spanish, German, English, French, Japanese, Chinese","Volunteer Group, Music Club, Sports Team, Coding Club, Art Club, Debate Club",Biology
+Debate Club,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking",Lakshadweep,Junior,Biology,4.86,English,Debate Club,Biology
+Coding Club,"Problem Solving, Leadership, Programming, Artistic, Data Analysis, Public Speaking",Puducherry,Graduate,Biology,4.9,"French, Japanese",Art Club,History
+Debate Club,Programming,Bihar,Sophomore,Computer Science,4.28,"Chinese, German, French, Spanish",Debate Club,History
+Volunteer Group,"Artistic, Data Analysis, Programming, Problem Solving, Public Speaking",Chhattisgarh,Senior,Mathematics,7.7,"Chinese, English","Debate Club, Sports Team, Volunteer Group, Music Club",Computer science
+Art Club,"Leadership, Programming, Public Speaking",Goa,Senior,Computer Science,7.4,"Chinese, German","Sports Team, Volunteer Group, Coding Club, Music Club, Debate Club",Mathematics
+Coding Club,"Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership",Gujarat,Junior,Biology,5.94,"Spanish, Chinese, German",Volunteer Group,History
+Music Club,"Problem Solving, Programming, Leadership, Data Analysis, Artistic",Haryana,Freshman,Psychology,7.54,"Japanese, French, German","Volunteer Group, Coding Club, Sports Team, Debate Club, Music Club, Art Club",Mathematics
+Volunteer Group,"Programming, Artistic, Leadership, Problem Solving",Himachal Pradesh,Graduate,History,5.9,"Japanese, French, Chinese, Spanish, German","Coding Club, Art Club, Music Club",Computer science
+Sports Team,"Public Speaking, Artistic, Programming, Leadership",Jharkhand,Senior,Physics,6.18,English,"Music Club, Sports Team, Coding Club",Mathematics
+Debate Club,"Artistic, Leadership, Public Speaking, Programming, Problem Solving",Karnataka,Freshman,Mathematics,7.16,"German, English",Sports Team,Mathematics
+Debate Club,"Leadership, Data Analysis",Kerala,Senior,Computer Science,4.04,Chinese,"Coding Club, Debate Club, Music Club",History
+Sports Team,Leadership,Madhya Pradesh,Freshman,Computer Science,6.22,French,"Coding Club, Music Club, Art Club, Sports Team, Volunteer Group",Computer science
+Debate Club,"Leadership, Programming, Problem Solving, Artistic",Maharashtra,Sophomore,Computer Science,4.66,"Japanese, Chinese, English, Spanish, German","Sports Team, Debate Club, Music Club, Art Club, Coding Club, Volunteer Group",Biology
+Debate Club,"Programming, Artistic, Public Speaking, Problem Solving, Data Analysis, Leadership",Manipur,Graduate,Physics,7.64,"Chinese, French","Debate Club, Volunteer Group, Coding Club",Mathematics
+Debate Club,"Leadership, Data Analysis, Programming, Public Speaking, Problem Solving",Meghalaya,Senior,Computer Science,6.48,"French, English, Chinese","Volunteer Group, Debate Club, Sports Team, Art Club",Biology
+Sports Team,"Leadership, Problem Solving, Artistic",Mizoram,Graduate,History,6.14,"Spanish, English, French, German, Chinese, Japanese","Volunteer Group, Art Club, Debate Club, Coding Club, Music Club, Sports Team",Mathematics
+Music Club,"Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership",Nagaland,Junior,Computer Science,5.02,"Spanish, German, Chinese, Japanese, French, English","Sports Team, Volunteer Group, Debate Club, Music Club, Art Club",Computer science
+Volunteer Group,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis",Odisha,Junior,Biology,5.64,German,"Music Club, Sports Team",Computer science
+Art Club,"Problem Solving, Leadership, Public Speaking, Artistic, Programming",Punjab,Sophomore,Biology,5.72,"Spanish, Chinese, German, English, Japanese","Debate Club, Art Club",Mathematics
+Volunteer Group,Problem Solving,Rajasthan,Sophomore,Mathematics,6.42,Chinese,"Debate Club, Art Club",Mathematics
+Volunteer Group,"Programming, Data Analysis, Problem Solving, Artistic, Public Speaking",Sikkim,Senior,Physics,7.26,Japanese,"Music Club, Sports Team, Debate Club, Art Club, Volunteer Group",Computer science
+Sports Team,"Public Speaking, Data Analysis, Artistic, Problem Solving",Tamil Nadu,Freshman,Psychology,6.0,"English, German","Sports Team, Volunteer Group, Music Club, Debate Club, Art Club",Biology
+Volunteer Group,"Public Speaking, Data Analysis",Telangana,Graduate,Biology,5.0,"English, Chinese, French, Spanish","Art Club, Sports Team, Music Club, Debate Club, Coding Club",History
+Coding Club,"Data Analysis, Leadership, Problem Solving, Programming, Artistic, Public Speaking",Tripura,Freshman,Physics,7.7,Spanish,"Music Club, Art Club, Sports Team, Debate Club, Coding Club, Volunteer Group",Mathematics
+Sports Team,"Programming, Data Analysis, Problem Solving, Leadership",Uttar Pradesh,Freshman,Physics,6.02,"Japanese, German, Spanish, French","Art Club, Volunteer Group, Sports Team",Computer science
+Art Club,Data Analysis,Uttarakhand,Sophomore,Computer Science,6.9,"Chinese, German, Spanish, Japanese, French","Debate Club, Sports Team, Art Club, Coding Club, Volunteer Group, Music Club",Mathematics
+Debate Club,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking",West Bengal,Freshman,Computer Science,6.92,"German, Spanish, English, Japanese, French","Coding Club, Sports Team",Biology
+Music Club,"Public Speaking, Programming, Data Analysis",Andhra Pradesh,Senior,Psychology,4.58,"French, Japanese, German, Chinese","Volunteer Group, Music Club, Art Club, Coding Club",Biology
+Debate Club,"Leadership, Problem Solving, Public Speaking",Arunachal Pradesh,Sophomore,Biology,5.34,"German, French, English, Japanese, Spanish, Chinese","Sports Team, Coding Club, Art Club, Volunteer Group, Debate Club, Music Club",Computer science
+Debate Club,"Data Analysis, Programming, Artistic",Assam,Freshman,Psychology,6.26,"Chinese, English, German, Spanish, Japanese","Debate Club, Sports Team, Music Club, Coding Club, Art Club, Volunteer Group",Mathematics
+Debate Club,Leadership,Andaman & Nicobar Islands,Sophomore,Computer Science,4.4,"Spanish, Japanese, Chinese","Sports Team, Art Club",Biology
+Volunteer Group,"Data Analysis, Programming",Chandigarh,Senior,Biology,5.04,"German, Chinese, Spanish, French","Volunteer Group, Coding Club, Debate Club",Biology
+Coding Club,"Problem Solving, Artistic",Dadra & Nagar Haveli and Daman & Diu,Graduate,History,7.16,"French, Chinese, Spanish, English","Debate Club, Music Club",Mathematics
+Sports Team,"Problem Solving, Public Speaking, Leadership",Delhi,Sophomore,History,6.98,"Chinese, Spanish, German, English, Japanese, French","Debate Club, Art Club",Mathematics
+Debate Club,"Problem Solving, Leadership, Data Analysis, Public Speaking",Jammu & Kashmir,Senior,Biology,7.22,Japanese,"Art Club, Sports Team, Coding Club, Volunteer Group, Debate Club",Computer science
+Coding Club,"Data Analysis, Public Speaking",Ladakh,Senior,Physics,5.78,"German, English, Spanish, French, Japanese, Chinese",Volunteer Group,Mathematics
+Sports Team,"Programming, Leadership, Artistic, Problem Solving, Public Speaking",Lakshadweep,Senior,History,4.7,"Chinese, German","Debate Club, Coding Club, Music Club, Volunteer Group, Art Club, Sports Team",History
+Coding Club,"Leadership, Data Analysis, Artistic, Problem Solving",Puducherry,Junior,Physics,4.0,Japanese,"Sports Team, Art Club, Debate Club, Volunteer Group",Biology
+Art Club,"Public Speaking, Artistic, Problem Solving, Programming, Data Analysis, Leadership",Bihar,Junior,Mathematics,7.8,Spanish,"Music Club, Coding Club, Debate Club",Mathematics
+Music Club,"Problem Solving, Public Speaking, Programming",Chhattisgarh,Junior,Computer Science,6.4,French,"Music Club, Coding Club, Debate Club, Volunteer Group",Biology
+Debate Club,Data Analysis,Goa,Freshman,Psychology,4.54,"Spanish, German","Sports Team, Coding Club, Debate Club",Biology
+Art Club,"Programming, Public Speaking, Artistic, Problem Solving",Gujarat,Freshman,Computer Science,5.28,"Spanish, English, French","Debate Club, Art Club, Music Club",History
+Volunteer Group,"Leadership, Data Analysis, Public Speaking",Haryana,Freshman,Psychology,7.68,"Chinese, Japanese",Music Club,Mathematics
+Sports Team,"Problem Solving, Public Speaking, Programming, Artistic, Leadership, Data Analysis",Himachal Pradesh,Senior,Psychology,7.8,Japanese,"Volunteer Group, Debate Club, Music Club, Sports Team",Computer science
+Music Club,"Problem Solving, Public Speaking",Jharkhand,Junior,Psychology,7.34,German,"Volunteer Group, Coding Club",Computer science
+Coding Club,"Data Analysis, Leadership, Artistic, Problem Solving, Programming",Karnataka,Graduate,Mathematics,7.74,"Japanese, French, Spanish","Sports Team, Volunteer Group",Mathematics
+Art Club,"Artistic, Data Analysis, Programming, Leadership",Kerala,Junior,Computer Science,7.44,"Spanish, English, German, Chinese","Volunteer Group, Music Club, Art Club, Coding Club, Debate Club",Computer science
+Art Club,"Leadership, Data Analysis, Public Speaking, Problem Solving, Artistic, Programming",Madhya Pradesh,Junior,Computer Science,7.42,"German, Chinese, French, Spanish","Coding Club, Sports Team, Debate Club, Music Club, Art Club, Volunteer Group",Mathematics
+Volunteer Group,Artistic,Maharashtra,Sophomore,Computer Science,4.3,"German, French","Debate Club, Music Club, Coding Club, Sports Team, Art Club",History
+Volunteer Group,"Artistic, Programming, Data Analysis",Manipur,Junior,History,5.14,"German, English","Sports Team, Art Club, Debate Club, Coding Club, Volunteer Group, Music Club",History
+Debate Club,"Leadership, Artistic, Data Analysis",Meghalaya,Senior,Physics,7.82,"Spanish, English, French","Art Club, Debate Club",Mathematics
+Art Club,"Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership",Mizoram,Freshman,Physics,5.86,"Japanese, Chinese, English, German, French, Spanish","Debate Club, Art Club, Music Club, Sports Team, Coding Club",History
+Art Club,"Data Analysis, Artistic",Nagaland,Senior,Biology,4.2,"Japanese, French, Spanish, Chinese",Debate Club,History
+Volunteer Group,"Programming, Data Analysis",Odisha,Sophomore,History,7.54,"English, French, Spanish, Chinese, Japanese","Debate Club, Coding Club, Music Club, Sports Team, Art Club, Volunteer Group",Mathematics
+Art Club,"Programming, Public Speaking, Leadership, Data Analysis, Artistic, Problem Solving",Punjab,Freshman,Mathematics,6.94,"Chinese, German, English, French, Spanish, Japanese","Art Club, Volunteer Group, Coding Club, Music Club, Sports Team, Debate Club",Mathematics
+Coding Club,"Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis",Rajasthan,Junior,History,7.28,German,"Art Club, Volunteer Group, Sports Team",Computer science
+Coding Club,"Leadership, Data Analysis, Programming, Artistic, Public Speaking",Sikkim,Freshman,Psychology,6.46,"French, German, Japanese","Coding Club, Art Club, Music Club, Debate Club",Computer science
+Sports Team,Leadership,Tamil Nadu,Senior,Biology,7.9,"Japanese, Chinese, Spanish, English, French, German","Art Club, Debate Club, Coding Club, Music Club, Sports Team, Volunteer Group",Computer science
+Coding Club,Problem Solving,Telangana,Senior,Biology,7.02,"English, French, Japanese, German","Music Club, Coding Club",Mathematics
+Volunteer Group,"Data Analysis, Public Speaking, Programming, Problem Solving, Leadership, Artistic",Tripura,Junior,Computer Science,6.94,"Japanese, Chinese","Volunteer Group, Art Club, Debate Club, Music Club, Coding Club",Mathematics
+Art Club,"Programming, Public Speaking",Uttar Pradesh,Junior,Mathematics,6.1,"Japanese, German, Chinese","Coding Club, Sports Team",Biology
+Debate Club,Programming,Uttarakhand,Freshman,Biology,4.44,English,Coding Club,Biology
+Debate Club,"Programming, Leadership, Data Analysis",West Bengal,Freshman,Psychology,4.44,"English, Japanese, French","Music Club, Sports Team, Coding Club, Debate Club, Volunteer Group, Art Club",History
+Sports Team,"Leadership, Public Speaking, Data Analysis, Programming, Problem Solving, Artistic",Andhra Pradesh,Sophomore,Mathematics,4.86,"Spanish, Japanese, German, Chinese, French","Coding Club, Volunteer Group, Art Club, Music Club",History
+Art Club,"Data Analysis, Artistic, Programming, Problem Solving, Leadership",Arunachal Pradesh,Junior,Psychology,7.44,"Spanish, German","Sports Team, Debate Club, Coding Club, Volunteer Group, Art Club, Music Club",Computer science
+Music Club,"Programming, Data Analysis, Artistic, Problem Solving, Public Speaking",Assam,Junior,Psychology,7.14,"English, German, Spanish, Chinese, Japanese, French","Music Club, Volunteer Group, Sports Team, Debate Club, Coding Club",Computer science
+Volunteer Group,"Data Analysis, Leadership, Problem Solving, Public Speaking",Andaman & Nicobar Islands,Senior,Psychology,5.42,"Japanese, Spanish",Music Club,Biology
+Volunteer Group,"Leadership, Data Analysis, Programming",Chandigarh,Graduate,Computer Science,5.76,"Spanish, English","Coding Club, Sports Team, Volunteer Group, Debate Club, Art Club, Music Club",Biology
+Art Club,"Data Analysis, Problem Solving, Programming, Leadership, Public Speaking",Dadra & Nagar Haveli and Daman & Diu,Sophomore,Computer Science,5.9,"German, Spanish, Chinese","Art Club, Debate Club, Coding Club, Music Club, Sports Team, Volunteer Group",Biology
+Art Club,"Problem Solving, Data Analysis, Leadership, Artistic, Public Speaking",Delhi,Graduate,Biology,4.7,"Spanish, English, French, German, Japanese, Chinese","Art Club, Sports Team, Debate Club, Coding Club",History
+Coding Club,"Artistic, Problem Solving",Jammu & Kashmir,Junior,History,6.36,"Spanish, German, Chinese",Debate Club,Computer science
+Sports Team,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis",Ladakh,Junior,Psychology,5.74,"Chinese, German","Sports Team, Art Club",Computer science
+Music Club,Public Speaking,Lakshadweep,Graduate,Mathematics,5.72,French,Art Club,Biology
+Sports Team,"Programming, Public Speaking, Data Analysis",Puducherry,Junior,Psychology,5.6,"Spanish, German, French, English, Japanese, Chinese",Music Club,History
+Volunteer Group,"Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving, Programming",Bihar,Sophomore,Biology,4.7,"French, English, Spanish","Volunteer Group, Art Club, Sports Team, Debate Club, Coding Club, Music Club",History
+Coding Club,"Programming, Data Analysis, Artistic, Public Speaking",Chhattisgarh,Sophomore,Computer Science,5.88,"Japanese, German, Chinese, English, Spanish, French","Debate Club, Sports Team, Art Club, Music Club, Volunteer Group, Coding Club",Mathematics
+Debate Club,Data Analysis,Goa,Freshman,History,7.26,Japanese,"Sports Team, Art Club, Volunteer Group, Coding Club",Mathematics
+Music Club,"Data Analysis, Public Speaking",Gujarat,Junior,Physics,5.96,"Spanish, French, Japanese, English, Chinese","Sports Team, Art Club",History
+Debate Club,"Leadership, Programming, Public Speaking, Artistic, Data Analysis, Problem Solving",Haryana,Graduate,Biology,4.68,"German, French","Sports Team, Coding Club, Debate Club, Music Club",History
+Coding Club,"Public Speaking, Data Analysis",Himachal Pradesh,Graduate,Physics,4.78,"Spanish, German, French","Volunteer Group, Debate Club",History
+Debate Club,"Public Speaking, Problem Solving",Jharkhand,Sophomore,Biology,7.3,"French, Japanese, Chinese, English","Art Club, Music Club",Mathematics
+Coding Club,"Problem Solving, Data Analysis, Programming, Leadership, Artistic",Karnataka,Sophomore,Biology,6.74,"Spanish, German, French, Chinese","Debate Club, Art Club, Music Club",Mathematics
+Sports Team,"Public Speaking, Data Analysis, Leadership",Kerala,Graduate,Physics,5.2,"French, Spanish, English, Chinese, Japanese","Volunteer Group, Coding Club, Debate Club, Music Club, Sports Team, Art Club",History
+Music Club,"Programming, Problem Solving, Data Analysis, Artistic",Madhya Pradesh,Junior,Computer Science,4.92,German,"Debate Club, Coding Club, Sports Team",History
+Sports Team,"Data Analysis, Problem Solving, Leadership, Public Speaking",Maharashtra,Sophomore,History,6.06,"Japanese, English, German, Chinese","Music Club, Art Club, Sports Team",Mathematics
+Music Club,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking, Artistic",Manipur,Sophomore,History,5.44,"Chinese, Spanish, German",Sports Team,Biology
+Music Club,"Programming, Artistic, Leadership, Public Speaking",Meghalaya,Sophomore,Mathematics,4.5,"German, English, Spanish, Chinese","Music Club, Debate Club, Coding Club, Sports Team, Art Club, Volunteer Group",Biology
+Art Club,"Programming, Public Speaking, Problem Solving",Mizoram,Sophomore,Computer Science,5.46,"German, Japanese, Spanish, Chinese","Music Club, Debate Club, Sports Team, Volunteer Group",History
+Debate Club,"Programming, Leadership, Artistic, Data Analysis, Problem Solving",Nagaland,Senior,Mathematics,7.48,Spanish,"Volunteer Group, Music Club, Coding Club, Art Club, Debate Club",Computer science
+Coding Club,"Public Speaking, Artistic, Problem Solving, Programming, Leadership",Odisha,Junior,Physics,6.54,"English, Spanish, German, Japanese","Coding Club, Debate Club, Sports Team, Music Club, Volunteer Group, Art Club",Biology
+Music Club,"Problem Solving, Leadership, Artistic, Public Speaking, Programming, Data Analysis",Punjab,Sophomore,History,6.26,"Spanish, English","Coding Club, Volunteer Group, Sports Team",Biology
+Volunteer Group,"Artistic, Public Speaking, Data Analysis, Programming, Leadership",Rajasthan,Graduate,Psychology,4.98,"English, Spanish, Chinese, German, French, Japanese","Art Club, Sports Team",History
+Debate Club,"Leadership, Programming",Sikkim,Sophomore,Biology,4.0,"French, Chinese","Volunteer Group, Coding Club, Art Club, Sports Team, Music Club",History
+Music Club,Data Analysis,Tamil Nadu,Sophomore,History,4.1,"Chinese, English, German, Japanese, French",Debate Club,Biology
+Volunteer Group,"Programming, Leadership, Data Analysis, Problem Solving, Artistic, Public Speaking",Telangana,Senior,History,6.32,"German, Japanese, Chinese, English","Coding Club, Debate Club, Art Club",History
+Music Club,Problem Solving,Tripura,Freshman,History,6.0,"French, German, Chinese, Spanish, English","Sports Team, Debate Club, Music Club, Volunteer Group",Computer science
+Coding Club,Programming,Uttar Pradesh,Graduate,Computer Science,5.8,"French, Chinese","Sports Team, Art Club, Volunteer Group, Debate Club",Computer science
+Art Club,"Programming, Problem Solving, Artistic, Data Analysis, Leadership",Uttarakhand,Junior,Computer Science,6.84,French,"Art Club, Coding Club, Debate Club",Computer science
+Sports Team,"Artistic, Public Speaking",West Bengal,Graduate,Psychology,6.76,"English, Spanish, French, German, Chinese","Volunteer Group, Coding Club, Sports Team",Mathematics
+Sports Team,"Artistic, Programming, Data Analysis, Leadership",Andhra Pradesh,Sophomore,Psychology,4.76,"English, Chinese, Spanish, Japanese, French, German",Music Club,History
+Art Club,"Leadership, Data Analysis, Problem Solving, Programming, Public Speaking, Artistic",Arunachal Pradesh,Junior,Biology,5.44,"Japanese, English, German, Chinese, Spanish","Coding Club, Art Club",History
+Art Club,"Data Analysis, Artistic, Programming, Public Speaking, Problem Solving, Leadership",Assam,Sophomore,Mathematics,6.1,Japanese,"Volunteer Group, Sports Team, Music Club",Computer science
+Music Club,"Leadership, Problem Solving",Andaman & Nicobar Islands,Sophomore,Psychology,6.82,"English, Chinese","Music Club, Sports Team, Art Club, Debate Club",Computer science
+Music Club,Problem Solving,Chandigarh,Sophomore,Computer Science,5.96,"Japanese, Spanish","Music Club, Debate Club, Sports Team",Biology
+Music Club,"Problem Solving, Data Analysis, Public Speaking, Programming, Artistic, Leadership",Dadra & Nagar Haveli and Daman & Diu,Graduate,Biology,6.66,"Japanese, Chinese, Spanish, German","Music Club, Sports Team",History
+Art Club,"Problem Solving, Programming",Delhi,Senior,History,4.32,"German, French, Spanish, Chinese, English, Japanese","Art Club, Debate Club, Volunteer Group, Sports Team, Music Club, Coding Club",Biology
+Art Club,"Data Analysis, Leadership, Public Speaking, Artistic, Programming, Problem Solving",Jammu & Kashmir,Junior,History,4.5,"Spanish, Japanese, English, French, Chinese, German","Debate Club, Volunteer Group, Music Club, Art Club, Coding Club, Sports Team",History
+Music Club,"Public Speaking, Artistic, Programming, Data Analysis, Leadership, Problem Solving",Ladakh,Senior,Physics,7.24,"Chinese, French, German, English","Coding Club, Music Club, Debate Club",Computer science
+Art Club,"Data Analysis, Problem Solving, Programming",Lakshadweep,Sophomore,History,5.34,"Chinese, English, French, Spanish",Music Club,Computer science
+Debate Club,"Programming, Problem Solving, Leadership",Puducherry,Junior,Physics,6.6,"English, French","Sports Team, Volunteer Group, Music Club, Debate Club, Art Club",History
+Sports Team,"Public Speaking, Artistic, Leadership, Data Analysis, Programming, Problem Solving",Bihar,Senior,Psychology,5.1,"Chinese, Spanish, English","Music Club, Sports Team, Coding Club, Art Club, Debate Club, Volunteer Group",Computer science
+Art Club,"Leadership, Artistic, Data Analysis, Programming",Chhattisgarh,Freshman,Mathematics,6.0,"English, French, Chinese, German","Art Club, Music Club, Debate Club, Coding Club",Computer science
+Art Club,"Problem Solving, Leadership, Data Analysis, Programming",Goa,Freshman,Biology,6.5,"Chinese, Japanese","Art Club, Coding Club, Volunteer Group, Debate Club",Mathematics
+Sports Team,"Public Speaking, Leadership, Artistic, Problem Solving, Data Analysis",Gujarat,Freshman,Biology,5.46,"Spanish, French, German, Chinese","Art Club, Volunteer Group, Music Club, Sports Team, Coding Club",History
+Music Club,"Data Analysis, Artistic, Problem Solving, Leadership, Public Speaking",Haryana,Junior,Physics,5.54,"French, Spanish, Chinese, English","Music Club, Sports Team, Art Club",Biology
+Sports Team,"Leadership, Public Speaking, Artistic",Himachal Pradesh,Senior,Mathematics,7.68,"German, Spanish, English, Japanese, French",Music Club,Mathematics
+Sports Team,"Artistic, Public Speaking, Problem Solving, Programming",Jharkhand,Sophomore,Psychology,7.78,"German, French",Sports Team,Computer science
+Art Club,"Leadership, Programming, Problem Solving, Artistic, Public Speaking, Data Analysis",Karnataka,Senior,Mathematics,5.54,"Spanish, Japanese, Chinese, French, English",Sports Team,Mathematics
+Art Club,"Problem Solving, Public Speaking, Programming, Artistic",Kerala,Junior,Mathematics,4.34,"Spanish, English, German","Volunteer Group, Coding Club, Music Club, Sports Team, Art Club",History
+Debate Club,"Programming, Data Analysis, Problem Solving, Public Speaking",Madhya Pradesh,Senior,Computer Science,6.02,"French, Chinese, Spanish, German","Music Club, Debate Club, Art Club, Sports Team",History
+Coding Club,"Programming, Problem Solving",Maharashtra,Graduate,Biology,4.36,English,"Debate Club, Coding Club, Sports Team, Music Club",History
+Volunteer Group,"Artistic, Problem Solving, Public Speaking, Leadership",Manipur,Senior,Computer Science,4.42,"German, Japanese, Chinese, French, English","Coding Club, Debate Club, Volunteer Group, Music Club, Sports Team",History
+Volunteer Group,"Problem Solving, Data Analysis, Leadership",Meghalaya,Sophomore,Biology,4.78,"Spanish, German","Sports Team, Art Club, Music Club, Debate Club, Volunteer Group, Coding Club",History
+Coding Club,Leadership,Mizoram,Graduate,History,5.78,Chinese,Coding Club,Mathematics
+Debate Club,Artistic,Nagaland,Sophomore,Physics,6.2,"Japanese, German","Debate Club, Volunteer Group",Mathematics
+Sports Team,Data Analysis,Odisha,Freshman,Computer Science,5.46,"English, Chinese","Art Club, Volunteer Group, Sports Team, Debate Club",History
+Sports Team,"Programming, Leadership, Problem Solving",Punjab,Freshman,History,6.3,"Chinese, Japanese, German","Music Club, Art Club, Coding Club, Sports Team",Biology
+Debate Club,Programming,Rajasthan,Freshman,Psychology,7.92,"Chinese, Japanese, Spanish, French","Coding Club, Sports Team, Volunteer Group, Art Club, Debate Club, Music Club",Mathematics
+Debate Club,Data Analysis,Sikkim,Graduate,Computer Science,5.38,"Chinese, German, Spanish","Coding Club, Debate Club, Volunteer Group, Art Club",Mathematics
+Sports Team,Data Analysis,Tamil Nadu,Freshman,Physics,7.66,"English, German, French, Japanese, Spanish","Art Club, Coding Club, Music Club, Volunteer Group, Sports Team",Computer science
+Debate Club,Data Analysis,Telangana,Graduate,Computer Science,6.26,"Japanese, English, Chinese, French, Spanish",Debate Club,Mathematics
+Debate Club,Leadership,Tripura,Graduate,Mathematics,5.38,"German, French, English, Chinese, Japanese","Sports Team, Debate Club, Volunteer Group",Computer science
+Music Club,"Data Analysis, Programming, Artistic, Public Speaking",Uttar Pradesh,Graduate,Mathematics,7.38,"Spanish, Chinese, French, Japanese, English, German","Coding Club, Music Club",Computer science
+Music Club,"Programming, Data Analysis, Public Speaking, Leadership",Uttarakhand,Graduate,Psychology,5.56,"English, German","Music Club, Volunteer Group, Coding Club, Sports Team",Mathematics
+Music Club,Artistic,West Bengal,Senior,History,4.22,"English, German, Spanish, Japanese","Coding Club, Debate Club, Art Club, Music Club",History
+Coding Club,"Data Analysis, Problem Solving",Andhra Pradesh,Graduate,Physics,6.54,"English, German, Japanese, Chinese, Spanish, French",Debate Club,Biology
+Sports Team,"Data Analysis, Public Speaking, Artistic",Arunachal Pradesh,Senior,Psychology,4.62,"English, German, Japanese","Coding Club, Debate Club, Sports Team, Art Club, Volunteer Group",History
+Sports Team,"Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis, Programming",Assam,Graduate,Mathematics,4.94,"French, Japanese, Chinese, English","Coding Club, Music Club, Sports Team, Volunteer Group, Art Club, Debate Club",Biology
+Sports Team,"Data Analysis, Artistic",Andaman & Nicobar Islands,Senior,Computer Science,6.22,Chinese,"Music Club, Art Club",Computer science
+Art Club,"Public Speaking, Leadership, Programming, Problem Solving",Chandigarh,Graduate,Psychology,7.7,"Spanish, Chinese","Sports Team, Coding Club",Computer science
+Debate Club,"Artistic, Programming, Leadership, Public Speaking, Problem Solving, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Freshman,Computer Science,7.32,"Japanese, Spanish",Volunteer Group,Computer science
+Art Club,"Leadership, Data Analysis, Problem Solving, Artistic, Programming",Delhi,Graduate,Physics,7.98,German,"Debate Club, Art Club",Mathematics
+Debate Club,"Leadership, Public Speaking, Data Analysis, Problem Solving",Jammu & Kashmir,Sophomore,Psychology,6.74,German,"Coding Club, Music Club, Art Club",History
+Debate Club,Public Speaking,Ladakh,Freshman,History,7.36,"Chinese, German, Japanese, Spanish, English, French","Debate Club, Coding Club, Volunteer Group, Art Club",Mathematics
+Art Club,"Problem Solving, Programming, Artistic, Public Speaking, Data Analysis",Lakshadweep,Graduate,Mathematics,5.24,"Chinese, English, Spanish, French","Art Club, Coding Club, Volunteer Group, Debate Club, Sports Team, Music Club",Mathematics
+Debate Club,"Leadership, Public Speaking, Programming, Data Analysis, Problem Solving",Puducherry,Graduate,Physics,6.14,"German, Chinese, English, Spanish, French","Art Club, Volunteer Group",History
+Music Club,"Leadership, Problem Solving, Programming, Artistic",Bihar,Junior,Biology,5.2,"English, German, Japanese, French, Spanish, Chinese",Volunteer Group,Computer science
+Coding Club,"Public Speaking, Artistic, Leadership, Programming",Chhattisgarh,Graduate,Computer Science,4.46,Japanese,"Music Club, Art Club, Sports Team, Coding Club, Debate Club, Volunteer Group",History
+Music Club,Public Speaking,Goa,Graduate,Psychology,7.92,Chinese,"Debate Club, Sports Team, Art Club",Mathematics
+Debate Club,"Problem Solving, Artistic, Data Analysis",Gujarat,Graduate,Computer Science,4.18,"French, German","Music Club, Coding Club, Sports Team, Debate Club, Art Club, Volunteer Group",History
+Coding Club,"Programming, Leadership, Data Analysis",Haryana,Sophomore,Mathematics,6.28,"Chinese, French, Japanese","Volunteer Group, Coding Club",History
+Art Club,"Public Speaking, Artistic",Himachal Pradesh,Graduate,Computer Science,7.0,German,"Coding Club, Debate Club, Music Club, Sports Team, Volunteer Group",Computer science
+Volunteer Group,"Leadership, Programming, Data Analysis",Jharkhand,Graduate,Computer Science,4.56,"Spanish, Japanese, Chinese, French, German","Volunteer Group, Art Club",History
+Volunteer Group,"Problem Solving, Artistic, Leadership, Programming, Data Analysis",Karnataka,Graduate,Computer Science,7.28,"French, Chinese, German, English, Japanese, Spanish","Sports Team, Music Club, Art Club",Mathematics
+Coding Club,"Public Speaking, Leadership",Kerala,Sophomore,Computer Science,7.82,"Spanish, German","Art Club, Sports Team, Coding Club, Debate Club, Music Club, Volunteer Group",Computer science
+Music Club,"Artistic, Public Speaking",Madhya Pradesh,Junior,Psychology,7.78,"German, English","Sports Team, Coding Club",Computer science
+Debate Club,"Leadership, Public Speaking, Data Analysis",Maharashtra,Senior,Biology,5.44,"Spanish, German, French, English",Art Club,Computer science
+Art Club,"Artistic, Public Speaking, Programming, Data Analysis, Problem Solving, Leadership",Manipur,Junior,Psychology,7.44,"French, Japanese",Debate Club,Mathematics
+Coding Club,"Leadership, Programming, Public Speaking, Problem Solving, Artistic, Data Analysis",Meghalaya,Sophomore,History,4.56,"Chinese, English, German, Japanese, Spanish","Volunteer Group, Art Club, Sports Team",Biology
+Debate Club,"Public Speaking, Leadership, Programming, Artistic, Data Analysis",Mizoram,Junior,Biology,6.68,"English, Spanish, Japanese, French, German","Volunteer Group, Art Club, Coding Club, Music Club",Computer science
+Sports Team,Artistic,Nagaland,Graduate,Mathematics,4.02,"English, Spanish, German, French, Japanese, Chinese","Coding Club, Debate Club, Music Club, Volunteer Group, Art Club, Sports Team",History
+Debate Club,"Public Speaking, Data Analysis, Artistic",Odisha,Freshman,Biology,6.6,"French, Spanish, Japanese, English","Debate Club, Music Club, Coding Club",Mathematics
+Debate Club,"Public Speaking, Data Analysis, Leadership, Problem Solving, Artistic",Punjab,Senior,Physics,4.58,"Chinese, English, French, Japanese","Volunteer Group, Music Club, Sports Team, Art Club, Coding Club, Debate Club",Biology
+Coding Club,"Artistic, Problem Solving",Rajasthan,Freshman,Psychology,4.04,French,"Art Club, Coding Club, Volunteer Group, Debate Club, Sports Team",History
+Volunteer Group,"Public Speaking, Problem Solving, Leadership, Programming, Artistic",Sikkim,Graduate,History,5.82,"Japanese, Spanish, Chinese, German, French, English","Music Club, Debate Club, Sports Team, Volunteer Group",Computer science
+Debate Club,Public Speaking,Tamil Nadu,Graduate,Biology,4.24,"English, French, Chinese, Spanish, German","Sports Team, Volunteer Group, Coding Club",History
+Music Club,"Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership, Programming",Telangana,Graduate,History,5.5,"Chinese, French, Japanese, German, Spanish","Art Club, Sports Team, Coding Club, Volunteer Group, Music Club",Mathematics
+Music Club,"Data Analysis, Programming",Tripura,Junior,Mathematics,7.92,"Chinese, English, German, French, Japanese, Spanish","Volunteer Group, Coding Club, Sports Team, Debate Club",Mathematics
+Sports Team,"Public Speaking, Data Analysis",Uttar Pradesh,Junior,Psychology,4.9,English,"Coding Club, Art Club, Music Club, Debate Club",History
+Volunteer Group,"Data Analysis, Programming, Public Speaking, Problem Solving, Artistic, Leadership",Uttarakhand,Sophomore,History,7.78,Chinese,"Music Club, Art Club",Computer science
+Art Club,"Public Speaking, Data Analysis, Artistic",West Bengal,Freshman,Physics,7.8,"German, English","Coding Club, Art Club, Debate Club, Volunteer Group, Music Club, Sports Team",Mathematics
+Music Club,"Data Analysis, Leadership, Problem Solving, Artistic",Andhra Pradesh,Freshman,Psychology,7.88,"Spanish, Chinese",Volunteer Group,Computer science
+Music Club,"Public Speaking, Artistic",Arunachal Pradesh,Sophomore,Biology,4.44,"German, Chinese, French, English, Japanese",Sports Team,History
+Volunteer Group,"Leadership, Problem Solving, Programming",Assam,Freshman,Physics,4.3,"English, Japanese",Volunteer Group,History
+Music Club,Leadership,Andaman & Nicobar Islands,Freshman,Physics,6.0,"German, Spanish","Art Club, Volunteer Group, Coding Club, Debate Club, Sports Team, Music Club",Mathematics
+Volunteer Group,"Problem Solving, Leadership, Data Analysis",Chandigarh,Freshman,History,5.36,"Chinese, German, Japanese, Spanish, English","Coding Club, Art Club, Debate Club, Music Club, Volunteer Group, Sports Team",History
+Art Club,"Data Analysis, Public Speaking, Problem Solving, Programming, Leadership",Dadra & Nagar Haveli and Daman & Diu,Freshman,Mathematics,4.74,"Spanish, Japanese, Chinese, French, German, English","Volunteer Group, Art Club",History
+Coding Club,"Leadership, Problem Solving, Artistic",Delhi,Sophomore,Mathematics,5.52,"German, Spanish, English, Chinese","Music Club, Coding Club",Biology
+Volunteer Group,Artistic,Jammu & Kashmir,Graduate,Biology,6.64,English,"Coding Club, Volunteer Group, Art Club, Debate Club, Sports Team, Music Club",Computer science
+Sports Team,Programming,Ladakh,Graduate,Computer Science,5.42,"Spanish, Chinese, Japanese","Music Club, Sports Team",Mathematics
+Art Club,"Problem Solving, Leadership, Data Analysis",Lakshadweep,Junior,Physics,7.6,"French, Chinese, Japanese, German, Spanish, English","Art Club, Music Club, Debate Club, Coding Club, Volunteer Group",Computer science
+Art Club,"Data Analysis, Public Speaking",Puducherry,Freshman,Psychology,7.78,"Spanish, Japanese, English",Volunteer Group,Computer science
+Sports Team,"Public Speaking, Artistic, Programming",Bihar,Freshman,Physics,5.16,"French, Japanese, Spanish",Coding Club,Computer science
+Sports Team,Problem Solving,Chhattisgarh,Sophomore,Biology,7.3,"German, Japanese",Art Club,Mathematics
+Sports Team,"Artistic, Data Analysis",Goa,Senior,Mathematics,4.98,"French, Chinese","Music Club, Debate Club, Art Club, Coding Club, Sports Team, Volunteer Group",History
+Music Club,"Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving, Programming",Gujarat,Sophomore,Physics,6.82,"Spanish, German","Music Club, Debate Club, Volunteer Group",History
+Art Club,"Problem Solving, Data Analysis",Haryana,Senior,Mathematics,6.18,Spanish,"Sports Team, Coding Club, Debate Club, Art Club, Music Club",Mathematics
+Music Club,Programming,Himachal Pradesh,Graduate,Computer Science,6.94,German,"Sports Team, Coding Club, Music Club, Debate Club, Art Club, Volunteer Group",History
+Art Club,"Artistic, Problem Solving, Programming, Public Speaking",Jharkhand,Senior,Computer Science,6.2,"German, Chinese, French","Music Club, Volunteer Group, Coding Club",Computer science
+Volunteer Group,"Artistic, Problem Solving, Leadership, Public Speaking",Karnataka,Freshman,Computer Science,7.44,Japanese,"Sports Team, Volunteer Group",Computer science
+Volunteer Group,"Problem Solving, Data Analysis, Programming, Public Speaking",Kerala,Graduate,History,6.02,English,"Volunteer Group, Music Club, Coding Club, Debate Club, Sports Team",Mathematics
+Coding Club,"Problem Solving, Public Speaking, Leadership",Madhya Pradesh,Junior,Computer Science,4.04,"Japanese, German, English, Chinese","Art Club, Debate Club, Coding Club, Music Club, Volunteer Group, Sports Team",History
+Music Club,"Problem Solving, Programming, Artistic, Leadership",Maharashtra,Junior,Psychology,5.78,"German, French, Chinese","Art Club, Music Club, Coding Club, Volunteer Group, Sports Team",Biology
+Coding Club,"Problem Solving, Public Speaking, Artistic, Programming",Manipur,Graduate,Mathematics,4.28,"French, Japanese, German, Spanish","Volunteer Group, Sports Team",Biology
+Sports Team,"Artistic, Data Analysis, Programming, Problem Solving, Leadership",Meghalaya,Freshman,Mathematics,6.98,"Spanish, German, English, Chinese, Japanese","Sports Team, Debate Club, Volunteer Group, Music Club, Coding Club",Computer science
+Volunteer Group,"Data Analysis, Programming, Artistic, Public Speaking, Leadership",Mizoram,Sophomore,Computer Science,4.32,"Spanish, Japanese, English, Chinese, German","Music Club, Debate Club, Coding Club, Art Club, Volunteer Group",History
+Coding Club,"Data Analysis, Leadership, Programming, Problem Solving",Nagaland,Graduate,History,5.14,"Chinese, Spanish, English, Japanese, German, French","Debate Club, Coding Club, Sports Team, Music Club",Mathematics
+Coding Club,"Problem Solving, Data Analysis, Leadership, Programming, Artistic",Odisha,Graduate,Biology,7.14,"French, German, Chinese, Japanese, Spanish, English",Art Club,Computer science
+Debate Club,Public Speaking,Punjab,Graduate,Psychology,5.0,French,"Sports Team, Coding Club, Debate Club, Music Club, Volunteer Group",Mathematics
+Sports Team,"Artistic, Data Analysis, Problem Solving, Leadership, Programming",Rajasthan,Sophomore,Biology,6.64,"Spanish, Chinese","Volunteer Group, Music Club, Art Club",Mathematics
+Music Club,"Problem Solving, Artistic",Sikkim,Sophomore,Mathematics,7.46,"Chinese, English, Spanish, Japanese, French, German","Coding Club, Debate Club, Art Club, Music Club, Sports Team, Volunteer Group",Computer science
+Sports Team,"Problem Solving, Leadership, Programming, Artistic, Data Analysis",Tamil Nadu,Freshman,Mathematics,5.54,"French, Chinese, Japanese","Art Club, Debate Club, Music Club, Volunteer Group",Mathematics
+Sports Team,"Leadership, Problem Solving, Programming, Public Speaking, Artistic, Data Analysis",Telangana,Sophomore,Mathematics,6.96,"French, Chinese, Spanish","Music Club, Art Club",Biology
+Sports Team,"Public Speaking, Problem Solving, Programming, Data Analysis",Tripura,Junior,Biology,5.0,"French, English","Volunteer Group, Sports Team, Music Club, Debate Club, Coding Club",Biology
+Coding Club,"Problem Solving, Leadership, Data Analysis, Artistic",Uttar Pradesh,Sophomore,Computer Science,4.84,"Japanese, Spanish, French, German, Chinese, English","Coding Club, Sports Team, Art Club, Music Club",History
+Coding Club,"Artistic, Programming, Data Analysis, Leadership, Problem Solving, Public Speaking",Uttarakhand,Senior,Physics,4.14,"Chinese, Spanish","Volunteer Group, Music Club, Art Club",History
+Music Club,"Leadership, Public Speaking",West Bengal,Sophomore,History,6.36,"German, French, Chinese, Spanish, Japanese, English","Volunteer Group, Art Club, Sports Team, Coding Club, Music Club",Computer science
+Volunteer Group,"Public Speaking, Data Analysis",Andhra Pradesh,Senior,Biology,7.36,"German, Japanese, Chinese, English, Spanish","Coding Club, Debate Club, Volunteer Group, Sports Team, Music Club, Art Club",Computer science
+Debate Club,"Data Analysis, Public Speaking, Leadership, Programming, Problem Solving, Artistic",Arunachal Pradesh,Freshman,Computer Science,6.96,"Spanish, French, English","Coding Club, Art Club, Music Club, Volunteer Group, Sports Team",Biology
+Art Club,Public Speaking,Assam,Freshman,Psychology,4.46,"Japanese, Spanish, Chinese, French","Coding Club, Music Club",History
+Coding Club,"Leadership, Programming, Data Analysis, Problem Solving, Public Speaking",Andaman & Nicobar Islands,Freshman,Mathematics,6.58,"English, German","Art Club, Coding Club, Music Club, Sports Team, Volunteer Group",Computer science
+Debate Club,"Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis, Programming",Chandigarh,Sophomore,Mathematics,7.0,"French, English, Japanese, Chinese, Spanish, German","Sports Team, Coding Club, Art Club",Mathematics
+Debate Club,"Data Analysis, Artistic, Problem Solving, Public Speaking, Programming",Dadra & Nagar Haveli and Daman & Diu,Sophomore,Physics,5.84,"German, Spanish, Chinese",Sports Team,Computer science
+Art Club,"Data Analysis, Leadership, Public Speaking, Programming, Problem Solving, Artistic",Delhi,Sophomore,Biology,6.78,"Japanese, German",Music Club,Computer science
+Volunteer Group,"Artistic, Programming",Jammu & Kashmir,Senior,Mathematics,6.64,"English, French","Volunteer Group, Music Club, Sports Team",Computer science
+Music Club,"Programming, Leadership, Data Analysis",Ladakh,Senior,Mathematics,5.48,"Chinese, English, German, Japanese","Sports Team, Debate Club, Volunteer Group, Coding Club, Art Club, Music Club",History
+Art Club,"Public Speaking, Artistic, Programming",Lakshadweep,Senior,Computer Science,7.4,"English, Chinese","Volunteer Group, Debate Club, Art Club",Mathematics
+Music Club,"Programming, Artistic, Problem Solving, Public Speaking",Puducherry,Junior,Computer Science,7.38,"French, English, Chinese, German, Japanese",Sports Team,Mathematics
+Coding Club,"Public Speaking, Data Analysis, Problem Solving",Bihar,Sophomore,Psychology,7.46,"Chinese, German, Spanish","Coding Club, Art Club",Mathematics
+Coding Club,"Data Analysis, Leadership, Problem Solving",Chhattisgarh,Junior,Psychology,6.9,Japanese,"Coding Club, Art Club, Music Club",History
+Music Club,Leadership,Goa,Junior,Psychology,7.92,"German, Japanese","Coding Club, Sports Team, Volunteer Group",Mathematics
+Sports Team,"Data Analysis, Leadership, Programming, Artistic",Gujarat,Sophomore,Biology,5.94,"English, German, Japanese",Debate Club,History
+Volunteer Group,"Programming, Public Speaking",Haryana,Junior,Physics,7.56,"Spanish, English",Debate Club,Computer science
+Volunteer Group,"Artistic, Data Analysis, Public Speaking, Leadership",Himachal Pradesh,Junior,Mathematics,6.84,"Chinese, Spanish","Music Club, Art Club, Debate Club, Sports Team, Coding Club",Biology
+Art Club,"Problem Solving, Artistic, Leadership",Jharkhand,Junior,Biology,4.3,"Spanish, French, Japanese, Chinese, English",Sports Team,History
+Coding Club,"Data Analysis, Problem Solving, Artistic, Programming, Public Speaking",Karnataka,Sophomore,Computer Science,7.14,"Spanish, Japanese, German, Chinese, English","Volunteer Group, Sports Team, Music Club, Debate Club, Coding Club, Art Club",Computer science
+Coding Club,"Artistic, Problem Solving, Data Analysis, Programming, Leadership",Kerala,Freshman,Computer Science,5.42,"Japanese, Chinese","Art Club, Music Club",Computer science
+Sports Team,"Public Speaking, Artistic",Madhya Pradesh,Senior,History,7.1,"English, Japanese, Spanish, French","Music Club, Coding Club",Mathematics
+Coding Club,"Artistic, Programming, Leadership",Maharashtra,Graduate,Physics,7.14,"French, Spanish, English, German, Japanese, Chinese","Coding Club, Debate Club, Volunteer Group, Sports Team, Art Club",Mathematics
+Volunteer Group,"Data Analysis, Public Speaking, Artistic",Manipur,Graduate,Computer Science,5.58,"English, Japanese","Music Club, Coding Club, Sports Team, Volunteer Group",Computer science
+Sports Team,"Leadership, Artistic, Problem Solving, Programming, Data Analysis, Public Speaking",Meghalaya,Graduate,Biology,4.58,"German, Spanish, French, English","Debate Club, Sports Team, Music Club, Coding Club, Volunteer Group, Art Club",History
+Volunteer Group,Data Analysis,Mizoram,Graduate,Computer Science,4.24,"Spanish, Japanese, German, French, English, Chinese","Sports Team, Debate Club, Music Club, Coding Club, Art Club",History
+Debate Club,"Artistic, Leadership, Data Analysis, Programming, Public Speaking",Nagaland,Sophomore,Physics,7.14,"Japanese, French, English","Music Club, Coding Club",Mathematics
+Sports Team,"Data Analysis, Leadership, Artistic",Odisha,Senior,Computer Science,4.1,"Japanese, Spanish","Volunteer Group, Sports Team, Coding Club, Music Club, Debate Club, Art Club",History
+Debate Club,"Data Analysis, Problem Solving",Punjab,Senior,Biology,5.04,Chinese,"Coding Club, Music Club, Volunteer Group, Art Club, Debate Club, Sports Team",Biology
+Music Club,"Leadership, Programming",Rajasthan,Senior,History,4.08,"Chinese, Spanish, German, Japanese, English",Debate Club,Biology
+Debate Club,"Problem Solving, Programming",Sikkim,Freshman,Psychology,4.16,"Japanese, German, French","Music Club, Volunteer Group, Sports Team, Art Club, Coding Club, Debate Club",History
+Sports Team,Problem Solving,Tamil Nadu,Freshman,Computer Science,5.54,"Spanish, Chinese","Sports Team, Volunteer Group, Art Club, Coding Club",History
+Sports Team,"Problem Solving, Public Speaking, Artistic, Data Analysis",Telangana,Freshman,Physics,7.64,"English, Japanese, French, Spanish, German, Chinese","Sports Team, Coding Club, Debate Club, Volunteer Group, Art Club, Music Club",Computer science
+Coding Club,Problem Solving,Tripura,Graduate,Physics,5.88,"English, German","Art Club, Debate Club, Coding Club, Volunteer Group, Sports Team, Music Club",Computer science
+Debate Club,"Leadership, Problem Solving, Artistic, Public Speaking, Data Analysis",Uttar Pradesh,Sophomore,Psychology,6.06,"Spanish, English, French, Japanese, Chinese","Volunteer Group, Art Club, Sports Team, Music Club, Debate Club",Mathematics
+Debate Club,Leadership,Uttarakhand,Junior,Mathematics,4.68,"English, Spanish, Japanese, French, German","Art Club, Sports Team, Music Club, Coding Club, Debate Club, Volunteer Group",Biology
+Sports Team,"Data Analysis, Programming, Leadership",West Bengal,Freshman,Physics,7.82,German,"Sports Team, Debate Club, Volunteer Group, Coding Club, Music Club, Art Club",Computer science
+Volunteer Group,"Artistic, Problem Solving, Programming",Andhra Pradesh,Freshman,Mathematics,7.92,"English, Spanish, German, Japanese, Chinese","Art Club, Volunteer Group, Music Club",Computer science
+Coding Club,"Artistic, Programming, Public Speaking",Arunachal Pradesh,Senior,Biology,6.08,"Spanish, English, Chinese, French, Japanese",Volunteer Group,Computer science
+Music Club,Problem Solving,Assam,Graduate,Biology,6.64,"Chinese, English, German, French, Spanish, Japanese","Volunteer Group, Debate Club, Coding Club, Music Club, Art Club",Computer science
+Volunteer Group,"Leadership, Artistic, Data Analysis",Andaman & Nicobar Islands,Freshman,History,5.94,"Japanese, French, English",Art Club,History
+Music Club,Artistic,Chandigarh,Sophomore,Biology,4.66,"Spanish, French, Chinese","Volunteer Group, Sports Team, Coding Club, Music Club, Debate Club, Art Club",History
+Sports Team,"Leadership, Programming, Artistic, Data Analysis",Dadra & Nagar Haveli and Daman & Diu,Senior,Mathematics,6.46,"English, French, German, Spanish, Japanese","Volunteer Group, Debate Club",Computer science
+Debate Club,"Public Speaking, Data Analysis, Programming, Problem Solving, Artistic",Delhi,Freshman,History,4.42,"Japanese, English, Chinese, Spanish","Debate Club, Coding Club, Sports Team, Art Club, Music Club, Volunteer Group",History
+Sports Team,"Leadership, Artistic, Data Analysis",Jammu & Kashmir,Junior,Physics,5.46,"Japanese, French, English, Chinese, Spanish, German","Art Club, Debate Club, Sports Team, Music Club, Volunteer Group, Coding Club",Biology
+Debate Club,"Programming, Public Speaking",Ladakh,Freshman,Computer Science,6.76,"French, German, Japanese, English, Chinese, Spanish","Art Club, Coding Club",History
+Sports Team,"Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic, Programming",Lakshadweep,Sophomore,Mathematics,5.48,"Spanish, French, Japanese","Art Club, Music Club, Coding Club",Biology
+Debate Club,"Problem Solving, Artistic",Puducherry,Graduate,Biology,5.58,"French, Chinese, Spanish","Art Club, Music Club",Mathematics
+Sports Team,"Leadership, Programming",Bihar,Senior,Mathematics,4.66,"German, French, Japanese, English, Spanish, Chinese","Coding Club, Art Club, Music Club",History
+Sports Team,"Programming, Public Speaking, Problem Solving, Leadership",Chhattisgarh,Freshman,Biology,5.4,"French, English, Spanish",Music Club,History
+Art Club,"Data Analysis, Public Speaking, Leadership, Problem Solving",Goa,Sophomore,History,4.22,"Spanish, French","Art Club, Debate Club",History
+Art Club,"Artistic, Leadership, Problem Solving, Data Analysis, Programming, Public Speaking",Gujarat,Senior,Biology,4.44,"Japanese, English, French","Art Club, Music Club",Biology
+Sports Team,"Data Analysis, Leadership, Public Speaking",Haryana,Junior,Psychology,7.42,"German, Spanish","Music Club, Art Club, Debate Club",Computer science
+Sports Team,"Leadership, Problem Solving, Public Speaking, Programming, Artistic, Data Analysis",Himachal Pradesh,Sophomore,Physics,6.4,"French, Japanese, Chinese, Spanish, German","Sports Team, Debate Club, Volunteer Group, Coding Club, Art Club",Computer science
+Sports Team,"Leadership, Data Analysis, Programming, Artistic",Jharkhand,Graduate,Computer Science,6.44,German,Music Club,Mathematics
+Sports Team,"Data Analysis, Programming, Problem Solving, Artistic, Leadership, Public Speaking",Karnataka,Graduate,Psychology,5.22,"Chinese, Spanish, German, French, English",Art Club,Mathematics
+Art Club,"Artistic, Data Analysis",Kerala,Sophomore,Computer Science,7.78,"Spanish, German","Art Club, Music Club, Sports Team, Debate Club, Coding Club",Mathematics
+Volunteer Group,"Public Speaking, Programming",Madhya Pradesh,Junior,Biology,4.96,"Spanish, Japanese, Chinese, German, French, English","Sports Team, Volunteer Group, Art Club, Music Club, Debate Club",History
+Sports Team,"Artistic, Programming",Maharashtra,Senior,Mathematics,4.46,French,"Art Club, Sports Team, Coding Club",History
+Coding Club,"Programming, Artistic, Data Analysis, Problem Solving, Public Speaking",Manipur,Junior,Biology,4.86,"Spanish, Chinese, Japanese, English, German","Music Club, Sports Team, Art Club, Debate Club",History
+Art Club,Leadership,Meghalaya,Senior,Biology,6.62,"German, English, Japanese, Chinese, Spanish","Coding Club, Volunteer Group, Music Club, Debate Club",Biology
+Music Club,"Artistic, Problem Solving",Mizoram,Sophomore,Computer Science,7.62,"Japanese, German, English, Chinese",Debate Club,Computer science
+Art Club,"Leadership, Programming, Public Speaking, Artistic, Data Analysis",Nagaland,Freshman,History,4.52,"German, Chinese, English, French, Spanish","Art Club, Sports Team, Debate Club, Coding Club, Music Club, Volunteer Group",Biology
+Coding Club,"Data Analysis, Artistic",Odisha,Sophomore,Mathematics,5.72,"Chinese, Spanish, Japanese, French, English, German",Coding Club,History
+Music Club,"Problem Solving, Programming, Public Speaking, Data Analysis, Leadership, Artistic",Punjab,Graduate,Mathematics,6.4,Japanese,"Music Club, Volunteer Group, Coding Club, Art Club, Debate Club, Sports Team",History
+Sports Team,"Leadership, Data Analysis, Programming, Public Speaking, Artistic",Rajasthan,Sophomore,Biology,5.06,"Chinese, French, English, Spanish, Japanese, German","Art Club, Debate Club",Biology
+Debate Club,"Data Analysis, Public Speaking, Problem Solving, Programming, Artistic, Leadership",Sikkim,Senior,Biology,5.12,"German, French, Chinese","Volunteer Group, Sports Team",Biology
+Volunteer Group,"Problem Solving, Public Speaking",Tamil Nadu,Senior,Psychology,7.24,"English, Japanese","Volunteer Group, Sports Team, Music Club, Art Club, Debate Club, Coding Club",Mathematics
+Volunteer Group,"Data Analysis, Public Speaking, Artistic, Leadership",Telangana,Freshman,Mathematics,7.16,Spanish,Sports Team,Mathematics
+Volunteer Group,"Data Analysis, Problem Solving, Artistic",Tripura,Sophomore,Physics,6.16,"Chinese, English, French, German, Spanish","Coding Club, Debate Club",Biology
+Art Club,"Artistic, Data Analysis, Programming, Problem Solving, Leadership, Public Speaking",Uttar Pradesh,Sophomore,Biology,4.82,"English, French","Music Club, Coding Club, Art Club, Sports Team, Volunteer Group, Debate Club",History
+Sports Team,"Data Analysis, Leadership, Artistic, Programming, Public Speaking",Uttarakhand,Junior,Psychology,5.3,"German, French, Chinese, Spanish","Music Club, Art Club, Sports Team, Volunteer Group, Coding Club, Debate Club",Computer science
+Music Club,"Artistic, Leadership, Problem Solving, Public Speaking, Data Analysis, Programming",West Bengal,Graduate,History,4.68,Japanese,"Coding Club, Sports Team",Biology
+Coding Club,"Leadership, Data Analysis, Artistic",Andhra Pradesh,Sophomore,Psychology,4.24,"Spanish, English, French","Volunteer Group, Debate Club, Art Club",Biology
+Music Club,"Public Speaking, Problem Solving, Data Analysis",Arunachal Pradesh,Junior,Physics,7.04,"German, Chinese, French, Japanese","Music Club, Volunteer Group, Coding Club",Computer science
+Sports Team,"Public Speaking, Programming",Assam,Graduate,Biology,5.1,"German, Japanese, Spanish, French, Chinese, English",Sports Team,Mathematics
+Sports Team,"Public Speaking, Leadership, Programming, Artistic",Andaman & Nicobar Islands,Graduate,Computer Science,4.5,"Spanish, German, English","Volunteer Group, Music Club, Art Club",History
+Volunteer Group,"Public Speaking, Leadership, Problem Solving, Artistic, Programming",Chandigarh,Sophomore,History,4.94,"Chinese, German","Volunteer Group, Art Club",Biology
+Coding Club,"Artistic, Programming",Dadra & Nagar Haveli and Daman & Diu,Senior,Physics,5.42,"French, German, Japanese, English, Spanish",Coding Club,Biology
+Volunteer Group,"Problem Solving, Leadership",Delhi,Freshman,Mathematics,7.06,"English, Spanish, Japanese","Music Club, Coding Club, Sports Team, Debate Club, Art Club, Volunteer Group",Mathematics
+Music Club,Leadership,Jammu & Kashmir,Junior,History,5.96,"Chinese, French, German","Coding Club, Art Club, Volunteer Group, Music Club, Debate Club, Sports Team",Computer science
+Volunteer Group,"Problem Solving, Public Speaking, Programming, Leadership, Data Analysis",Ladakh,Senior,Psychology,5.58,"English, Japanese, French, German, Chinese, Spanish","Volunteer Group, Art Club, Debate Club",Mathematics
+Coding Club,"Problem Solving, Public Speaking, Programming, Data Analysis, Artistic",Lakshadweep,Graduate,Biology,6.4,"French, Japanese, English, Spanish, German, Chinese","Debate Club, Volunteer Group, Coding Club, Music Club, Art Club, Sports Team",Mathematics
+Sports Team,"Leadership, Public Speaking, Programming",Puducherry,Freshman,Mathematics,7.1,Chinese,"Art Club, Coding Club, Sports Team, Music Club, Volunteer Group",Mathematics
+Sports Team,"Leadership, Programming, Data Analysis, Artistic, Problem Solving",Bihar,Freshman,Psychology,5.2,"Spanish, Chinese, English, German, French",Art Club,Computer science
+Debate Club,"Data Analysis, Leadership, Public Speaking, Problem Solving, Programming, Artistic",Chhattisgarh,Senior,Psychology,5.32,"English, Chinese, German","Music Club, Volunteer Group, Debate Club, Art Club, Coding Club",Biology
+Coding Club,"Leadership, Programming, Artistic, Data Analysis, Problem Solving",Goa,Junior,Mathematics,5.12,"German, English, Chinese, Japanese, French, Spanish","Art Club, Coding Club, Sports Team, Volunteer Group",Biology
+Volunteer Group,"Public Speaking, Problem Solving",Gujarat,Senior,Mathematics,7.22,Chinese,"Music Club, Sports Team, Debate Club, Art Club",Mathematics
+Coding Club,Programming,Haryana,Junior,Computer Science,6.02,"German, Chinese, English","Sports Team, Volunteer Group, Art Club, Debate Club, Coding Club, Music Club",Mathematics
+Art Club,"Leadership, Data Analysis, Artistic, Problem Solving",Himachal Pradesh,Freshman,Mathematics,5.94,"Spanish, German","Music Club, Volunteer Group",Mathematics
+Sports Team,"Problem Solving, Data Analysis, Public Speaking, Programming",Jharkhand,Senior,Psychology,5.2,"Spanish, Chinese, English, Japanese, French","Sports Team, Art Club, Debate Club, Music Club",Biology
+Sports Team,"Programming, Problem Solving",Karnataka,Sophomore,Mathematics,6.74,"Japanese, English","Music Club, Volunteer Group",Mathematics
+Sports Team,"Problem Solving, Leadership",Kerala,Sophomore,Mathematics,4.12,"Chinese, English","Debate Club, Volunteer Group, Art Club, Sports Team, Coding Club, Music Club",Biology
+Music Club,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic",Madhya Pradesh,Sophomore,Computer Science,5.94,"French, English, Spanish, Chinese, German","Sports Team, Music Club",History
+Sports Team,"Data Analysis, Artistic",Maharashtra,Senior,Mathematics,6.46,German,"Sports Team, Music Club, Debate Club, Coding Club, Art Club, Volunteer Group",Computer science
+Sports Team,"Data Analysis, Leadership, Programming, Artistic, Problem Solving, Public Speaking",Manipur,Senior,History,4.52,"Spanish, Chinese, English","Art Club, Music Club, Debate Club, Sports Team",Biology
+Sports Team,"Leadership, Artistic, Programming, Public Speaking, Data Analysis, Problem Solving",Meghalaya,Freshman,Mathematics,4.42,"French, Chinese, English","Debate Club, Volunteer Group, Music Club, Sports Team, Coding Club, Art Club",Biology
+Art Club,"Data Analysis, Leadership",Mizoram,Graduate,Biology,7.24,"Spanish, German, Chinese","Music Club, Volunteer Group, Coding Club, Art Club, Sports Team",Mathematics
+Volunteer Group,"Public Speaking, Programming, Artistic, Leadership, Problem Solving, Data Analysis",Nagaland,Junior,Biology,6.18,"Spanish, German, Japanese, Chinese, French","Art Club, Volunteer Group, Debate Club, Coding Club",Mathematics
+Sports Team,"Public Speaking, Data Analysis, Artistic, Leadership, Problem Solving",Odisha,Graduate,Psychology,6.34,German,"Coding Club, Sports Team, Music Club",Computer science
+Coding Club,Public Speaking,Punjab,Freshman,Physics,4.32,"Japanese, Spanish, Chinese, French, German","Sports Team, Art Club",History
