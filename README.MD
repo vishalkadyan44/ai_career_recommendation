@@ -106,9 +106,6 @@ Run the app using:
 
 ## Application
 
-1. Install requirements:
-
-
 
 1. Install requirements:
  ```bash
