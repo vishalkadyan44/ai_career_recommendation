@@ -103,5 +103,15 @@ Evaluation results and plots are stored in:
 A simple **Streamlit-based application** is included to demonstrate model inference on new inputs.
 
 Run the app using:
-```bash
-streamlit run app_streamlit.py
+
+## Application
+
+1. Install requirements:
+
+
+
+1. Install requirements:
+ ```bash
+   pip install -r requirements.txt
+
+   streamlit run app_streamlit.py 
